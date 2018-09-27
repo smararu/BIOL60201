@@ -1,0 +1,144 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1eca.pdb                                                                        
+ 1ECA  OXYGEN TRANSPORT  HEMOGLOBIN (ERYTHROCRUORIN, AQUO MET)  (CHIRONOMOUS THUMMI THUMMI) (FRACTION III)  
+ Sequence length -  136
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   LEU L  
+    2     2   SER S H
+    3     3   ALA A H
+    4     4   ASP D H
+    5     5   GLN Q H
+    6     6   ILE I H
+    7     7   SER S H
+    8     8   THR T H
+    9     9   VAL V H
+   10    10   GLN Q H
+   11    11   ALA A H
+   12    12   SER S H
+   13    13   PHE F H
+   14    14   ASP D H
+   15    15   LYS K H
+   16    16   VAL V H
+   17    17   LYS K H
+   18    18   GLY G  
+   19    19   ASP D H
+   20    20   PRO P H
+   21    21   VAL V H
+   22    22   GLY G H
+   23    23   ILE I H
+   24    24   LEU L H
+   25    25   TYR Y H
+   26    26   ALA A H
+   27    27   VAL V H
+   28    28   PHE F H
+   29    29   LYS K H
+   30    30   ALA A H
+   31    31   ASP D H
+   32    32   PRO P G
+   33    33   SER S G
+   34    34   ILE I G
+   35    35   MET M G
+   36    36   ALA A G
+   37    37   LYS K G
+   38    38   PHE F G
+   39    39   THR T  
+   40    40   GLN Q  
+   41    41   PHE F  
+   42    42   ALA A  
+   43    43   GLY G  
+   44    44   LYS K  
+   45    45   ASP D H
+   46    46   LEU L H
+   47    47   GLU E H
+   48    48   SER S H
+   49    49   ILE I H
+   50    50   LYS K H
+   51    51   GLY G  
+   52    52   THR T H
+   53    53   ALA A H
+   54    54   PRO P H
+   55    55   PHE F H
+   56    56   GLU E H
+   57    57   THR T H
+   58    58   HIS H H
+   59    59   ALA A H
+   60    60   ASN N H
+   61    61   ARG R H
+   62    62   ILE I H
+   63    63   VAL V H
+   64    64   GLY G H
+   65    65   PHE F H
+   66    66   PHE F H
+   67    67   SER S H
+   68    68   LYS K H
+   69    69   ILE I H
+   70    70   ILE I H
+   71    71   GLY G H
+   72    72   GLU E H
+   73    73   LEU L  
+   74    74   PRO P  
+   75    75   ASN N  
+   76    76   ILE I H
+   77    77   GLU E H
+   78    78   ALA A H
+   79    79   ASP D H
+   80    80   VAL V H
+   81    81   ASN N H
+   82    82   THR T H
+   83    83   PHE F H
+   84    84   VAL V H
+   85    85   ALA A H
+   86    86   SER S H
+   87    87   HIS H H
+   88    88   LYS K H
+   89    89   PRO P G
+   90    90   ARG R G
+   91    91   GLY G G
+   92    92   VAL V  
+   93    93   THR T H
+   94    94   HIS H H
+   95    95   ASP D H
+   96    96   GLN Q H
+   97    97   LEU L H
+   98    98   ASN N H
+   99    99   ASN N H
+  100   100   PHE F H
+  101   101   ARG R H
+  102   102   ALA A H
+  103   103   GLY G H
+  104   104   PHE F H
+  105   105   VAL V H
+  106   106   SER S H
+  107   107   TYR Y H
+  108   108   MET M H
+  109   109   LYS K H
+  110   110   ALA A H
+  111   111   HIS H H
+  112   112   THR T H
+  113   113   ASP D  
+  114   114   PHE F  
+  115   115   ALA A  
+  116   116   GLY G  
+  117   117   ALA A H
+  118   118   GLU E H
+  119   119   ALA A H
+  120   120   ALA A H
+  121   121   TRP W H
+  122   122   GLY G H
+  123   123   ALA A H
+  124   124   THR T H
+  125   125   LEU L H
+  126   126   ASP D H
+  127   127   THR T H
+  128   128   PHE F H
+  129   129   PHE F H
+  130   130   GLY G H
+  131   131   MET M H
+  132   132   ILE I H
+  133   133   PHE F H
+  134   134   SER S  
+  135   135   LYS K  
+  136   136   MET M  
+ 

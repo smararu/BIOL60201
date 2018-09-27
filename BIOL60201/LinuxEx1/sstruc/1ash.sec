@@ -1,0 +1,155 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1ash.pdb                                                                        
+ 1ASH  OXYGEN STORAGE  HEMOGLOBIN (DOMAIN ONE)  (ASCARIS SUUM) RECOMBINANT FORM EXPRESSED IN  
+ Sequence length -  147
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     0   ALA A  
+    2     1   ASN N H
+    3     2   LYS K H
+    4     3   THR T H
+    5     4   ARG R H
+    6     5   GLU E H
+    7     6   LEU L H
+    8     7   CYS C H
+    9     8   MET M H
+   10     9   LYS K H
+   11    10   SER S H
+   12    11   LEU L H
+   13    12   GLU E H
+   14    13   HIS H H
+   15    14   ALA A  
+   16    15   LYS K  
+   17    16   VAL V  
+   18    17   ASP D  
+   19    18   THR T  
+   20    19   SER S  
+   21    20   ASN N H
+   22    21   GLU E H
+   23    22   ALA A H
+   24    23   ARG R H
+   25    24   GLN Q H
+   26    25   ASP D H
+   27    26   GLY G H
+   28    27   ILE I H
+   29    28   ASP D H
+   30    29   LEU L H
+   31    30   TYR Y H
+   32    31   LYS K H
+   33    32   HIS H H
+   34    33   MET M H
+   35    34   PHE F H
+   36    35   GLU E H
+   37    36   ASN N H
+   38    37   TYR Y  
+   39    38   PRO P G
+   40    39   PRO P G
+   41    40   LEU L G
+   42    41   ARG R G
+   43    42   LYS K G
+   44    43   TYR Y G
+   45    44   PHE F  
+   46    45   LYS K  
+   47    46   SER S  
+   48    47   ARG R  
+   49    48   GLU E  
+   50    49   GLU E  
+   51    50   TYR Y  
+   52    51   THR T  
+   53    52   ALA A H
+   54    53   GLU E H
+   55    54   ASP D H
+   56    55   VAL V H
+   57    56   GLN Q H
+   58    57   ASN N H
+   59    58   ASP D  
+   60    59   PRO P H
+   61    60   PHE F H
+   62    61   PHE F H
+   63    62   ALA A H
+   64    63   LYS K H
+   65    64   GLN Q H
+   66    65   GLY G H
+   67    66   GLN Q H
+   68    67   LYS K H
+   69    68   ILE I H
+   70    69   LEU L H
+   71    70   LEU L H
+   72    71   ALA A H
+   73    72   CYS C H
+   74    73   HIS H H
+   75    74   VAL V H
+   76    75   LEU L H
+   77    76   CYS C H
+   78    77   ALA A H
+   79    78   THR T  
+   80    79   TYR Y  
+   81    80   ASP D  
+   82    81   ASP D  
+   83    82   ARG R H
+   84    83   GLU E H
+   85    84   THR T H
+   86    85   PHE F H
+   87    86   ASN N H
+   88    87   ALA A H
+   89    88   TYR Y H
+   90    89   THR T H
+   91    90   ARG R H
+   92    91   GLU E H
+   93    92   LEU L H
+   94    93   LEU L H
+   95    94   ASP D H
+   96    95   ARG R H
+   97    96   HIS H H
+   98    97   ALA A H
+   99    98   ARG R H
+  100    99   ASP D H
+  101   100   HIS H  
+  102   101   VAL V  
+  103   102   HIS H  
+  104   103   MET M  
+  105   104   PRO P  
+  106   105   PRO P H
+  107   106   GLU E H
+  108   107   VAL V H
+  109   108   TRP W H
+  110   109   THR T H
+  111   110   ASP D H
+  112   111   PHE F H
+  113   112   TRP W H
+  114   113   LYS K H
+  115   114   LEU L H
+  116   115   PHE F H
+  117   116   GLU E H
+  118   117   GLU E H
+  119   118   TYR Y H
+  120   119   LEU L H
+  121   120   GLY G H
+  122   121   LYS K H
+  123   122   LYS K H
+  124   123   THR T  
+  125   124   THR T  
+  126   125   LEU L  
+  127   126   ASP D  
+  128   127   GLU E H
+  129   128   PRO P H
+  130   129   THR T H
+  131   130   LYS K H
+  132   131   GLN Q H
+  133   132   ALA A H
+  134   133   TRP W H
+  135   134   HIS H H
+  136   135   GLU E H
+  137   136   ILE I H
+  138   137   GLY G H
+  139   138   ARG R H
+  140   139   GLU E H
+  141   140   PHE F H
+  142   141   ALA A H
+  143   142   LYS K H
+  144   143   GLU E H
+  145   144   ILE I H
+  146   145   ASN N  
+  147   146   LYS K  
+ 

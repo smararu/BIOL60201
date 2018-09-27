@@ -1,0 +1,155 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 2hbg.pdb                                                                        
+ 2HBG  OXYGEN TRANSPORT  HEMOGLOBIN (DEOXY)  MARINE BLOODWORM (GLYCERA $DIBRANCHIATA)  
+ Sequence length -  147
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   GLY G  
+    2     2   LEU L  
+    3     3   SER S H
+    4     4   ALA A H
+    5     5   ALA A H
+    6     6   GLN Q H
+    7     7   ARG R H
+    8     8   GLN Q H
+    9     9   VAL V H
+   10    10   ILE I H
+   11    11   ALA A H
+   12    12   ALA A H
+   13    13   THR T H
+   14    14   TRP W H
+   15    15   LYS K H
+   16    16   ASP D H
+   17    17   ILE I H
+   18    18   ALA A H
+   19    19   GLY G  
+   20    20   ALA A  
+   21    21   ASP D T
+   22    22   ASN N T
+   23    23   GLY G H
+   24    24   ALA A H
+   25    25   GLY G H
+   26    26   VAL V H
+   27    27   GLY G H
+   28    28   LYS K H
+   29    29   LYS K H
+   30    30   CYS C H
+   31    31   LEU L H
+   32    32   ILE I H
+   33    33   LYS K H
+   34    34   PHE F H
+   35    35   LEU L H
+   36    36   SER S H
+   37    37   ALA A H
+   38    38   HIS H  
+   39    39   PRO P H
+   40    40   GLN Q H
+   41    41   MET M H
+   42    42   ALA A H
+   43    43   ALA A H
+   44    44   VAL V H
+   45    45   PHE F H
+   46    46   GLY G H
+   47    47   PHE F  
+   48    48   SER S  
+   49    49   GLY G  
+   50    50   ALA A  
+   51    51   SER S  
+   52    52   ASP D  
+   53    53   PRO P H
+   54    54   GLY G H
+   55    55   VAL V H
+   56    56   ALA A H
+   57    57   ALA A H
+   58    58   LEU L H
+   59    59   GLY G H
+   60    60   ALA A H
+   61    61   LYS K H
+   62    62   VAL V H
+   63    63   LEU L H
+   64    64   ALA A H
+   65    65   GLN Q H
+   66    66   ILE I H
+   67    67   GLY G H
+   68    68   VAL V H
+   69    69   ALA A H
+   70    70   VAL V H
+   71    71   SER S H
+   72    72   HIS H H
+   73    73   LEU L T
+   74    74   GLY G T
+   75    75   ASP D T
+   76    76   GLU E H
+   77    77   GLY G H
+   78    78   LYS K H
+   79    79   MET M H
+   80    80   VAL V H
+   81    81   ALA A H
+   82    82   GLN Q H
+   83    83   MET M H
+   84    84   LYS K H
+   85    85   ALA A H
+   86    86   VAL V H
+   87    87   GLY G H
+   88    88   VAL V H
+   89    89   ARG R H
+   90    90   HIS H H
+   91    91   LYS K H
+   92    92   GLY G H
+   93    93   TYR Y  
+   94    94   GLY G  
+   95    95   ASN N  
+   96    96   LYS K  
+   97    97   HIS H  
+   98    98   ILE I  
+   99    99   LYS K  
+  100   100   ALA A H
+  101   101   GLN Q H
+  102   102   TYR Y H
+  103   103   PHE F H
+  104   104   GLU E H
+  105   105   PRO P H
+  106   106   LEU L H
+  107   107   GLY G H
+  108   108   ALA A H
+  109   109   SER S H
+  110   110   LEU L H
+  111   111   LEU L H
+  112   112   SER S H
+  113   113   ALA A H
+  114   114   MET M H
+  115   115   GLU E H
+  116   116   HIS H H
+  117   117   ARG R H
+  118   118   ILE I H
+  119   119   GLY G H
+  120   120   GLY G  
+  121   121   LYS K  
+  122   122   MET M  
+  123   123   ASN N  
+  124   124   ALA A H
+  125   125   ALA A H
+  126   126   ALA A H
+  127   127   LYS K H
+  128   128   ASP D H
+  129   129   ALA A H
+  130   130   TRP W H
+  131   131   ALA A H
+  132   132   ALA A H
+  133   133   ALA A H
+  134   134   TYR Y H
+  135   135   ALA A H
+  136   136   ASP D H
+  137   137   ILE I H
+  138   138   SER S H
+  139   139   GLY G H
+  140   140   ALA A H
+  141   141   LEU L H
+  142   142   ILE I H
+  143   143   SER S H
+  144   144   GLY G H
+  145   145   LEU L H
+  146   146   GLN Q H
+  147   147   SER S H
+ 

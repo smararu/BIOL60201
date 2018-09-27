@@ -1,0 +1,687 @@
+HEADER    LIPOPOLYSACCHARIDE-BINDING PROTEIN      12-JAN-95   1LYP      1LYP   2
+COMPND    CAP18 (RESIDUES 106 - 137) (NMR, MINIMIZED BEST STRUCTURE)    1LYP   3
+SOURCE    SYNTHETIC BASED ON THE RABBIT SEQUENCE                        1LYP   4
+EXPDTA    NMR                                                           1LYP   5
+AUTHOR    C.CHEN,T.-H.HUANG                                             1LYP   6
+REVDAT   1   31-MAR-95 1LYP    0                                        1LYP   7
+JRNL        AUTH   C.CHEN,R.BROCK,F.LUH,P.-J.CHOU,J.W.LARRICK,          1LYP   8
+JRNL        AUTH 2 R.-F.HUANG,T.-H.HUANG                                1LYP   9
+JRNL        TITL   THE SOLUTION STRUCTURE OF THE ACTIVE DOMAIN OF       1LYP  10
+JRNL        TITL 2 CAP18: A LIPOPOLYSACCHARIDE BINDING PROTEIN FROM     1LYP  11
+JRNL        TITL 3 RABBIT LEUKOCYTES                                    1LYP  12
+JRNL        REF    TO BE PUBLISHED                                      1LYP  13
+JRNL        REFN                                                  0353  1LYP  14
+REMARK   1                                                              1LYP  15
+REMARK   1 REFERENCE 1                                                  1LYP  16
+REMARK   1  AUTH   J.W.LARRICK,M.HIRATA,R.F.BALINT,T.-H.HUANG,C.CHEN,   1LYP  17
+REMARK   1  AUTH 2 J.ZHONG,S.C.WRIGHT                                   1LYP  18
+REMARK   1  TITL   CAP18: A NOVEL LPS BINDING(SLASH)ANTIMICROBIAL       1LYP  19
+REMARK   1  TITL 2 PROTEIN                                              1LYP  20
+REMARK   1  REF    TO BE PUBLISHED                                      1LYP  21
+REMARK   1  REFN                                                  0353  1LYP  22
+REMARK   1 REFERENCE 2                                                  1LYP  23
+REMARK   1  AUTH   J.W.LARRICK,J.G.MORGAN,I.PALINGS,M.HIRATA,M.H.YEN    1LYP  24
+REMARK   1  TITL   COMPLEMENTARY DNA SEQUENCE OF RABBIT CAP18 -         1LYP  25
+REMARK   1  TITL 2 A UNIQUE LIPOPOLYSACCHARIDE BINDING PROTEIN          1LYP  26
+REMARK   1  REF    BIOCHEM.BIOPHYS.RES.COMM.     V. 179   170 1991      1LYP  27
+REMARK   1  REFN   ASTM BBRCA9  US ISSN 0006-291X                 0146  1LYP  28
+REMARK   2                                                              1LYP  29
+REMARK   2 RESOLUTION. NOT APPLICABLE.  SEE REMARK 4.                   1LYP  30
+REMARK   3                                                              1LYP  31
+REMARK   3 REFINEMENT.                                                  1LYP  32
+REMARK   3   PROGRAM                    X-PLOR                          1LYP  33
+REMARK   3   AUTHORS                    BRUNGER                         1LYP  34
+REMARK   3                                                              1LYP  35
+REMARK   3  REFINEMENT WAS FOLLOWED BY RESTRAINT FREE MINIMIZATION.     1LYP  36
+REMARK   3  300 STRUCTURES WERE GENERATED USING 263 CONSTRAINTS         1LYP  37
+REMARK   3  DERIVED FROM 1H NMR EXPERIMENT.                             1LYP  38
+REMARK   3                                                              1LYP  39
+REMARK   3  POTENTIAL ENERGY TERMS(*X-PLOR*)                            1LYP  40
+REMARK   3                                                              1LYP  41
+REMARK   3                        ENERGY (KCAL/MOL)                     1LYP  42
+REMARK   3  F(NOE)                   15.78                              1LYP  43
+REMARK   3  F(REPEL)                  5.25                              1LYP  44
+REMARK   3                                                              1LYP  45
+REMARK   3  GEOMETRY DEVIATION (VERSUS X-PLOR PARAMETERS)               1LYP  46
+REMARK   3                                                              1LYP  47
+REMARK   3  TYPE      TOTAL NUMBER                                      1LYP  48
+REMARK   3                                                              1LYP  49
+REMARK   3  BONDS        597          0.003 (ANGSTROMS)                 1LYP  50
+REMARK   3  ANGLES      1104          1.664 (DEGREES)                   1LYP  51
+REMARK   3  IMPROPERS    178          1.050 (DEGREES)                   1LYP  52
+REMARK   3                                                              1LYP  53
+REMARK   3  NOE VIOLATIONS (153 INTER-RESIDUE CONSTRAINTS, 263 TOTAL):  1LYP  54
+REMARK   3                                                              1LYP  55
+REMARK   3        NUMBER >0.2A          3                               1LYP  56
+REMARK   3        LARGEST           0.249A                              1LYP  57
+REMARK   3        <VIOL>            0.055A                              1LYP  58
+REMARK   4                                                              1LYP  59
+REMARK   4 THESE COORDINATES WERE GENERATED FROM SOLUTION NMR DATA.     1LYP  60
+REMARK   4 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT *CRYST1* AND      1LYP  61
+REMARK   4 *SCALE* RECORDS BE INCLUDED, BUT THE VALUES ON THESE         1LYP  62
+REMARK   4 RECORDS ARE MEANINGLESS.                                     1LYP  63
+REMARK 999                                                              1LYP  64
+REMARK 999 CROSS REFERENCE TO SEQUENCE DATABASE                         1LYP  65
+REMARK 999 SWISS-PROT ENTRY NAME       PDB ENTRY CHAIN NAME             1LYP  66
+REMARK 999    CP18_RABIT                                                1LYP  67
+REMARK 999                                                              1LYP  68
+REMARK 999 SEQUENCE ADVISORY NOTICE                                     1LYP  69
+REMARK 999      DIFFERENCE BETWEEN SWISS-PROT AND PDB SEQUENCE.         1LYP  70
+REMARK 999                                                              1LYP  71
+REMARK 999      SWISS-PROT ENTRY NAME: CP18_RABIT                       1LYP  72
+REMARK 999                                                              1LYP  73
+REMARK 999      SWISS-PROT RESIDUE      PDB SEQRES                      1LYP  74
+REMARK 999                                                              1LYP  75
+REMARK 999        NAME   NUMBER         NAME   CHAIN  SEQ/INSERT CODE   1LYP  76
+REMARK 999        PHE      161          LEU             27              1LYP  77
+REMARK 999        VAL      162          LEU             28              1LYP  78
+SEQRES   1     32  GLY LEU ARG LYS ARG LEU ARG LYS PHE ARG ASN LYS ILE  1LYP  79
+SEQRES   2     32  LYS GLU LYS LEU LYS LYS ILE GLY GLN LYS ILE GLN GLY  1LYP  80
+SEQRES   3     32  LEU LEU PRO LYS LEU ALA                              1LYP  81
+HELIX    1   A GLY      1  ALA     32  1                                1LYP  82
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1  1LYP  83
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1LYP  84
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1LYP  85
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1LYP  86
+SCALE1      1.000000  0.000000  0.000000        0.00000                 1LYP  87
+SCALE2      0.000000  1.000000  0.000000        0.00000                 1LYP  88
+SCALE3      0.000000  0.000000  1.000000        0.00000                 1LYP  89
+ATOM      1  N   GLY     1      24.459  11.198  -7.520  1.00  0.00      1LYP  90
+ATOM      2  CA  GLY     1      24.945  11.896  -6.296  1.00  0.00      1LYP  91
+ATOM      3  C   GLY     1      23.757  12.467  -5.518  1.00  0.00      1LYP  92
+ATOM      4  O   GLY     1      23.791  12.558  -4.307  1.00  0.00      1LYP  93
+ATOM      5 1H   GLY     1      23.482  11.494  -7.723  1.00  0.00      1LYP  94
+ATOM      6 2H   GLY     1      25.071  11.442  -8.325  1.00  0.00      1LYP  95
+ATOM      7 3H   GLY     1      24.484  10.169  -7.364  1.00  0.00      1LYP  96
+ATOM      8 1HA  GLY     1      25.479  11.196  -5.672  1.00  0.00      1LYP  97
+ATOM      9 2HA  GLY     1      25.608  12.700  -6.581  1.00  0.00      1LYP  98
+ATOM     10  N   LEU     2      22.732  12.840  -6.235  1.00  0.00      1LYP  99
+ATOM     11  CA  LEU     2      21.532  13.407  -5.562  1.00  0.00      1LYP 100
+ATOM     12  C   LEU     2      20.952  12.423  -4.548  1.00  0.00      1LYP 101
+ATOM     13  O   LEU     2      20.500  12.812  -3.489  1.00  0.00      1LYP 102
+ATOM     14  CB  LEU     2      20.473  13.687  -6.633  1.00  0.00      1LYP 103
+ATOM     15  CG  LEU     2      19.206  14.219  -5.962  1.00  0.00      1LYP 104
+ATOM     16  CD1 LEU     2      18.694  15.428  -6.747  1.00  0.00      1LYP 105
+ATOM     17  CD2 LEU     2      18.135  13.127  -5.967  1.00  0.00      1LYP 106
+ATOM     18  H   LEU     2      22.754  12.751  -7.210  1.00  0.00      1LYP 107
+ATOM     19  HA  LEU     2      21.813  14.320  -5.048  1.00  0.00      1LYP 108
+ATOM     20 1HB  LEU     2      20.848  14.421  -7.331  1.00  0.00      1LYP 109
+ATOM     21 2HB  LEU     2      20.245  12.775  -7.165  1.00  0.00      1LYP 110
+ATOM     22  HG  LEU     2      19.426  14.510  -4.945  1.00  0.00      1LYP 111
+ATOM     23 1HD1 LEU     2      18.642  15.184  -7.798  1.00  0.00      1LYP 112
+ATOM     24 2HD1 LEU     2      17.710  15.702  -6.396  1.00  0.00      1LYP 113
+ATOM     25 3HD1 LEU     2      19.365  16.263  -6.609  1.00  0.00      1LYP 114
+ATOM     26 1HD2 LEU     2      18.562  12.197  -5.621  1.00  0.00      1LYP 115
+ATOM     27 2HD2 LEU     2      17.322  13.410  -5.316  1.00  0.00      1LYP 116
+ATOM     28 3HD2 LEU     2      17.757  12.992  -6.970  1.00  0.00      1LYP 117
+ATOM     29  N   ARG     3      20.975  11.165  -4.892  1.00  0.00      1LYP 118
+ATOM     30  CA  ARG     3      20.429  10.142  -3.962  1.00  0.00      1LYP 119
+ATOM     31  C   ARG     3      21.151  10.185  -2.616  1.00  0.00      1LYP 120
+ATOM     32  O   ARG     3      20.548  10.431  -1.590  1.00  0.00      1LYP 121
+ATOM     33  CB  ARG     3      20.643   8.760  -4.594  1.00  0.00      1LYP 122
+ATOM     34  CG  ARG     3      19.921   8.706  -5.945  1.00  0.00      1LYP 123
+ATOM     35  CD  ARG     3      20.396   7.477  -6.723  1.00  0.00      1LYP 124
+ATOM     36  NE  ARG     3      19.933   6.249  -6.018  1.00  0.00      1LYP 125
+ATOM     37  CZ  ARG     3      20.727   5.665  -5.164  1.00  0.00      1LYP 126
+ATOM     38  NH1 ARG     3      21.970   5.454  -5.500  1.00  0.00      1LYP 127
+ATOM     39  NH2 ARG     3      20.252   5.314  -4.000  1.00  0.00      1LYP 128
+ATOM     40  H   ARG     3      21.350  10.896  -5.756  1.00  0.00      1LYP 129
+ATOM     41  HA  ARG     3      19.373  10.336  -3.804  1.00  0.00      1LYP 130
+ATOM     42 1HB  ARG     3      21.699   8.588  -4.740  1.00  0.00      1LYP 131
+ATOM     43 2HB  ARG     3      20.247   7.996  -3.942  1.00  0.00      1LYP 132
+ATOM     44 1HG  ARG     3      18.855   8.645  -5.784  1.00  0.00      1LYP 133
+ATOM     45 2HG  ARG     3      20.142   9.599  -6.511  1.00  0.00      1LYP 134
+ATOM     46 1HD  ARG     3      19.984   7.493  -7.721  1.00  0.00      1LYP 135
+ATOM     47 2HD  ARG     3      21.474   7.472  -6.781  1.00  0.00      1LYP 136
+ATOM     48  HE  ARG     3      19.041   5.884  -6.195  1.00  0.00      1LYP 137
+ATOM     49 1HH1 ARG     3      22.300   5.739  -6.400  1.00  0.00      1LYP 138
+ATOM     50 2HH1 ARG     3      22.592   5.007  -4.857  1.00  0.00      1LYP 139
+ATOM     51 1HH2 ARG     3      19.294   5.494  -3.776  1.00  0.00      1LYP 140
+ATOM     52 2HH2 ARG     3      20.846   4.866  -3.332  1.00  0.00      1LYP 141
+ATOM     53  N   LYS     4      22.432   9.946  -2.650  1.00  0.00      1LYP 142
+ATOM     54  CA  LYS     4      23.222   9.965  -1.390  1.00  0.00      1LYP 143
+ATOM     55  C   LYS     4      22.856  11.165  -0.516  1.00  0.00      1LYP 144
+ATOM     56  O   LYS     4      22.792  11.057   0.692  1.00  0.00      1LYP 145
+ATOM     57  CB  LYS     4      24.706  10.073  -1.762  1.00  0.00      1LYP 146
+ATOM     58  CG  LYS     4      25.558   9.849  -0.511  1.00  0.00      1LYP 147
+ATOM     59  CD  LYS     4      27.038   9.975  -0.885  1.00  0.00      1LYP 148
+ATOM     60  CE  LYS     4      27.849  10.308   0.369  1.00  0.00      1LYP 149
+ATOM     61  NZ  LYS     4      29.256   9.843   0.217  1.00  0.00      1LYP 150
+ATOM     62  H   LYS     4      22.873   9.751  -3.504  1.00  0.00      1LYP 151
+ATOM     63  HA  LYS     4      23.029   9.052  -0.837  1.00  0.00      1LYP 152
+ATOM     64 1HB  LYS     4      24.949   9.327  -2.505  1.00  0.00      1LYP 153
+ATOM     65 2HB  LYS     4      24.906  11.054  -2.167  1.00  0.00      1LYP 154
+ATOM     66 1HG  LYS     4      25.308  10.588   0.235  1.00  0.00      1LYP 155
+ATOM     67 2HG  LYS     4      25.367   8.864  -0.114  1.00  0.00      1LYP 156
+ATOM     68 1HD  LYS     4      27.386   9.044  -1.305  1.00  0.00      1LYP 157
+ATOM     69 2HD  LYS     4      27.162  10.761  -1.615  1.00  0.00      1LYP 158
+ATOM     70 1HE  LYS     4      27.847  11.377   0.529  1.00  0.00      1LYP 159
+ATOM     71 2HE  LYS     4      27.407   9.823   1.227  1.00  0.00      1LYP 160
+ATOM     72 1HZ  LYS     4      29.331   9.234  -0.623  1.00  0.00      1LYP 161
+ATOM     73 2HZ  LYS     4      29.884  10.665   0.105  1.00  0.00      1LYP 162
+ATOM     74 3HZ  LYS     4      29.537   9.304   1.062  1.00  0.00      1LYP 163
+ATOM     75  N   ARG     5      22.620  12.285  -1.142  1.00  0.00      1LYP 164
+ATOM     76  CA  ARG     5      22.259  13.499  -0.359  1.00  0.00      1LYP 165
+ATOM     77  C   ARG     5      20.827  13.430   0.174  1.00  0.00      1LYP 166
+ATOM     78  O   ARG     5      20.567  13.804   1.301  1.00  0.00      1LYP 167
+ATOM     79  CB  ARG     5      22.379  14.716  -1.284  1.00  0.00      1LYP 168
+ATOM     80  CG  ARG     5      23.821  14.829  -1.785  1.00  0.00      1LYP 169
+ATOM     81  CD  ARG     5      24.323  16.256  -1.550  1.00  0.00      1LYP 170
+ATOM     82  NE  ARG     5      25.627  16.434  -2.249  1.00  0.00      1LYP 171
+ATOM     83  CZ  ARG     5      26.586  17.095  -1.659  1.00  0.00      1LYP 172
+ATOM     84  NH1 ARG     5      26.954  16.736  -0.459  1.00  0.00      1LYP 173
+ATOM     85  NH2 ARG     5      27.140  18.097  -2.286  1.00  0.00      1LYP 174
+ATOM     86  H   ARG     5      22.680  12.326  -2.119  1.00  0.00      1LYP 175
+ATOM     87  HA  ARG     5      22.941  13.587   0.480  1.00  0.00      1LYP 176
+ATOM     88 1HB  ARG     5      21.711  14.601  -2.125  1.00  0.00      1LYP 177
+ATOM     89 2HB  ARG     5      22.113  15.611  -0.741  1.00  0.00      1LYP 178
+ATOM     90 1HG  ARG     5      24.447  14.130  -1.249  1.00  0.00      1LYP 179
+ATOM     91 2HG  ARG     5      23.858  14.600  -2.840  1.00  0.00      1LYP 180
+ATOM     92 1HD  ARG     5      23.609  16.965  -1.940  1.00  0.00      1LYP 181
+ATOM     93 2HD  ARG     5      24.459  16.427  -0.493  1.00  0.00      1LYP 182
+ATOM     94  HE  ARG     5      25.764  16.057  -3.143  1.00  0.00      1LYP 183
+ATOM     95 1HH1 ARG     5      26.503  15.967  -0.007  1.00  0.00      1LYP 184
+ATOM     96 2HH1 ARG     5      27.688  17.230   0.007  1.00  0.00      1LYP 185
+ATOM     97 1HH2 ARG     5      26.829  18.348  -3.202  1.00  0.00      1LYP 186
+ATOM     98 2HH2 ARG     5      27.878  18.613  -1.850  1.00  0.00      1LYP 187
+ATOM     99  N   LEU     6      19.925  12.959  -0.641  1.00  0.00      1LYP 188
+ATOM    100  CA  LEU     6      18.508  12.866  -0.184  1.00  0.00      1LYP 189
+ATOM    101  C   LEU     6      18.368  11.879   0.974  1.00  0.00      1LYP 190
+ATOM    102  O   LEU     6      17.789  12.198   1.994  1.00  0.00      1LYP 191
+ATOM    103  CB  LEU     6      17.640  12.371  -1.361  1.00  0.00      1LYP 192
+ATOM    104  CG  LEU     6      16.904  13.537  -2.057  1.00  0.00      1LYP 193
+ATOM    105  CD1 LEU     6      15.663  13.922  -1.241  1.00  0.00      1LYP 194
+ATOM    106  CD2 LEU     6      17.820  14.762  -2.208  1.00  0.00      1LYP 195
+ATOM    107  H   LEU     6      20.177  12.668  -1.541  1.00  0.00      1LYP 196
+ATOM    108  HA  LEU     6      18.189  13.839   0.159  1.00  0.00      1LYP 197
+ATOM    109 1HB  LEU     6      18.267  11.867  -2.082  1.00  0.00      1LYP 198
+ATOM    110 2HB  LEU     6      16.911  11.667  -0.989  1.00  0.00      1LYP 199
+ATOM    111  HG  LEU     6      16.589  13.215  -3.038  1.00  0.00      1LYP 200
+ATOM    112 1HD1 LEU     6      15.936  14.114  -0.216  1.00  0.00      1LYP 201
+ATOM    113 2HD1 LEU     6      15.214  14.811  -1.660  1.00  0.00      1LYP 202
+ATOM    114 3HD1 LEU     6      14.945  13.116  -1.271  1.00  0.00      1LYP 203
+ATOM    115 1HD2 LEU     6      18.855  14.457  -2.192  1.00  0.00      1LYP 204
+ATOM    116 2HD2 LEU     6      17.614  15.254  -3.148  1.00  0.00      1LYP 205
+ATOM    117 3HD2 LEU     6      17.640  15.458  -1.402  1.00  0.00      1LYP 206
+ATOM    118  N   ARG     7      18.898  10.699   0.799  1.00  0.00      1LYP 207
+ATOM    119  CA  ARG     7      18.797   9.688   1.886  1.00  0.00      1LYP 208
+ATOM    120  C   ARG     7      19.274  10.263   3.219  1.00  0.00      1LYP 209
+ATOM    121  O   ARG     7      18.537  10.289   4.184  1.00  0.00      1LYP 210
+ATOM    122  CB  ARG     7      19.684   8.491   1.520  1.00  0.00      1LYP 211
+ATOM    123  CG  ARG     7      19.041   7.729   0.359  1.00  0.00      1LYP 212
+ATOM    124  CD  ARG     7      19.985   6.613  -0.098  1.00  0.00      1LYP 213
+ATOM    125  NE  ARG     7      20.004   5.536   0.932  1.00  0.00      1LYP 214
+ATOM    126  CZ  ARG     7      20.906   4.595   0.857  1.00  0.00      1LYP 215
+ATOM    127  NH1 ARG     7      22.073   4.795   1.406  1.00  0.00      1LYP 216
+ATOM    128  NH2 ARG     7      20.612   3.487   0.232  1.00  0.00      1LYP 217
+ATOM    129  H   ARG     7      19.357  10.483  -0.039  1.00  0.00      1LYP 218
+ATOM    130  HA  ARG     7      17.761   9.383   1.986  1.00  0.00      1LYP 219
+ATOM    131 1HB  ARG     7      20.663   8.840   1.229  1.00  0.00      1LYP 220
+ATOM    132 2HB  ARG     7      19.780   7.837   2.374  1.00  0.00      1LYP 221
+ATOM    133 1HG  ARG     7      18.103   7.302   0.680  1.00  0.00      1LYP 222
+ATOM    134 2HG  ARG     7      18.858   8.407  -0.462  1.00  0.00      1LYP 223
+ATOM    135 1HD  ARG     7      19.641   6.203  -1.037  1.00  0.00      1LYP 224
+ATOM    136 2HD  ARG     7      20.983   7.004  -0.224  1.00  0.00      1LYP 225
+ATOM    137  HE  ARG     7      19.345   5.533   1.658  1.00  0.00      1LYP 226
+ATOM    138 1HH1 ARG     7      22.264   5.658   1.874  1.00  0.00      1LYP 227
+ATOM    139 2HH1 ARG     7      22.776   4.085   1.360  1.00  0.00      1LYP 228
+ATOM    140 1HH2 ARG     7      19.708   3.370  -0.179  1.00  0.00      1LYP 229
+ATOM    141 2HH2 ARG     7      21.291   2.756   0.163  1.00  0.00      1LYP 230
+ATOM    142  N   LYS     8      20.499  10.711   3.247  1.00  0.00      1LYP 231
+ATOM    143  CA  LYS     8      21.036  11.286   4.508  1.00  0.00      1LYP 232
+ATOM    144  C   LYS     8      20.143  12.417   5.016  1.00  0.00      1LYP 233
+ATOM    145  O   LYS     8      20.012  12.621   6.207  1.00  0.00      1LYP 234
+ATOM    146  CB  LYS     8      22.434  11.848   4.226  1.00  0.00      1LYP 235
+ATOM    147  CG  LYS     8      23.351  10.705   3.780  1.00  0.00      1LYP 236
+ATOM    148  CD  LYS     8      24.461  10.507   4.815  1.00  0.00      1LYP 237
+ATOM    149  CE  LYS     8      25.438   9.446   4.303  1.00  0.00      1LYP 238
+ATOM    150  NZ  LYS     8      26.365   9.020   5.389  1.00  0.00      1LYP 239
+ATOM    151  H   LYS     8      21.060  10.669   2.444  1.00  0.00      1LYP 240
+ATOM    152  HA  LYS     8      21.080  10.504   5.259  1.00  0.00      1LYP 241
+ATOM    153 1HB  LYS     8      22.375  12.591   3.445  1.00  0.00      1LYP 242
+ATOM    154 2HB  LYS     8      22.829  12.305   5.121  1.00  0.00      1LYP 243
+ATOM    155 1HG  LYS     8      22.776   9.795   3.688  1.00  0.00      1LYP 244
+ATOM    156 2HG  LYS     8      23.788  10.944   2.822  1.00  0.00      1LYP 245
+ATOM    157 1HD  LYS     8      24.988  11.438   4.969  1.00  0.00      1LYP 246
+ATOM    158 2HD  LYS     8      24.032  10.183   5.752  1.00  0.00      1LYP 247
+ATOM    159 1HE  LYS     8      24.887   8.586   3.952  1.00  0.00      1LYP 248
+ATOM    160 2HE  LYS     8      26.016   9.852   3.486  1.00  0.00      1LYP 249
+ATOM    161 1HZ  LYS     8      25.915   9.182   6.312  1.00  0.00      1LYP 250
+ATOM    162 2HZ  LYS     8      26.583   8.009   5.281  1.00  0.00      1LYP 251
+ATOM    163 3HZ  LYS     8      27.244   9.573   5.330  1.00  0.00      1LYP 252
+ATOM    164  N   PHE     9      19.544  13.130   4.101  1.00  0.00      1LYP 253
+ATOM    165  CA  PHE     9      18.654  14.255   4.512  1.00  0.00      1LYP 254
+ATOM    166  C   PHE     9      17.493  13.750   5.365  1.00  0.00      1LYP 255
+ATOM    167  O   PHE     9      17.320  14.168   6.492  1.00  0.00      1LYP 256
+ATOM    168  CB  PHE     9      18.075  14.919   3.249  1.00  0.00      1LYP 257
+ATOM    169  CG  PHE     9      18.312  16.432   3.307  1.00  0.00      1LYP 258
+ATOM    170  CD1 PHE     9      17.472  17.251   4.043  1.00  0.00      1LYP 259
+ATOM    171  CD2 PHE     9      19.376  16.999   2.627  1.00  0.00      1LYP 260
+ATOM    172  CE1 PHE     9      17.695  18.612   4.099  1.00  0.00      1LYP 261
+ATOM    173  CE2 PHE     9      19.597  18.360   2.684  1.00  0.00      1LYP 262
+ATOM    174  CZ  PHE     9      18.757  19.166   3.419  1.00  0.00      1LYP 263
+ATOM    175  H   PHE     9      19.680  12.926   3.152  1.00  0.00      1LYP 264
+ATOM    176  HA  PHE     9      19.234  14.965   5.095  1.00  0.00      1LYP 265
+ATOM    177 1HB  PHE     9      18.554  14.520   2.368  1.00  0.00      1LYP 266
+ATOM    178 2HB  PHE     9      17.013  14.729   3.192  1.00  0.00      1LYP 267
+ATOM    179  HD1 PHE     9      16.631  16.824   4.571  1.00  0.00      1LYP 268
+ATOM    180  HD2 PHE     9      20.034  16.373   2.042  1.00  0.00      1LYP 269
+ATOM    181  HE1 PHE     9      17.038  19.244   4.678  1.00  0.00      1LYP 270
+ATOM    182  HE2 PHE     9      20.430  18.793   2.151  1.00  0.00      1LYP 271
+ATOM    183  HZ  PHE     9      18.932  20.231   3.463  1.00  0.00      1LYP 272
+ATOM    184  N   ARG    10      16.716  12.860   4.809  1.00  0.00      1LYP 273
+ATOM    185  CA  ARG    10      15.561  12.319   5.573  1.00  0.00      1LYP 274
+ATOM    186  C   ARG    10      16.020  11.642   6.863  1.00  0.00      1LYP 275
+ATOM    187  O   ARG    10      15.211  11.242   7.677  1.00  0.00      1LYP 276
+ATOM    188  CB  ARG    10      14.842  11.290   4.693  1.00  0.00      1LYP 277
+ATOM    189  CG  ARG    10      13.926  12.031   3.715  1.00  0.00      1LYP 278
+ATOM    190  CD  ARG    10      13.230  11.017   2.804  1.00  0.00      1LYP 279
+ATOM    191  NE  ARG    10      12.043  11.667   2.180  1.00  0.00      1LYP 280
+ATOM    192  CZ  ARG    10      11.128  10.926   1.617  1.00  0.00      1LYP 281
+ATOM    193  NH1 ARG    10      11.404   9.679   1.349  1.00  0.00      1LYP 282
+ATOM    194  NH2 ARG    10       9.969  11.458   1.338  1.00  0.00      1LYP 283
+ATOM    195  H   ARG    10      16.892  12.551   3.896  1.00  0.00      1LYP 284
+ATOM    196  HA  ARG    10      14.896  13.138   5.828  1.00  0.00      1LYP 285
+ATOM    197 1HB  ARG    10      15.569  10.711   4.143  1.00  0.00      1LYP 286
+ATOM    198 2HB  ARG    10      14.255  10.628   5.312  1.00  0.00      1LYP 287
+ATOM    199 1HG  ARG    10      13.185  12.590   4.266  1.00  0.00      1LYP 288
+ATOM    200 2HG  ARG    10      14.511  12.713   3.117  1.00  0.00      1LYP 289
+ATOM    201 1HD  ARG    10      13.908  10.692   2.030  1.00  0.00      1LYP 290
+ATOM    202 2HD  ARG    10      12.908  10.163   3.382  1.00  0.00      1LYP 291
+ATOM    203  HE  ARG    10      11.950  12.643   2.192  1.00  0.00      1LYP 292
+ATOM    204 1HH1 ARG    10      12.305   9.307   1.573  1.00  0.00      1LYP 293
+ATOM    205 2HH1 ARG    10      10.714   9.095   0.923  1.00  0.00      1LYP 294
+ATOM    206 1HH2 ARG    10       9.794  12.418   1.555  1.00  0.00      1LYP 295
+ATOM    207 2HH2 ARG    10       9.258  10.905   0.904  1.00  0.00      1LYP 296
+ATOM    208  N   ASN    11      17.309  11.525   7.025  1.00  0.00      1LYP 297
+ATOM    209  CA  ASN    11      17.828  10.877   8.259  1.00  0.00      1LYP 298
+ATOM    210  C   ASN    11      18.062  11.928   9.339  1.00  0.00      1LYP 299
+ATOM    211  O   ASN    11      17.860  11.679  10.510  1.00  0.00      1LYP 300
+ATOM    212  CB  ASN    11      19.164  10.194   7.937  1.00  0.00      1LYP 301
+ATOM    213  CG  ASN    11      20.243  10.722   8.885  1.00  0.00      1LYP 302
+ATOM    214  OD1 ASN    11      20.697  10.029   9.774  1.00  0.00      1LYP 303
+ATOM    215  ND2 ASN    11      20.681  11.943   8.730  1.00  0.00      1LYP 304
+ATOM    216  H   ASN    11      17.926  11.864   6.344  1.00  0.00      1LYP 305
+ATOM    217  HA  ASN    11      17.098  10.158   8.617  1.00  0.00      1LYP 306
+ATOM    218 1HB  ASN    11      19.069   9.125   8.064  1.00  0.00      1LYP 307
+ATOM    219 2HB  ASN    11      19.449  10.406   6.919  1.00  0.00      1LYP 308
+ATOM    220 1HD2 ASN    11      21.370  12.296   9.331  1.00  0.00      1LYP 309
+ATOM    221 2HD2 ASN    11      20.319  12.506   8.015  1.00  0.00      1LYP 310
+ATOM    222  N   LYS    12      18.489  13.085   8.916  1.00  0.00      1LYP 311
+ATOM    223  CA  LYS    12      18.746  14.175   9.892  1.00  0.00      1LYP 312
+ATOM    224  C   LYS    12      17.434  14.712  10.458  1.00  0.00      1LYP 313
+ATOM    225  O   LYS    12      17.275  14.826  11.657  1.00  0.00      1LYP 314
+ATOM    226  CB  LYS    12      19.475  15.308   9.153  1.00  0.00      1LYP 315
+ATOM    227  CG  LYS    12      20.121  16.259  10.169  1.00  0.00      1LYP 316
+ATOM    228  CD  LYS    12      21.647  16.095  10.125  1.00  0.00      1LYP 317
+ATOM    229  CE  LYS    12      22.182  16.572   8.769  1.00  0.00      1LYP 318
+ATOM    230  NZ  LYS    12      22.698  15.419   7.977  1.00  0.00      1LYP 319
+ATOM    231  H   LYS    12      18.651  13.230   7.960  1.00  0.00      1LYP 320
+ATOM    232  HA  LYS    12      19.347  13.785  10.705  1.00  0.00      1LYP 321
+ATOM    233 1HB  LYS    12      20.235  14.887   8.512  1.00  0.00      1LYP 322
+ATOM    234 2HB  LYS    12      18.768  15.855   8.546  1.00  0.00      1LYP 323
+ATOM    235 1HG  LYS    12      19.858  17.279   9.930  1.00  0.00      1LYP 324
+ATOM    236 2HG  LYS    12      19.762  16.030  11.161  1.00  0.00      1LYP 325
+ATOM    237 1HD  LYS    12      22.095  16.679  10.915  1.00  0.00      1LYP 326
+ATOM    238 2HD  LYS    12      21.902  15.055  10.269  1.00  0.00      1LYP 327
+ATOM    239 1HE  LYS    12      21.392  17.053   8.212  1.00  0.00      1LYP 328
+ATOM    240 2HE  LYS    12      22.983  17.279   8.924  1.00  0.00      1LYP 329
+ATOM    241 1HZ  LYS    12      21.957  14.692   7.900  1.00  0.00      1LYP 330
+ATOM    242 2HZ  LYS    12      22.967  15.744   7.026  1.00  0.00      1LYP 331
+ATOM    243 3HZ  LYS    12      23.531  15.016   8.453  1.00  0.00      1LYP 332
+ATOM    244  N   ILE    13      16.515  15.031   9.587  1.00  0.00      1LYP 333
+ATOM    245  CA  ILE    13      15.217  15.558  10.063  1.00  0.00      1LYP 334
+ATOM    246  C   ILE    13      14.559  14.555  11.006  1.00  0.00      1LYP 335
+ATOM    247  O   ILE    13      14.068  14.911  12.059  1.00  0.00      1LYP 336
+ATOM    248  CB  ILE    13      14.316  15.760   8.841  1.00  0.00      1LYP 337
+ATOM    249  CG1 ILE    13      14.650  17.081   8.150  1.00  0.00      1LYP 338
+ATOM    250  CG2 ILE    13      12.860  15.809   9.312  1.00  0.00      1LYP 339
+ATOM    251  CD1 ILE    13      14.385  16.942   6.649  1.00  0.00      1LYP 340
+ATOM    252  H   ILE    13      16.675  14.919   8.628  1.00  0.00      1LYP 341
+ATOM    253  HA  ILE    13      15.380  16.490  10.592  1.00  0.00      1LYP 342
+ATOM    254  HB  ILE    13      14.471  14.942   8.144  1.00  0.00      1LYP 343
+ATOM    255 1HG1 ILE    13      14.034  17.871   8.555  1.00  0.00      1LYP 344
+ATOM    256 2HG1 ILE    13      15.690  17.324   8.311  1.00  0.00      1LYP 345
+ATOM    257 1HG2 ILE    13      12.799  16.347  10.245  1.00  0.00      1LYP 346
+ATOM    258 2HG2 ILE    13      12.254  16.309   8.572  1.00  0.00      1LYP 347
+ATOM    259 3HG2 ILE    13      12.490  14.804   9.455  1.00  0.00      1LYP 348
+ATOM    260 1HD1 ILE    13      13.374  16.599   6.487  1.00  0.00      1LYP 349
+ATOM    261 2HD1 ILE    13      14.519  17.897   6.164  1.00  0.00      1LYP 350
+ATOM    262 3HD1 ILE    13      15.075  16.228   6.224  1.00  0.00      1LYP 351
+ATOM    263  N   LYS    14      14.572  13.315  10.606  1.00  0.00      1LYP 352
+ATOM    264  CA  LYS    14      13.957  12.259  11.450  1.00  0.00      1LYP 353
+ATOM    265  C   LYS    14      14.350  12.414  12.919  1.00  0.00      1LYP 354
+ATOM    266  O   LYS    14      13.579  12.097  13.802  1.00  0.00      1LYP 355
+ATOM    267  CB  LYS    14      14.457  10.900  10.942  1.00  0.00      1LYP 356
+ATOM    268  CG  LYS    14      14.005   9.795  11.901  1.00  0.00      1LYP 357
+ATOM    269  CD  LYS    14      13.718   8.528  11.093  1.00  0.00      1LYP 358
+ATOM    270  CE  LYS    14      13.676   7.326  12.037  1.00  0.00      1LYP 359
+ATOM    271  NZ  LYS    14      13.012   6.168  11.374  1.00  0.00      1LYP 360
+ATOM    272  H   LYS    14      14.984  13.080   9.749  1.00  0.00      1LYP 361
+ATOM    273  HA  LYS    14      12.878  12.328  11.365  1.00  0.00      1LYP 362
+ATOM    274 1HB  LYS    14      14.053  10.712   9.959  1.00  0.00      1LYP 363
+ATOM    275 2HB  LYS    14      15.535  10.910  10.885  1.00  0.00      1LYP 364
+ATOM    276 1HG  LYS    14      14.785   9.598  12.622  1.00  0.00      1LYP 365
+ATOM    277 2HG  LYS    14      13.111  10.105  12.421  1.00  0.00      1LYP 366
+ATOM    278 1HD  LYS    14      12.768   8.627  10.589  1.00  0.00      1LYP 367
+ATOM    279 2HD  LYS    14      14.496   8.385  10.358  1.00  0.00      1LYP 368
+ATOM    280 1HE  LYS    14      14.682   7.046  12.313  1.00  0.00      1LYP 369
+ATOM    281 2HE  LYS    14      13.125   7.585  12.929  1.00  0.00      1LYP 370
+ATOM    282 1HZ  LYS    14      12.393   6.513  10.613  1.00  0.00      1LYP 371
+ATOM    283 2HZ  LYS    14      13.736   5.537  10.973  1.00  0.00      1LYP 372
+ATOM    284 3HZ  LYS    14      12.446   5.646  12.073  1.00  0.00      1LYP 373
+ATOM    285  N   GLU    15      15.542  12.894  13.160  1.00  0.00      1LYP 374
+ATOM    286  CA  GLU    15      15.978  13.065  14.573  1.00  0.00      1LYP 375
+ATOM    287  C   GLU    15      15.188  14.176  15.263  1.00  0.00      1LYP 376
+ATOM    288  O   GLU    15      14.704  14.002  16.364  1.00  0.00      1LYP 377
+ATOM    289  CB  GLU    15      17.467  13.442  14.581  1.00  0.00      1LYP 378
+ATOM    290  CG  GLU    15      18.229  12.532  13.612  1.00  0.00      1LYP 379
+ATOM    291  CD  GLU    15      17.867  11.074  13.901  1.00  0.00      1LYP 380
+ATOM    292  OE1 GLU    15      17.749  10.769  15.077  1.00  0.00      1LYP 381
+ATOM    293  OE2 GLU    15      17.731  10.347  12.931  1.00  0.00      1LYP 382
+ATOM    294  H   GLU    15      16.144  13.133  12.420  1.00  0.00      1LYP 383
+ATOM    295  HA  GLU    15      15.810  12.135  15.110  1.00  0.00      1LYP 384
+ATOM    296 1HB  GLU    15      17.581  14.472  14.276  1.00  0.00      1LYP 385
+ATOM    297 2HB  GLU    15      17.865  13.322  15.578  1.00  0.00      1LYP 386
+ATOM    298 1HG  GLU    15      17.960  12.773  12.593  1.00  0.00      1LYP 387
+ATOM    299 2HG  GLU    15      19.293  12.668  13.741  1.00  0.00      1LYP 388
+ATOM    300  N   LYS    16      15.072  15.296  14.606  1.00  0.00      1LYP 389
+ATOM    301  CA  LYS    16      14.316  16.424  15.215  1.00  0.00      1LYP 390
+ATOM    302  C   LYS    16      12.850  16.055  15.426  1.00  0.00      1LYP 391
+ATOM    303  O   LYS    16      12.165  16.669  16.219  1.00  0.00      1LYP 392
+ATOM    304  CB  LYS    16      14.391  17.623  14.263  1.00  0.00      1LYP 393
+ATOM    305  CG  LYS    16      14.025  18.898  15.028  1.00  0.00      1LYP 394
+ATOM    306  CD  LYS    16      15.304  19.670  15.364  1.00  0.00      1LYP 395
+ATOM    307  CE  LYS    16      14.968  20.793  16.349  1.00  0.00      1LYP 396
+ATOM    308  NZ  LYS    16      15.935  21.918  16.209  1.00  0.00      1LYP 397
+ATOM    309  H   LYS    16      15.478  15.394  13.719  1.00  0.00      1LYP 398
+ATOM    310  HA  LYS    16      14.758  16.665  16.176  1.00  0.00      1LYP 399
+ATOM    311 1HB  LYS    16      15.393  17.712  13.867  1.00  0.00      1LYP 400
+ATOM    312 2HB  LYS    16      13.700  17.481  13.445  1.00  0.00      1LYP 401
+ATOM    313 1HG  LYS    16      13.381  19.514  14.419  1.00  0.00      1LYP 402
+ATOM    314 2HG  LYS    16      13.508  18.638  15.940  1.00  0.00      1LYP 403
+ATOM    315 1HD  LYS    16      16.025  19.001  15.810  1.00  0.00      1LYP 404
+ATOM    316 2HD  LYS    16      15.722  20.091  14.462  1.00  0.00      1LYP 405
+ATOM    317 1HE  LYS    16      13.971  21.160  16.153  1.00  0.00      1LYP 406
+ATOM    318 2HE  LYS    16      15.013  20.414  17.359  1.00  0.00      1LYP 407
+ATOM    319 1HZ  LYS    16      16.724  21.624  15.597  1.00  0.00      1LYP 408
+ATOM    320 2HZ  LYS    16      15.455  22.739  15.786  1.00  0.00      1LYP 409
+ATOM    321 3HZ  LYS    16      16.303  22.177  17.148  1.00  0.00      1LYP 410
+ATOM    322  N   LEU    17      12.395  15.062  14.714  1.00  0.00      1LYP 411
+ATOM    323  CA  LEU    17      10.972  14.651  14.873  1.00  0.00      1LYP 412
+ATOM    324  C   LEU    17      10.750  13.982  16.226  1.00  0.00      1LYP 413
+ATOM    325  O   LEU    17       9.986  14.459  17.039  1.00  0.00      1LYP 414
+ATOM    326  CB  LEU    17      10.620  13.641  13.768  1.00  0.00      1LYP 415
+ATOM    327  CG  LEU    17       9.877  14.351  12.632  1.00  0.00      1LYP 416
+ATOM    328  CD1 LEU    17      10.824  15.340  11.952  1.00  0.00      1LYP 417
+ATOM    329  CD2 LEU    17       9.422  13.308  11.609  1.00  0.00      1LYP 418
+ATOM    330  H   LEU    17      12.981  14.595  14.082  1.00  0.00      1LYP 419
+ATOM    331  HA  LEU    17      10.344  15.533  14.813  1.00  0.00      1LYP 420
+ATOM    332 1HB  LEU    17      11.522  13.192  13.382  1.00  0.00      1LYP 421
+ATOM    333 2HB  LEU    17       9.990  12.865  14.178  1.00  0.00      1LYP 422
+ATOM    334  HG  LEU    17       9.018  14.876  13.024  1.00  0.00      1LYP 423
+ATOM    335 1HD1 LEU    17      11.744  14.840  11.689  1.00  0.00      1LYP 424
+ATOM    336 2HD1 LEU    17      10.363  15.729  11.055  1.00  0.00      1LYP 425
+ATOM    337 3HD1 LEU    17      11.043  16.157  12.623  1.00  0.00      1LYP 426
+ATOM    338 1HD2 LEU    17       8.764  12.595  12.085  1.00  0.00      1LYP 427
+ATOM    339 2HD2 LEU    17       8.895  13.794  10.801  1.00  0.00      1LYP 428
+ATOM    340 3HD2 LEU    17      10.282  12.788  11.212  1.00  0.00      1LYP 429
+ATOM    341  N   LYS    18      11.422  12.887  16.443  1.00  0.00      1LYP 430
+ATOM    342  CA  LYS    18      11.256  12.177  17.738  1.00  0.00      1LYP 431
+ATOM    343  C   LYS    18      11.545  13.105  18.917  1.00  0.00      1LYP 432
+ATOM    344  O   LYS    18      11.284  12.763  20.054  1.00  0.00      1LYP 433
+ATOM    345  CB  LYS    18      12.250  11.008  17.776  1.00  0.00      1LYP 434
+ATOM    346  CG  LYS    18      11.981  10.080  16.589  1.00  0.00      1LYP 435
+ATOM    347  CD  LYS    18      11.455   8.740  17.108  1.00  0.00      1LYP 436
+ATOM    348  CE  LYS    18      11.106   7.844  15.918  1.00  0.00      1LYP 437
+ATOM    349  NZ  LYS    18       9.648   7.917  15.618  1.00  0.00      1LYP 438
+ATOM    350  H   LYS    18      12.032  12.537  15.759  1.00  0.00      1LYP 439
+ATOM    351  HA  LYS    18      10.236  11.818  17.815  1.00  0.00      1LYP 440
+ATOM    352 1HB  LYS    18      13.259  11.389  17.718  1.00  0.00      1LYP 441
+ATOM    353 2HB  LYS    18      12.131  10.461  18.699  1.00  0.00      1LYP 442
+ATOM    354 1HG  LYS    18      11.249  10.530  15.935  1.00  0.00      1LYP 443
+ATOM    355 2HG  LYS    18      12.897   9.921  16.039  1.00  0.00      1LYP 444
+ATOM    356 1HD  LYS    18      12.212   8.262  17.712  1.00  0.00      1LYP 445
+ATOM    357 2HD  LYS    18      10.573   8.904  17.710  1.00  0.00      1LYP 446
+ATOM    358 1HE  LYS    18      11.660   8.166  15.049  1.00  0.00      1LYP 447
+ATOM    359 2HE  LYS    18      11.368   6.821  16.145  1.00  0.00      1LYP 448
+ATOM    360 1HZ  LYS    18       9.264   8.816  15.975  1.00  0.00      1LYP 449
+ATOM    361 2HZ  LYS    18       9.502   7.862  14.590  1.00  0.00      1LYP 450
+ATOM    362 3HZ  LYS    18       9.159   7.124  16.080  1.00  0.00      1LYP 451
+ATOM    363  N   LYS    19      12.075  14.265  18.631  1.00  0.00      1LYP 452
+ATOM    364  CA  LYS    19      12.380  15.212  19.736  1.00  0.00      1LYP 453
+ATOM    365  C   LYS    19      11.125  15.932  20.226  1.00  0.00      1LYP 454
+ATOM    366  O   LYS    19      10.886  16.014  21.415  1.00  0.00      1LYP 455
+ATOM    367  CB  LYS    19      13.378  16.259  19.224  1.00  0.00      1LYP 456
+ATOM    368  CG  LYS    19      14.025  16.963  20.421  1.00  0.00      1LYP 457
+ATOM    369  CD  LYS    19      14.514  18.349  19.991  1.00  0.00      1LYP 458
+ATOM    370  CE  LYS    19      15.163  19.049  21.189  1.00  0.00      1LYP 459
+ATOM    371  NZ  LYS    19      16.649  18.994  21.086  1.00  0.00      1LYP 460
+ATOM    372  H   LYS    19      12.276  14.506  17.700  1.00  0.00      1LYP 461
+ATOM    373  HA  LYS    19      12.801  14.652  20.565  1.00  0.00      1LYP 462
+ATOM    374 1HB  LYS    19      14.140  15.774  18.631  1.00  0.00      1LYP 463
+ATOM    375 2HB  LYS    19      12.861  16.983  18.612  1.00  0.00      1LYP 464
+ATOM    376 1HG  LYS    19      13.300  17.065  21.215  1.00  0.00      1LYP 465
+ATOM    377 2HG  LYS    19      14.861  16.379  20.777  1.00  0.00      1LYP 466
+ATOM    378 1HD  LYS    19      15.236  18.248  19.195  1.00  0.00      1LYP 467
+ATOM    379 2HD  LYS    19      13.678  18.935  19.638  1.00  0.00      1LYP 468
+ATOM    380 1HE  LYS    19      14.851  20.082  21.218  1.00  0.00      1LYP 469
+ATOM    381 2HE  LYS    19      14.857  18.564  22.104  1.00  0.00      1LYP 470
+ATOM    382 1HZ  LYS    19      16.922  18.283  20.377  1.00  0.00      1LYP 471
+ATOM    383 2HZ  LYS    19      17.011  19.926  20.799  1.00  0.00      1LYP 472
+ATOM    384 3HZ  LYS    19      17.051  18.735  22.010  1.00  0.00      1LYP 473
+ATOM    385  N   ILE    20      10.344  16.443  19.312  1.00  0.00      1LYP 474
+ATOM    386  CA  ILE    20       9.114  17.153  19.745  1.00  0.00      1LYP 475
+ATOM    387  C   ILE    20       8.068  16.156  20.238  1.00  0.00      1LYP 476
+ATOM    388  O   ILE    20       7.301  16.454  21.132  1.00  0.00      1LYP 477
+ATOM    389  CB  ILE    20       8.551  17.955  18.564  1.00  0.00      1LYP 478
+ATOM    390  CG1 ILE    20       7.855  17.021  17.568  1.00  0.00      1LYP 479
+ATOM    391  CG2 ILE    20       9.717  18.656  17.846  1.00  0.00      1LYP 480
+ATOM    392  CD1 ILE    20       6.386  16.793  17.961  1.00  0.00      1LYP 481
+ATOM    393  H   ILE    20      10.557  16.348  18.361  1.00  0.00      1LYP 482
+ATOM    394  HA  ILE    20       9.369  17.812  20.565  1.00  0.00      1LYP 483
+ATOM    395  HB  ILE    20       7.845  18.689  18.936  1.00  0.00      1LYP 484
+ATOM    396 1HG1 ILE    20       7.894  17.456  16.581  1.00  0.00      1LYP 485
+ATOM    397 2HG1 ILE    20       8.368  16.074  17.549  1.00  0.00      1LYP 486
+ATOM    398 1HG2 ILE    20      10.509  18.863  18.551  1.00  0.00      1LYP 487
+ATOM    399 2HG2 ILE    20      10.099  18.026  17.057  1.00  0.00      1LYP 488
+ATOM    400 3HG2 ILE    20       9.373  19.586  17.419  1.00  0.00      1LYP 489
+ATOM    401 1HD1 ILE    20       6.167  17.250  18.913  1.00  0.00      1LYP 490
+ATOM    402 2HD1 ILE    20       5.742  17.222  17.209  1.00  0.00      1LYP 491
+ATOM    403 3HD1 ILE    20       6.192  15.734  18.028  1.00  0.00      1LYP 492
+ATOM    404  N   GLY    21       8.056  14.989  19.651  1.00  0.00      1LYP 493
+ATOM    405  CA  GLY    21       7.062  13.966  20.082  1.00  0.00      1LYP 494
+ATOM    406  C   GLY    21       7.253  13.644  21.563  1.00  0.00      1LYP 495
+ATOM    407  O   GLY    21       6.391  13.064  22.194  1.00  0.00      1LYP 496
+ATOM    408  H   GLY    21       8.693  14.788  18.932  1.00  0.00      1LYP 497
+ATOM    409 1HA  GLY    21       6.064  14.348  19.925  1.00  0.00      1LYP 498
+ATOM    410 2HA  GLY    21       7.197  13.066  19.501  1.00  0.00      1LYP 499
+ATOM    411  N   GLN    22       8.385  14.028  22.085  1.00  0.00      1LYP 500
+ATOM    412  CA  GLN    22       8.659  13.759  23.518  1.00  0.00      1LYP 501
+ATOM    413  C   GLN    22       8.232  14.955  24.372  1.00  0.00      1LYP 502
+ATOM    414  O   GLN    22       8.013  14.833  25.561  1.00  0.00      1LYP 503
+ATOM    415  CB  GLN    22      10.175  13.525  23.665  1.00  0.00      1LYP 504
+ATOM    416  CG  GLN    22      10.615  13.723  25.121  1.00  0.00      1LYP 505
+ATOM    417  CD  GLN    22      10.949  15.198  25.350  1.00  0.00      1LYP 506
+ATOM    418  OE1 GLN    22      10.179  15.939  25.929  1.00  0.00      1LYP 507
+ATOM    419  NE2 GLN    22      12.089  15.663  24.913  1.00  0.00      1LYP 508
+ATOM    420  H   GLN    22       9.050  14.493  21.535  1.00  0.00      1LYP 509
+ATOM    421  HA  GLN    22       8.096  12.882  23.822  1.00  0.00      1LYP 510
+ATOM    422 1HB  GLN    22      10.412  12.518  23.355  1.00  0.00      1LYP 511
+ATOM    423 2HB  GLN    22      10.709  14.220  23.032  1.00  0.00      1LYP 512
+ATOM    424 1HG  GLN    22       9.829  13.421  25.795  1.00  0.00      1LYP 513
+ATOM    425 2HG  GLN    22      11.495  13.128  25.317  1.00  0.00      1LYP 514
+ATOM    426 1HE2 GLN    22      12.319  16.605  25.052  1.00  0.00      1LYP 515
+ATOM    427 2HE2 GLN    22      12.713  15.069  24.446  1.00  0.00      1LYP 516
+ATOM    428  N   LYS    23       8.100  16.088  23.739  1.00  0.00      1LYP 517
+ATOM    429  CA  LYS    23       7.688  17.304  24.493  1.00  0.00      1LYP 518
+ATOM    430  C   LYS    23       6.162  17.425  24.587  1.00  0.00      1LYP 519
+ATOM    431  O   LYS    23       5.643  17.915  25.570  1.00  0.00      1LYP 520
+ATOM    432  CB  LYS    23       8.240  18.530  23.746  1.00  0.00      1LYP 521
+ATOM    433  CG  LYS    23       8.046  19.805  24.587  1.00  0.00      1LYP 522
+ATOM    434  CD  LYS    23       9.341  20.134  25.339  1.00  0.00      1LYP 523
+ATOM    435  CE  LYS    23      10.256  20.956  24.429  1.00  0.00      1LYP 524
+ATOM    436  NZ  LYS    23       9.690  22.318  24.220  1.00  0.00      1LYP 525
+ATOM    437  H   LYS    23       8.284  16.141  22.777  1.00  0.00      1LYP 526
+ATOM    438  HA  LYS    23       8.098  17.243  25.496  1.00  0.00      1LYP 527
+ATOM    439 1HB  LYS    23       9.291  18.384  23.543  1.00  0.00      1LYP 528
+ATOM    440 2HB  LYS    23       7.719  18.640  22.806  1.00  0.00      1LYP 529
+ATOM    441 1HG  LYS    23       7.795  20.628  23.934  1.00  0.00      1LYP 530
+ATOM    442 2HG  LYS    23       7.243  19.665  25.294  1.00  0.00      1LYP 531
+ATOM    443 1HD  LYS    23       9.108  20.706  26.225  1.00  0.00      1LYP 532
+ATOM    444 2HD  LYS    23       9.842  19.222  25.631  1.00  0.00      1LYP 533
+ATOM    445 1HE  LYS    23      11.233  21.044  24.880  1.00  0.00      1LYP 534
+ATOM    446 2HE  LYS    23      10.353  20.464  23.472  1.00  0.00      1LYP 535
+ATOM    447 1HZ  LYS    23       9.317  22.679  25.121  1.00  0.00      1LYP 536
+ATOM    448 2HZ  LYS    23      10.436  22.954  23.873  1.00  0.00      1LYP 537
+ATOM    449 3HZ  LYS    23       8.921  22.270  23.521  1.00  0.00      1LYP 538
+ATOM    450  N   ILE    24       5.469  16.980  23.573  1.00  0.00      1LYP 539
+ATOM    451  CA  ILE    24       3.983  17.077  23.616  1.00  0.00      1LYP 540
+ATOM    452  C   ILE    24       3.361  16.003  24.516  1.00  0.00      1LYP 541
+ATOM    453  O   ILE    24       2.376  16.252  25.182  1.00  0.00      1LYP 542
+ATOM    454  CB  ILE    24       3.440  16.908  22.193  1.00  0.00      1LYP 543
+ATOM    455  CG1 ILE    24       4.166  15.770  21.481  1.00  0.00      1LYP 544
+ATOM    456  CG2 ILE    24       3.691  18.208  21.414  1.00  0.00      1LYP 545
+ATOM    457  CD1 ILE    24       3.181  15.048  20.561  1.00  0.00      1LYP 546
+ATOM    458  H   ILE    24       5.918  16.595  22.792  1.00  0.00      1LYP 547
+ATOM    459  HA  ILE    24       3.715  18.053  24.008  1.00  0.00      1LYP 548
+ATOM    460  HB  ILE    24       2.381  16.683  22.240  1.00  0.00      1LYP 549
+ATOM    461 1HG1 ILE    24       4.980  16.170  20.896  1.00  0.00      1LYP 550
+ATOM    462 2HG1 ILE    24       4.558  15.074  22.208  1.00  0.00      1LYP 551
+ATOM    463 1HG2 ILE    24       4.732  18.487  21.492  1.00  0.00      1LYP 552
+ATOM    464 2HG2 ILE    24       3.440  18.063  20.374  1.00  0.00      1LYP 553
+ATOM    465 3HG2 ILE    24       3.081  19.001  21.820  1.00  0.00      1LYP 554
+ATOM    466 1HD1 ILE    24       2.548  15.770  20.066  1.00  0.00      1LYP 555
+ATOM    467 2HD1 ILE    24       3.723  14.483  19.818  1.00  0.00      1LYP 556
+ATOM    468 3HD1 ILE    24       2.567  14.376  21.142  1.00  0.00      1LYP 557
+ATOM    469  N   GLN    25       3.941  14.831  24.525  1.00  0.00      1LYP 558
+ATOM    470  CA  GLN    25       3.381  13.747  25.380  1.00  0.00      1LYP 559
+ATOM    471  C   GLN    25       3.438  14.118  26.861  1.00  0.00      1LYP 560
+ATOM    472  O   GLN    25       2.830  13.468  27.688  1.00  0.00      1LYP 561
+ATOM    473  CB  GLN    25       4.218  12.480  25.163  1.00  0.00      1LYP 562
+ATOM    474  CG  GLN    25       5.615  12.696  25.744  1.00  0.00      1LYP 563
+ATOM    475  CD  GLN    25       5.646  12.201  27.191  1.00  0.00      1LYP 564
+ATOM    476  OE1 GLN    25       5.422  12.951  28.121  1.00  0.00      1LYP 565
+ATOM    477  NE2 GLN    25       5.919  10.947  27.425  1.00  0.00      1LYP 566
+ATOM    478  H   GLN    25       4.733  14.665  23.976  1.00  0.00      1LYP 567
+ATOM    479  HA  GLN    25       2.347  13.576  25.100  1.00  0.00      1LYP 568
+ATOM    480 1HB  GLN    25       3.745  11.644  25.656  1.00  0.00      1LYP 569
+ATOM    481 2HB  GLN    25       4.293  12.271  24.106  1.00  0.00      1LYP 570
+ATOM    482 1HG  GLN    25       6.339  12.144  25.166  1.00  0.00      1LYP 571
+ATOM    483 2HG  GLN    25       5.865  13.747  25.721  1.00  0.00      1LYP 572
+ATOM    484 1HE2 GLN    25       5.945  10.615  28.346  1.00  0.00      1LYP 573
+ATOM    485 2HE2 GLN    25       6.100  10.338  26.678  1.00  0.00      1LYP 574
+ATOM    486  N   GLY    26       4.164  15.157  27.169  1.00  0.00      1LYP 575
+ATOM    487  CA  GLY    26       4.264  15.577  28.597  1.00  0.00      1LYP 576
+ATOM    488  C   GLY    26       3.125  16.532  28.958  1.00  0.00      1LYP 577
+ATOM    489  O   GLY    26       2.627  16.517  30.066  1.00  0.00      1LYP 578
+ATOM    490  H   GLY    26       4.636  15.657  26.470  1.00  0.00      1LYP 579
+ATOM    491 1HA  GLY    26       4.210  14.703  29.229  1.00  0.00      1LYP 580
+ATOM    492 2HA  GLY    26       5.210  16.073  28.757  1.00  0.00      1LYP 581
+ATOM    493  N   LEU    27       2.740  17.345  28.015  1.00  0.00      1LYP 582
+ATOM    494  CA  LEU    27       1.638  18.308  28.282  1.00  0.00      1LYP 583
+ATOM    495  C   LEU    27       0.267  17.658  28.074  1.00  0.00      1LYP 584
+ATOM    496  O   LEU    27      -0.649  17.887  28.839  1.00  0.00      1LYP 585
+ATOM    497  CB  LEU    27       1.797  19.485  27.305  1.00  0.00      1LYP 586
+ATOM    498  CG  LEU    27       0.655  20.494  27.494  1.00  0.00      1LYP 587
+ATOM    499  CD1 LEU    27       0.611  20.953  28.953  1.00  0.00      1LYP 588
+ATOM    500  CD2 LEU    27       0.912  21.708  26.598  1.00  0.00      1LYP 589
+ATOM    501  H   LEU    27       3.182  17.329  27.141  1.00  0.00      1LYP 590
+ATOM    502  HA  LEU    27       1.714  18.644  29.309  1.00  0.00      1LYP 591
+ATOM    503 1HB  LEU    27       2.742  19.974  27.485  1.00  0.00      1LYP 592
+ATOM    504 2HB  LEU    27       1.783  19.113  26.291  1.00  0.00      1LYP 593
+ATOM    505  HG  LEU    27      -0.285  20.040  27.224  1.00  0.00      1LYP 594
+ATOM    506 1HD1 LEU    27       1.614  20.992  29.353  1.00  0.00      1LYP 595
+ATOM    507 2HD1 LEU    27       0.166  21.936  29.013  1.00  0.00      1LYP 596
+ATOM    508 3HD1 LEU    27       0.023  20.260  29.535  1.00  0.00      1LYP 597
+ATOM    509 1HD2 LEU    27       1.067  21.383  25.579  1.00  0.00      1LYP 598
+ATOM    510 2HD2 LEU    27       0.063  22.374  26.634  1.00  0.00      1LYP 599
+ATOM    511 3HD2 LEU    27       1.791  22.235  26.941  1.00  0.00      1LYP 600
+ATOM    512  N   LEU    28       0.151  16.859  27.046  1.00  0.00      1LYP 601
+ATOM    513  CA  LEU    28      -1.152  16.191  26.778  1.00  0.00      1LYP 602
+ATOM    514  C   LEU    28      -1.842  15.687  28.062  1.00  0.00      1LYP 603
+ATOM    515  O   LEU    28      -2.968  16.058  28.323  1.00  0.00      1LYP 604
+ATOM    516  CB  LEU    28      -0.923  15.010  25.816  1.00  0.00      1LYP 605
+ATOM    517  CG  LEU    28      -1.477  15.354  24.425  1.00  0.00      1LYP 606
+ATOM    518  CD1 LEU    28      -0.586  16.414  23.772  1.00  0.00      1LYP 607
+ATOM    519  CD2 LEU    28      -1.464  14.093  23.559  1.00  0.00      1LYP 608
+ATOM    520  H   LEU    28       0.910  16.715  26.444  1.00  0.00      1LYP 609
+ATOM    521  HA  LEU    28      -1.807  16.924  26.322  1.00  0.00      1LYP 610
+ATOM    522 1HB  LEU    28       0.134  14.806  25.736  1.00  0.00      1LYP 611
+ATOM    523 2HB  LEU    28      -1.428  14.133  26.191  1.00  0.00      1LYP 612
+ATOM    524  HG  LEU    28      -2.489  15.723  24.507  1.00  0.00      1LYP 613
+ATOM    525 1HD1 LEU    28       0.420  16.034  23.675  1.00  0.00      1LYP 614
+ATOM    526 2HD1 LEU    28      -0.969  16.657  22.792  1.00  0.00      1LYP 615
+ATOM    527 3HD1 LEU    28      -0.572  17.306  24.379  1.00  0.00      1LYP 616
+ATOM    528 1HD2 LEU    28      -0.587  13.504  23.785  1.00  0.00      1LYP 617
+ATOM    529 2HD2 LEU    28      -2.348  13.505  23.759  1.00  0.00      1LYP 618
+ATOM    530 3HD2 LEU    28      -1.449  14.367  22.515  1.00  0.00      1LYP 619
+ATOM    531  N   PRO    29      -1.181  14.854  28.853  1.00  0.00      1LYP 620
+ATOM    532  CA  PRO    29      -1.801  14.344  30.090  1.00  0.00      1LYP 621
+ATOM    533  C   PRO    29      -2.410  15.462  30.939  1.00  0.00      1LYP 622
+ATOM    534  O   PRO    29      -3.402  15.258  31.610  1.00  0.00      1LYP 623
+ATOM    535  CB  PRO    29      -0.653  13.659  30.849  1.00  0.00      1LYP 624
+ATOM    536  CG  PRO    29       0.562  13.587  29.892  1.00  0.00      1LYP 625
+ATOM    537  CD  PRO    29       0.197  14.357  28.613  1.00  0.00      1LYP 626
+ATOM    538  HA  PRO    29      -2.571  13.630  29.833  1.00  0.00      1LYP 627
+ATOM    539 1HB  PRO    29      -0.397  14.234  31.726  1.00  0.00      1LYP 628
+ATOM    540 2HB  PRO    29      -0.950  12.664  31.143  1.00  0.00      1LYP 629
+ATOM    541 1HG  PRO    29       1.426  14.036  30.359  1.00  0.00      1LYP 630
+ATOM    542 2HG  PRO    29       0.778  12.556  29.651  1.00  0.00      1LYP 631
+ATOM    543 1HD  PRO    29       0.882  15.172  28.469  1.00  0.00      1LYP 632
+ATOM    544 2HD  PRO    29       0.216  13.693  27.766  1.00  0.00      1LYP 633
+ATOM    545  N   LYS    30      -1.810  16.618  30.900  1.00  0.00      1LYP 634
+ATOM    546  CA  LYS    30      -2.358  17.743  31.704  1.00  0.00      1LYP 635
+ATOM    547  C   LYS    30      -3.489  18.443  30.952  1.00  0.00      1LYP 636
+ATOM    548  O   LYS    30      -4.546  18.685  31.500  1.00  0.00      1LYP 637
+ATOM    549  CB  LYS    30      -1.234  18.756  31.963  1.00  0.00      1LYP 638
+ATOM    550  CG  LYS    30      -0.589  18.464  33.321  1.00  0.00      1LYP 639
+ATOM    551  CD  LYS    30       0.478  19.525  33.607  1.00  0.00      1LYP 640
+ATOM    552  CE  LYS    30       1.594  18.906  34.453  1.00  0.00      1LYP 641
+ATOM    553  NZ  LYS    30       2.610  18.254  33.581  1.00  0.00      1LYP 642
+ATOM    554  H   LYS    30      -1.007  16.740  30.356  1.00  0.00      1LYP 643
+ATOM    555  HA  LYS    30      -2.749  17.349  32.637  1.00  0.00      1LYP 644
+ATOM    556 1HB  LYS    30      -0.490  18.678  31.185  1.00  0.00      1LYP 645
+ATOM    557 2HB  LYS    30      -1.642  19.756  31.964  1.00  0.00      1LYP 646
+ATOM    558 1HG  LYS    30      -1.341  18.492  34.096  1.00  0.00      1LYP 647
+ATOM    559 2HG  LYS    30      -0.134  17.485  33.304  1.00  0.00      1LYP 648
+ATOM    560 1HD  LYS    30       0.888  19.887  32.676  1.00  0.00      1LYP 649
+ATOM    561 2HD  LYS    30       0.034  20.351  34.143  1.00  0.00      1LYP 650
+ATOM    562 1HE  LYS    30       2.074  19.677  35.038  1.00  0.00      1LYP 651
+ATOM    563 2HE  LYS    30       1.175  18.167  35.121  1.00  0.00      1LYP 652
+ATOM    564 1HZ  LYS    30       2.412  18.483  32.585  1.00  0.00      1LYP 653
+ATOM    565 2HZ  LYS    30       3.558  18.601  33.834  1.00  0.00      1LYP 654
+ATOM    566 3HZ  LYS    30       2.571  17.223  33.714  1.00  0.00      1LYP 655
+ATOM    567  N   LEU    31      -3.245  18.758  29.707  1.00  0.00      1LYP 656
+ATOM    568  CA  LEU    31      -4.293  19.441  28.903  1.00  0.00      1LYP 657
+ATOM    569  C   LEU    31      -5.354  18.446  28.438  1.00  0.00      1LYP 658
+ATOM    570  O   LEU    31      -6.525  18.607  28.718  1.00  0.00      1LYP 659
+ATOM    571  CB  LEU    31      -3.620  20.059  27.668  1.00  0.00      1LYP 660
+ATOM    572  CG  LEU    31      -4.106  21.499  27.477  1.00  0.00      1LYP 661
+ATOM    573  CD1 LEU    31      -3.350  22.420  28.439  1.00  0.00      1LYP 662
+ATOM    574  CD2 LEU    31      -3.819  21.936  26.038  1.00  0.00      1LYP 663
+ATOM    575  H   LEU    31      -2.376  18.549  29.306  1.00  0.00      1LYP 664
+ATOM    576  HA  LEU    31      -4.765  20.203  29.514  1.00  0.00      1LYP 665
+ATOM    577 1HB  LEU    31      -2.549  20.055  27.802  1.00  0.00      1LYP 666
+ATOM    578 2HB  LEU    31      -3.867  19.477  26.793  1.00  0.00      1LYP 667
+ATOM    579  HG  LEU    31      -5.167  21.559  27.670  1.00  0.00      1LYP 668
+ATOM    580 1HD1 LEU    31      -3.185  21.912  29.377  1.00  0.00      1LYP 669
+ATOM    581 2HD1 LEU    31      -2.396  22.690  28.010  1.00  0.00      1LYP 670
+ATOM    582 3HD1 LEU    31      -3.927  23.315  28.616  1.00  0.00      1LYP 671
+ATOM    583 1HD2 LEU    31      -2.863  21.547  25.722  1.00  0.00      1LYP 672
+ATOM    584 2HD2 LEU    31      -4.590  21.560  25.382  1.00  0.00      1LYP 673
+ATOM    585 3HD2 LEU    31      -3.801  23.015  25.982  1.00  0.00      1LYP 674
+ATOM    586  N   ALA    32      -4.923  17.435  27.735  1.00  0.00      1LYP 675
+ATOM    587  CA  ALA    32      -5.894  16.421  27.245  1.00  0.00      1LYP 676
+ATOM    588  C   ALA    32      -5.244  15.042  27.164  1.00  0.00      1LYP 677
+ATOM    589  O   ALA    32      -4.721  14.751  26.101  1.00  0.00      1LYP 678
+ATOM    590  CB  ALA    32      -6.357  16.830  25.841  1.00  0.00      1LYP 679
+ATOM    591  OXT ALA    32      -5.306  14.354  28.170  1.00  0.00      1LYP 680
+ATOM    592  H   ALA    32      -3.969  17.344  27.531  1.00  0.00      1LYP 681
+ATOM    593  HA  ALA    32      -6.734  16.376  27.930  1.00  0.00      1LYP 682
+ATOM    594 1HB  ALA    32      -5.519  17.213  25.277  1.00  0.00      1LYP 683
+ATOM    595 2HB  ALA    32      -6.769  15.973  25.329  1.00  0.00      1LYP 684
+ATOM    596 3HB  ALA    32      -7.114  17.596  25.917  1.00  0.00      1LYP 685
+TER     597      ALA    32                                              1LYP 686
+MASTER       64    0    0    1    0    0    0    6  596    1    0    3  1LYP 687
+END                                                                     1LYP 688

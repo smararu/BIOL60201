@@ -1,0 +1,341 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1phn.pdb                                                                        
+ 1PHN  ELECTRON TRANSPORT  MOL_ID: 1;  MOL_ID: 1;  
+ Sequence length -  333
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1 A   1   MET M  
+    2 A   2   LYS K  
+    3 A   3   THR T  
+    4 A   4   PRO P H
+    5 A   5   ILE I H
+    6 A   6   THR T H
+    7 A   7   GLU E H
+    8 A   8   ALA A H
+    9 A   9   ILE I H
+   10 A  10   ALA A H
+   11 A  11   ALA A H
+   12 A  12   ALA A H
+   13 A  13   ASP D H
+   14 A  14   ASN N H
+   15 A  15   GLN Q H
+   16 A  16   GLY G  
+   17 A  17   ARG R  
+   18 A  18   PHE F  
+   19 A  19   LEU L  
+   20 A  20   SER S  
+   21 A  21   ASN N H
+   22 A  22   THR T H
+   23 A  23   GLU E H
+   24 A  24   LEU L H
+   25 A  25   GLN Q H
+   26 A  26   ALA A H
+   27 A  27   VAL V H
+   28 A  28   ASN N H
+   29 A  29   GLY G H
+   30 A  30   ARG R H
+   31 A  31   TYR Y H
+   32 A  32   GLN Q H
+   33 A  33   ARG R H
+   34 A  34   ALA A H
+   35 A  35   ALA A H
+   36 A  36   ALA A H
+   37 A  37   SER S H
+   38 A  38   LEU L H
+   39 A  39   GLU E H
+   40 A  40   ALA A H
+   41 A  41   ALA A H
+   42 A  42   ARG R H
+   43 A  43   SER S H
+   44 A  44   LEU L H
+   45 A  45   THR T H
+   46 A  46   SER S H
+   47 A  47   ASN N  
+   48 A  48   ALA A H
+   49 A  49   GLU E H
+   50 A  50   ARG R H
+   51 A  51   LEU L H
+   52 A  52   ILE I H
+   53 A  53   ASN N H
+   54 A  54   GLY G H
+   55 A  55   ALA A H
+   56 A  56   ALA A H
+   57 A  57   GLN Q H
+   58 A  58   ALA A H
+   59 A  59   VAL V H
+   60 A  60   TYR Y H
+   61 A  61   SER S H
+   62 A  62   LYS K H
+   63 A  63   PHE F  
+   64 A  64   PRO P G
+   65 A  65   TYR Y G
+   66 A  66   THR T G
+   67 A  67   SER S G
+   68 A  68   GLN Q G
+   69 A  69   MET M  
+   70 A  70   PRO P  
+   71 A  71   GLY G  
+   72 A  72   PRO P  
+   73 A  73   GLN Q  
+   74 A  74   TYR Y  
+   75 A  75   ALA A  
+   76 A  76   SER S  
+   77 A  77   SER S  
+   78 A  78   ALA A H
+   79 A  79   VAL V H
+   80 A  80   GLY G H
+   81 A  81   LYS K H
+   82 A  82   ALA A H
+   83 A  83   LYS K H
+   84 A  84   CYS C H
+   85 A  85   ALA A H
+   86 A  86   ARG R H
+   87 A  87   ASP D H
+   88 A  88   ILE I H
+   89 A  89   GLY G H
+   90 A  90   TYR Y H
+   91 A  91   TYR Y H
+   92 A  92   LEU L H
+   93 A  93   ARG R H
+   94 A  94   MET M H
+   95 A  95   VAL V H
+   96 A  96   THR T H
+   97 A  97   TYR Y H
+   98 A  98   CYS C H
+   99 A  99   LEU L H
+  100 A 100   VAL V H
+  101 A 101   VAL V H
+  102 A 102   GLY G  
+  103 A 103   GLY G  
+  104 A 104   THR T  
+  105 A 105   GLY G H
+  106 A 106   PRO P H
+  107 A 107   MET M H
+  108 A 108   ASP D H
+  109 A 109   GLU E H
+  110 A 110   TYR Y H
+  111 A 111   LEU L  
+  112 A 112   ILE I  
+  113 A 113   ALA A  
+  114 A 114   GLY G  
+  115 A 115   LEU L H
+  116 A 116   GLU E H
+  117 A 117   GLU E H
+  118 A 118   ILE I H
+  119 A 119   ASN N H
+  120 A 120   ARG R H
+  121 A 121   THR T H
+  122 A 122   PHE F H
+  123 A 123   ASP D  
+  124 A 124   LEU L  
+  125 A 125   SER S  
+  126 A 126   PRO P H
+  127 A 127   SER S H
+  128 A 128   TRP W H
+  129 A 129   TYR Y H
+  130 A 130   VAL V H
+  131 A 131   GLU E H
+  132 A 132   ALA A H
+  133 A 133   LEU L H
+  134 A 134   ASN N H
+  135 A 135   TYR Y H
+  136 A 136   ILE I H
+  137 A 137   LYS K H
+  138 A 138   ALA A H
+  139 A 139   ASN N H
+  140 A 140   HIS H  
+  141 A 143   GLY G  
+  142 A 144   LEU L  
+  143 A 145   SER S  
+  144 A 146   GLY G H
+  145 A 147   GLN Q H
+  146 A 148   ALA A H
+  147 A 149   ALA A H
+  148 A 150   ASN N H
+  149 A 161   GLU E H
+  150 A 162   ALA A H
+  151 A 163   ASN N H
+  152 A 164   THR T H
+  153 A 165   TYR Y H
+  154 A 166   ILE I H
+  155 A 167   ASP D H
+  156 A 168   TYR Y H
+  157 A 169   ALA A H
+  158 A 170   ILE I H
+  159 A 171   ASN N H
+  160 A 172   ALA A H
+  161 A 173   LEU L H
+  162 A 174   SER S  
+  163 B   1   MET M  
+  164 B   2   LEU L  
+  165 B   3   ASP D  
+  166 B   4   ALA A H
+  167 B   5   PHE F H
+  168 B   6   ALA A H
+  169 B   7   LYS K H
+  170 B   8   VAL V H
+  171 B   9   VAL V H
+  172 B  10   ALA A H
+  173 B  11   GLN Q H
+  174 B  12   ALA A H
+  175 B  13   ASP D H
+  176 B  14   ALA A H
+  177 B  15   ARG R H
+  178 B  16   GLY G  
+  179 B  17   GLU E  
+  180 B  18   PHE F  
+  181 B  19   LEU L  
+  182 B  20   SER S  
+  183 B  21   ASN N H
+  184 B  22   THR T H
+  185 B  23   GLN Q H
+  186 B  24   LEU L H
+  187 B  25   ASP D H
+  188 B  26   ALA A H
+  189 B  27   LEU L H
+  190 B  28   SER S H
+  191 B  29   LYS K H
+  192 B  30   MET M H
+  193 B  31   VAL V H
+  194 B  32   SER S H
+  195 B  33   GLU E H
+  196 B  34   GLY G H
+  197 B  35   ASN N H
+  198 B  36   LYS K H
+  199 B  37   ARG R H
+  200 B  38   LEU L H
+  201 B  39   ASP D H
+  202 B  40   VAL V H
+  203 B  41   VAL V H
+  204 B  42   ASN N H
+  205 B  43   ARG R H
+  206 B  44   ILE I H
+  207 B  45   THR T H
+  208 B  46   SER S H
+  209 B  47   ASN N H
+  210 B  48   ALA A H
+  211 B  49   SER S H
+  212 B  50   ALA A H
+  213 B  51   ILE I H
+  214 B  52   VAL V H
+  215 B  53   THR T H
+  216 B  54   ASN N H
+  217 B  55   ALA A H
+  218 B  56   ALA A H
+  219 B  57   ARG R H
+  220 B  58   ALA A H
+  221 B  59   LEU L H
+  222 B  60   PHE F H
+  223 B  61   SER S H
+  224 B  62   GLU E H
+  225 B  63   GLN Q  
+  226 B  64   PRO P G
+  227 B  65   GLN Q G
+  228 B  66   LEU L G
+  229 B  67   ILE I  
+  230 B  68   GLN Q  
+  231 B  69   PRO P  
+  232 B  70   GLY G  
+  233 B  71   GLY G  
+  234 B  75   ALA A  
+  235 B  76   TYR Y  
+  236 B  77   THR T  
+  237 B  78   ASN N H
+  238 B  79   ARG R H
+  239 B  80   ARG R H
+  240 B  81   MET M H
+  241 B  82   ALA A H
+  242 B  83   ALA A H
+  243 B  84   CYS C H
+  244 B  85   LEU L H
+  245 B  86   ARG R H
+  246 B  87   ASP D H
+  247 B  88   MET M H
+  248 B  89   GLU E H
+  249 B  90   ILE I H
+  250 B  91   ILE I H
+  251 B  92   LEU L H
+  252 B  93   ARG R H
+  253 B  94   TYR Y H
+  254 B  95   VAL V H
+  255 B  96   SER S H
+  256 B  97   TYR Y H
+  257 B  98   ALA A H
+  258 B  99   ILE I H
+  259 B 100   ILE I H
+  260 B 101   ALA A H
+  261 B 102   GLY G  
+  262 B 103   ASP D  
+  263 B 104   SER S  
+  264 B 105   SER S  
+  265 B 106   ILE I  
+  266 B 107   LEU L  
+  267 B 108   ASP D H
+  268 B 109   ASP D H
+  269 B 110   ARG R H
+  270 B 111   CYS C H
+  271 B 112   LEU L  
+  272 B 113   ASN N  
+  273 B 114   GLY G  
+  274 B 115   LEU L H
+  275 B 116   ARG R H
+  276 B 117   GLU E H
+  277 B 118   THR T H
+  278 B 119   TYR Y H
+  279 B 120   GLN Q H
+  280 B 121   ALA A H
+  281 B 122   LEU L H
+  282 B 123   GLY G  
+  283 B 124   VAL V  
+  284 B 125   PRO P  
+  285 B 126   GLY G H
+  286 B 127   ALA A H
+  287 B 128   SER S H
+  288 B 129   VAL V H
+  289 B 130   ALA A H
+  290 B 131   VAL V H
+  291 B 132   GLY G H
+  292 B 133   ILE I H
+  293 B 134   GLU E H
+  294 B 135   LYS K H
+  295 B 136   MET M H
+  296 B 137   LYS K H
+  297 B 138   ASP D H
+  298 B 139   SER S H
+  299 B 140   ALA A H
+  300 B 141   ILE I H
+  301 B 142   ALA A H
+  302 B 143   ILE I H
+  303 B 144   ALA A H
+  304 B 145   ASN N  
+  305 B 146   ASP D  
+  306 B 147   PRO P  
+  307 B 148   SER S  
+  308 B 149   GLY G  
+  309 B 150   ILE I  
+  310 B 151   THR T  
+  311 B 152   THR T  
+  312 B 153   GLY G  
+  313 B 154   ASP D  
+  314 B 155   CYS C  
+  315 B 156   SER S H
+  316 B 157   ALA A H
+  317 B 158   LEU L H
+  318 B 159   MET M H
+  319 B 160   ALA A H
+  320 B 161   GLU E H
+  321 B 162   VAL V H
+  322 B 163   GLY G H
+  323 B 164   THR T H
+  324 B 165   TYR Y H
+  325 B 166   PHE F H
+  326 B 167   ASP D H
+  327 B 168   ARG R H
+  328 B 169   ALA A H
+  329 B 170   ALA A H
+  330 B 171   THR T H
+  331 B 172   ALA A H
+  332 B 173   VAL V  
+  333 B 174   GLN Q  
+ 

@@ -1,0 +1,1495 @@
+HEADER    HYDROLASE (O-GLYCOSYL)                  14-SEP-94   1LZR      1LZR   2
+COMPND    LYSOZYME (LZ406) (E.C.3.2.1.17) COMPLEXED WITH                1LZR   3
+COMPND   2 TETRA-ACETYL-CHITOTETRAOSE                                   1LZR   4
+SOURCE    HUMAN (HOMO SAPIENS)                                          1LZR   5
+AUTHOR    M.MATSUSHIMA,K.INAKA                                          1LZR   6
+REVDAT   1   20-APR-95 1LZR    0                                        1LZR   7
+JRNL        AUTH   H.SONG,K.INAKA,K.MAENAKA,M.MATSUSHIMA                1LZR   8
+JRNL        TITL   STRUCTURAL CHANGES OF THE ACTIVE SITE CLEFT AND      1LZR   9
+JRNL        TITL 2 DIFFERENT SACCHARIDE BINDING MODES IN HUMAN          1LZR  10
+JRNL        TITL 3 LYSOZYME CO-CRYSTALLIZED WITH                        1LZR  11
+JRNL        TITL 4 HEXA-N-ACETYL-CHITOHEXAOSE AT PH 4.0                 1LZR  12
+JRNL        REF    TO BE PUBLISHED                                      1LZR  13
+JRNL        REFN                                                  0353  1LZR  14
+REMARK   1                                                              1LZR  15
+REMARK   2                                                              1LZR  16
+REMARK   2 RESOLUTION. 1.50 ANGSTROMS.                                  1LZR  17
+REMARK   3                                                              1LZR  18
+REMARK   3 REFINEMENT.                                                  1LZR  19
+REMARK   3   PROGRAM                    PROLSQ                          1LZR  20
+REMARK   3   AUTHORS                    KONNERT,HENDRICKSON             1LZR  21
+REMARK   3   R VALUE                    0.140                           1LZR  22
+REMARK   3                                                              1LZR  23
+REMARK   3   NUMBER OF REFLECTIONS      17500                           1LZR  24
+REMARK   3   RESOLUTION RANGE       5.0 - 1.5  ANGSTROMS                1LZR  25
+REMARK   3                                                              1LZR  26
+REMARK   3   NUMBER OF PROTEIN ATOMS                       1029         1LZR  27
+REMARK   3   NUMBER OF NUCLEIC ACID ATOMS                     0         1LZR  28
+REMARK   3   NUMBER OF SOLVENT ATOMS                        163         1LZR  29
+REMARK   3                                                              1LZR  30
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES (THE VALUES OF             1LZR  31
+REMARK   3      SIGMA, IN PARENTHESES, ARE THE INPUT ESTIMATED          1LZR  32
+REMARK   3      STANDARD DEVIATIONS THAT DETERMINE THE RELATIVE         1LZR  33
+REMARK   3      WEIGHTS OF THE CORRESPONDING RESTRAINTS)                1LZR  34
+REMARK   3    DISTANCE RESTRAINTS (ANGSTROMS)                           1LZR  35
+REMARK   3      BOND DISTANCE                            0.016(0.020)   1LZR  36
+REMARK   3      ANGLE DISTANCE                           0.034(0.035)   1LZR  37
+REMARK   3      PLANAR 1-4 DISTANCE                      0.050(0.050)   1LZR  38
+REMARK   3    PLANE RESTRAINT (ANGSTROMS)                0.015(0.020)   1LZR  39
+REMARK   3    CHIRAL-CENTER RESTRAINT (ANGSTROMS**3)     0.149(0.150)   1LZR  40
+REMARK   3    NON-BONDED CONTACT RESTRAINTS (ANGSTROMS)                 1LZR  41
+REMARK   3      SINGLE TORSION CONTACT                   0.175(0.300)   1LZR  42
+REMARK   3      MULTIPLE TORSION CONTACT                 0.176(0.300)   1LZR  43
+REMARK   3      POSSIBLE HYDROGEN BOND                   0.181(0.300)   1LZR  44
+REMARK   3    CONFORMATIONAL TORSION ANGLE RESTRAINT (DEGREES)          1LZR  45
+REMARK   3      PLANAR                                     3.1(3.0)     1LZR  46
+REMARK   3      STAGGERED                                 13.7(15.0)    1LZR  47
+REMARK   3      ORTHONORMAL                               22.3(20.0)    1LZR  48
+REMARK   3    ISOTROPIC THERMAL FACTOR RESTRAINTS (ANGSTROMS**2)        1LZR  49
+REMARK   3      MAIN-CHAIN BOND                          1.141(1.500)   1LZR  50
+REMARK   3      MAIN-CHAIN ANGLE                         1.694(2.000)   1LZR  51
+REMARK   3      SIDE-CHAIN BOND                          2.176(2.000)   1LZR  52
+REMARK   3      SIDE-CHAIN ANGLE                         3.491(2.500)   1LZR  53
+REMARK   4                                                              1LZR  54
+REMARK   4 THE X-RAY DIFFRACTION DATA WERE COLLECTED USING MOLYBDENUM   1LZR  55
+REMARK   4 RADIATION.  A TOTAL OF 165 SOLVENT MOLECULES ARE INCLUDED    1LZR  56
+REMARK   4 IN THE STRUCTURE PARAMETERS.                                 1LZR  57
+REMARK   5                                                              1LZR  58
+REMARK   5 THE FOLLOWING SOLVENT MOLECULES LIE FARTHER THAN EXPECTED    1LZR  59
+REMARK   5 FROM THE PROTEIN OR NUCLEIC ACID MOLECULE AND MAY BE         1LZR  60
+REMARK   5 ASSOCIATED WITH A SYMMETRY RELATED MOLECULE (M=MODEL         1LZR  61
+REMARK   5 NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE  1LZR  62
+REMARK   5 NUMBER; I=INSERTION CODE):                                   1LZR  63
+REMARK   5                                                              1LZR  64
+REMARK   5  M RES CSSEQI                                                1LZR  65
+REMARK   5  0 HOH    295      DISTANCE =  5.58 ANGSTROMS                1LZR  66
+REMARK   6                                                              1LZR  67
+REMARK   6 PDB ADVISORY NOTICE:                                         1LZR  68
+REMARK   6 WATER MOLECULE 161 AND SYMMETRY RELATED WATER MOLECULE 247   1LZR  69
+REMARK   6 ARE ONLY 2.13 ANGSTROMS APART.                               1LZR  70
+REMARK   7                                                              1LZR  71
+REMARK   7 THE LYSOZYME MOLECULE BINDS THE SACCHARIDE MOLECULE,         1LZR  72
+REMARK   7 (NAG)4, IN THE BINDING SUBSITES, A, B, C, AND D.             1LZR  73
+REMARK  36                                                              1LZR  74
+REMARK  36 TOPIC: STEREOCHEMISTRY                                       1LZR  75
+REMARK  36                                                              1LZR  76
+REMARK  36 SUBTOPIC: BOND LENGTHS                   (36.1)              1LZR  77
+REMARK  36                                                              1LZR  78
+REMARK  36 STANDARD TEXT:                                               1LZR  79
+REMARK  36                                                              1LZR  80
+REMARK  36  THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES     1LZR  81
+REMARK  36  HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE      1LZR  82
+REMARK  36  THAN 4*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN      1LZR  83
+REMARK  36  IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).        1LZR  84
+REMARK  36                                                              1LZR  85
+REMARK  36 STANDARD TABLE:                                              1LZR  86
+REMARK  36 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,A4,3X,A4,16X,F5.1)         1LZR  87
+REMARK  36                                                              1LZR  88
+REMARK  36  EXPECTED VALUES: ENGH AND HUBER, 1991                       1LZR  89
+REMARK  36                                                              1LZR  90
+REMARK  36  M RES CSSEQI ATM1   ATM2       DEVIATION_IN_ANGSTROMS       1LZR  91
+REMARK  36                                                              1LZR  92
+REMARK  36  0 TYR    63   CB  -  CA                 0.081               1LZR  93
+REMARK  36                                                              1LZR  94
+REMARK  36 TOPIC: STEREOCHEMISTRY                                       1LZR  95
+REMARK  36                                                              1LZR  96
+REMARK  36 SUBTOPIC: COVALENT BOND ANGLES           (36.2)              1LZR  97
+REMARK  36                                                              1LZR  98
+REMARK  36 STANDARD TEXT:                                               1LZR  99
+REMARK  36                                                              1LZR 100
+REMARK  36  THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES     1LZR 101
+REMARK  36  HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE      1LZR 102
+REMARK  36  THAN 4*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN      1LZR 103
+REMARK  36  IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).        1LZR 104
+REMARK  36                                                              1LZR 105
+REMARK  36 STANDARD TABLE:                                              1LZR 106
+REMARK  36 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(2X,A4,17X,F5.1)          1LZR 107
+REMARK  36                                                              1LZR 108
+REMARK  36  EXPECTED VALUES: ENGH AND HUBER, 1991                       1LZR 109
+REMARK  36                                                              1LZR 110
+REMARK  36  M RES CSSEQI ATM1   ATM2   ATM3                             1LZR 111
+REMARK  36                                                              1LZR 112
+REMARK  36  0 GLU     7   CG  -  CD  -  OE1 ANGL. DEV. =  10.7 DEGREES  1LZR 113
+REMARK  36  0 GLU     7   CG  -  CD  -  OE2 ANGL. DEV. =  13.8 DEGREES  1LZR 114
+REMARK  36  0 ARG    50   CD  -  NE  -  CZ  ANGL. DEV. =  15.8 DEGREES  1LZR 115
+REMARK 999                                                              1LZR 116
+REMARK 999 CROSS REFERENCE TO SEQUENCE DATABASE                         1LZR 117
+REMARK 999 SWISS-PROT ENTRY NAME       PDB ENTRY CHAIN NAME             1LZR 118
+REMARK 999    LYC_HUMAN                                                 1LZR 119
+SEQRES   1    130  LYS VAL PHE GLU ARG CYS GLU LEU ALA ARG THR LEU LYS  1LZR 120
+SEQRES   2    130  ARG LEU GLY MET ASP GLY TYR ARG GLY ILE SER LEU ALA  1LZR 121
+SEQRES   3    130  ASN TRP MET CYS LEU ALA LYS TRP GLU SER GLY TYR ASN  1LZR 122
+SEQRES   4    130  THR ARG ALA THR ASN TYR ASN ALA GLY ASP ARG SER THR  1LZR 123
+SEQRES   5    130  ASP TYR GLY ILE PHE GLN ILE ASN SER ARG TYR TRP CYS  1LZR 124
+SEQRES   6    130  ASN ASP GLY LYS THR PRO GLY ALA VAL ASN ALA CYS HIS  1LZR 125
+SEQRES   7    130  LEU SER CYS SER ALA LEU LEU GLN ASP ASN ILE ALA ASP  1LZR 126
+SEQRES   8    130  ALA VAL ALA CYS ALA LYS ARG VAL VAL ARG ASP PRO GLN  1LZR 127
+SEQRES   9    130  GLY ILE ARG ALA TRP VAL ALA TRP ARG ASN ARG CYS GLN  1LZR 128
+SEQRES  10    130  ASN ARG ASP VAL ARG GLN TYR VAL GLN GLY CYS GLY VAL  1LZR 129
+HET     CL    131       1     CHLORIDE ION                              1LZR 130
+HET     CL    132       1     CHLORIDE ION                              1LZR 131
+HET    NAG    136      15     N-ACETYL-D-GLUCOSAMINE                    1LZR 132
+HET    NAG    137      14     N-ACETYL-D-GLUCOSAMINE                    1LZR 133
+HET    NAG    138      14     N-ACETYL-D-GLUCOSAMINE                    1LZR 134
+HET    NAG    139      14     N-ACETYL-D-GLUCOSAMINE                    1LZR 135
+FORMUL   2   CL    2(CL1 1-)                                            1LZR 136
+FORMUL   3  NAG    4(C8 H15 N1 O6)                                      1LZR 137
+FORMUL   4  HOH   *163(H2 O1)                                           1LZR 138
+HELIX    1   A ARG      5  ARG     14  1                                1LZR 139
+HELIX    2   B LEU     25  GLU     35  1                                1LZR 140
+HELIX    3   E SER     80  LEU     85  5                                1LZR 141
+HELIX    4   C ALA     90  VAL     99  1                                1LZR 142
+HELIX    5   D VAL    110  CYS    116  1                                1LZR 143
+SHEET    1   A 2 LYS     1  PHE     3  0                                1LZR 144
+SHEET    2   A 2 TYR    38  THR    40 -1  N  THR    40   O  LYS     1   1LZR 145
+SHEET    1   B 3 ALA    42  ASN    46  0                                1LZR 146
+SHEET    2   B 3 SER    51  GLY    55 -1  N  GLY    55   O  ALA    42   1LZR 147
+SHEET    3   B 3 ILE    59  SER    61 -1  N  SER    61   O  THR    52   1LZR 148
+TURN     1 T01 LYS    13  GLY    16                                     1LZR 149
+TURN     2 T02 MET    17  TYR    20                                     1LZR 150
+TURN     3 T03 GLY    19  GLY    22                                     1LZR 151
+TURN     4 T04 TYR    20  ILE    23                                     1LZR 152
+TURN     5 T05 SER    24  ASN    27                                     1LZR 153
+TURN     6 T06 GLY    55  GLN    58                                     1LZR 154
+TURN     7 T07 THR    70  ALA    73                                     1LZR 155
+TURN     8 T08 ASN    75  HIS    78                                     1LZR 156
+TURN     9 T09 ARG    98  ARG   101                                     1LZR 157
+TURN    10 T10 VAL    99  ASP   102                                     1LZR 158
+TURN    11 T11 ASP   102  GLY   105                                     1LZR 159
+TURN    12 T12 GLY   105  ALA   108                                     1LZR 160
+TURN    13 T13 ILE   106  TRP   109                                     1LZR 161
+TURN    14 T14 TRP   109  TRP   112                                     1LZR 162
+TURN    15 T15 VAL   110  ARG   113                                     1LZR 163
+TURN    16 T16 VAL   121  TYR   124                                     1LZR 164
+TURN    17 T17 ARG   122  VAL   125                                     1LZR 165
+TURN    18 T18 VAL   125  CYS   128                                     1LZR 166
+SSBOND   1 CYS      6    CYS    128                                     1LZR 167
+SSBOND   2 CYS     30    CYS    116                                     1LZR 168
+SSBOND   3 CYS     65    CYS     81                                     1LZR 169
+SSBOND   4 CYS     77    CYS     95                                     1LZR 170
+CRYST1   56.510   60.910   34.010  90.00  90.00  90.00 P 21 21 21    4  1LZR 171
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1LZR 172
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1LZR 173
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1LZR 174
+SCALE1      0.017696  0.000000  0.000000        0.00000                 1LZR 175
+SCALE2      0.000000  0.016418  0.000000        0.00000                 1LZR 176
+SCALE3      0.000000  0.000000  0.029403        0.00000                 1LZR 177
+ATOM      1  N   LYS     1       0.957  19.593  23.128  1.00 10.60      1LZR 178
+ATOM      2  CA  LYS     1       1.404  20.415  21.980  1.00 10.97      1LZR 179
+ATOM      3  C   LYS     1       2.660  19.794  21.385  1.00 11.30      1LZR 180
+ATOM      4  O   LYS     1       3.466  19.144  22.118  1.00 10.95      1LZR 181
+ATOM      5  CB  LYS     1       1.606  21.834  22.411  1.00 14.11      1LZR 182
+ATOM      6  CG  LYS     1       2.937  22.329  22.801  1.00 17.24      1LZR 183
+ATOM      7  CD  LYS     1       3.051  23.832  22.958  1.00 17.56      1LZR 184
+ATOM      8  CE  LYS     1       3.856  24.423  21.827  1.00 21.06      1LZR 185
+ATOM      9  NZ  LYS     1       4.079  25.838  22.103  1.00 23.24      1LZR 186
+ATOM     10  N   VAL     2       2.804  19.964  20.082  1.00  9.45      1LZR 187
+ATOM     11  CA  VAL     2       4.016  19.462  19.390  1.00  9.16      1LZR 188
+ATOM     12  C   VAL     2       4.829  20.712  19.077  1.00  8.73      1LZR 189
+ATOM     13  O   VAL     2       4.392  21.533  18.294  1.00 11.12      1LZR 190
+ATOM     14  CB  VAL     2       3.621  18.687  18.125  1.00  9.32      1LZR 191
+ATOM     15  CG1 VAL     2       4.863  18.269  17.367  1.00 12.86      1LZR 192
+ATOM     16  CG2 VAL     2       2.835  17.419  18.435  1.00  9.92      1LZR 193
+ATOM     17  N   PHE     3       5.968  20.893  19.738  1.00  9.85      1LZR 194
+ATOM     18  CA  PHE     3       6.808  22.071  19.465  1.00 10.11      1LZR 195
+ATOM     19  C   PHE     3       7.552  21.905  18.135  1.00  9.65      1LZR 196
+ATOM     20  O   PHE     3       7.886  20.794  17.702  1.00 10.59      1LZR 197
+ATOM     21  CB  PHE     3       7.955  22.192  20.538  1.00 10.33      1LZR 198
+ATOM     22  CG  PHE     3       7.561  22.797  21.844  1.00  9.70      1LZR 199
+ATOM     23  CD1 PHE     3       6.902  22.020  22.802  1.00 11.49      1LZR 200
+ATOM     24  CD2 PHE     3       7.867  24.125  22.154  1.00  9.95      1LZR 201
+ATOM     25  CE1 PHE     3       6.522  22.584  24.031  1.00 13.64      1LZR 202
+ATOM     26  CE2 PHE     3       7.516  24.689  23.378  1.00 11.81      1LZR 203
+ATOM     27  CZ  PHE     3       6.856  23.914  24.339  1.00 11.30      1LZR 204
+ATOM     28  N   GLU     4       7.853  23.086  17.584  1.00 10.59      1LZR 205
+ATOM     29  CA  GLU     4       8.713  23.171  16.402  1.00 11.25      1LZR 206
+ATOM     30  C   GLU     4      10.128  23.208  17.014  1.00  9.85      1LZR 207
+ATOM     31  O   GLU     4      10.276  23.755  18.140  1.00 11.03      1LZR 208
+ATOM     32  CB  GLU     4       8.540  24.435  15.545  1.00 13.89      1LZR 209
+ATOM     33  CG  GLU     4       9.595  24.574  14.413  1.00 21.06      1LZR 210
+ATOM     34  CD  GLU     4      10.746  25.560  14.604  1.00 24.46      1LZR 211
+ATOM     35  OE1 GLU     4      10.556  26.562  15.334  1.00 23.78      1LZR 212
+ATOM     36  OE2 GLU     4      11.820  25.244  13.939  1.00 21.14      1LZR 213
+ATOM     37  N   ARG     5      11.104  22.697  16.325  1.00  9.89      1LZR 214
+ATOM     38  CA  ARG     5      12.461  22.610  16.833  1.00  8.85      1LZR 215
+ATOM     39  C   ARG     5      13.003  23.893  17.460  1.00  9.67      1LZR 216
+ATOM     40  O   ARG     5      13.400  23.894  18.652  1.00  9.51      1LZR 217
+ATOM     41  CB  ARG     5      13.407  22.061  15.743  1.00  9.73      1LZR 218
+ATOM     42  CG  ARG     5      14.850  21.915  16.196  1.00 12.33      1LZR 219
+ATOM     43  CD  ARG     5      15.723  21.390  15.083  1.00 13.73      1LZR 220
+ATOM     44  NE  ARG     5      15.795  22.306  13.947  1.00 15.36      1LZR 221
+ATOM     45  CZ  ARG     5      16.763  23.224  13.746  1.00 16.37      1LZR 222
+ATOM     46  NH1 ARG     5      17.771  23.375  14.613  1.00 15.66      1LZR 223
+ATOM     47  NH2 ARG     5      16.744  23.998  12.637  1.00 16.63      1LZR 224
+ATOM     48  N   CYS     6      13.058  24.988  16.670  1.00  9.21      1LZR 225
+ATOM     49  CA  CYS     6      13.648  26.214  17.210  1.00  9.40      1LZR 226
+ATOM     50  C   CYS     6      12.804  26.857  18.291  1.00  9.16      1LZR 227
+ATOM     51  O   CYS     6      13.393  27.489  19.216  1.00 10.14      1LZR 228
+ATOM     52  CB  CYS     6      14.019  27.190  16.090  1.00 10.50      1LZR 229
+ATOM     53  SG  CYS     6      15.432  26.581  15.114  1.00 12.25      1LZR 230
+ATOM     54  N   GLU     7      11.506  26.715  18.205  1.00  9.65      1LZR 231
+ATOM     55  CA  GLU     7      10.608  27.236  19.257  1.00 10.31      1LZR 232
+ATOM     56  C   GLU     7      10.987  26.545  20.573  1.00  9.10      1LZR 233
+ATOM     57  O   GLU     7      11.130  27.219  21.623  1.00 10.05      1LZR 234
+ATOM     58  CB  GLU     7       9.171  26.902  18.893  1.00 13.05      1LZR 235
+ATOM     59  CG  GLU     7       8.051  27.264  19.847  1.00 17.50      1LZR 236
+ATOM     60  CD  GLU     7       6.734  26.531  19.599  1.00 19.62      1LZR 237
+ATOM     61  OE1 GLU     7       6.488  25.616  18.802  1.00 18.30      1LZR 238
+ATOM     62  OE2 GLU     7       5.923  27.059  20.397  1.00 21.40      1LZR 239
+ATOM     63  N   LEU     8      11.204  25.233  20.537  1.00  9.28      1LZR 240
+ATOM     64  CA  LEU     8      11.594  24.555  21.805  1.00  8.71      1LZR 241
+ATOM     65  C   LEU     8      12.981  25.012  22.294  1.00  8.35      1LZR 242
+ATOM     66  O   LEU     8      13.122  25.165  23.519  1.00  8.71      1LZR 243
+ATOM     67  CB  LEU     8      11.504  23.036  21.612  1.00  9.80      1LZR 244
+ATOM     68  CG  LEU     8      11.875  22.219  22.870  1.00  7.32      1LZR 245
+ATOM     69  CD1 LEU     8      10.928  22.471  24.017  1.00  8.14      1LZR 246
+ATOM     70  CD2 LEU     8      11.898  20.723  22.449  1.00  9.61      1LZR 247
+ATOM     71  N   ALA     9      13.938  25.112  21.387  1.00  6.65      1LZR 248
+ATOM     72  CA  ALA     9      15.283  25.503  21.825  1.00  7.96      1LZR 249
+ATOM     73  C   ALA     9      15.247  26.841  22.560  1.00  8.30      1LZR 250
+ATOM     74  O   ALA     9      15.868  26.985  23.633  1.00  9.57      1LZR 251
+ATOM     75  CB  ALA     9      16.180  25.571  20.579  1.00  7.06      1LZR 252
+ATOM     76  N   ARG    10      14.505  27.794  21.976  1.00  8.81      1LZR 253
+ATOM     77  CA  ARG    10      14.441  29.131  22.659  1.00  9.93      1LZR 254
+ATOM     78  C   ARG    10      13.713  29.017  23.993  1.00  9.37      1LZR 255
+ATOM     79  O   ARG    10      14.122  29.703  24.970  1.00 10.71      1LZR 256
+ATOM     80  CB  ARG    10      13.769  30.158  21.713  1.00 10.65      1LZR 257
+ATOM     81  CG  ARG    10      14.672  30.503  20.521  1.00 10.45      1LZR 258
+ATOM     82  CD  ARG    10      14.047  31.624  19.707  1.00 13.10      1LZR 259
+ATOM     83  NE  ARG    10      12.832  31.252  19.035  1.00 14.49      1LZR 260
+ATOM     84  CZ  ARG    10      12.753  30.763  17.773  1.00 12.23      1LZR 261
+ATOM     85  NH1 ARG    10      13.855  30.561  17.059  1.00 11.72      1LZR 262
+ATOM     86  NH2 ARG    10      11.564  30.469  17.234  1.00 14.64      1LZR 263
+ATOM     87  N   THR    11      12.688  28.157  24.072  1.00  8.84      1LZR 264
+ATOM     88  CA  THR    11      11.953  27.987  25.328  1.00  8.91      1LZR 265
+ATOM     89  C   THR    11      12.875  27.386  26.397  1.00  9.90      1LZR 266
+ATOM     90  O   THR    11      12.908  27.849  27.566  1.00 10.27      1LZR 267
+ATOM     91  CB  THR    11      10.678  27.098  25.119  1.00 11.66      1LZR 268
+ATOM     92  OG1 THR    11       9.878  27.792  24.117  1.00 12.58      1LZR 269
+ATOM     93  CG2 THR    11       9.858  26.895  26.387  1.00 12.29      1LZR 270
+ATOM     94  N   LEU    12      13.562  26.293  26.016  1.00  8.08      1LZR 271
+ATOM     95  CA  LEU    12      14.481  25.665  26.992  1.00  8.22      1LZR 272
+ATOM     96  C   LEU    12      15.605  26.609  27.462  1.00  8.45      1LZR 273
+ATOM     97  O   LEU    12      15.991  26.586  28.629  1.00  9.76      1LZR 274
+ATOM     98  CB  LEU    12      15.053  24.399  26.378  1.00  8.24      1LZR 275
+ATOM     99  CG  LEU    12      14.097  23.241  26.128  1.00  9.31      1LZR 276
+ATOM    100  CD1 LEU    12      14.919  22.016  25.590  1.00 10.67      1LZR 277
+ATOM    101  CD2 LEU    12      13.380  22.853  27.430  1.00  9.94      1LZR 278
+ATOM    102  N   LYS    13      16.089  27.453  26.541  1.00  8.75      1LZR 279
+ATOM    103  CA  LYS    13      17.144  28.391  26.955  1.00 10.27      1LZR 280
+ATOM    104  C   LYS    13      16.607  29.350  28.018  1.00 10.20      1LZR 281
+ATOM    105  O   LYS    13      17.297  29.594  29.023  1.00 10.47      1LZR 282
+ATOM    106  CB  LYS    13      17.651  29.220  25.752  1.00 14.16      1LZR 283
+ATOM    107  CG  LYS    13      18.866  30.071  26.201  1.00 16.93      1LZR 284
+ATOM    108  CD  LYS    13      19.844  30.293  25.082  1.00 22.86      1LZR 285
+ATOM    109  CE  LYS    13      20.842  31.429  25.369  1.00 25.72      1LZR 286
+ATOM    110  NZ  LYS    13      21.545  31.025  26.630  1.00 28.90      1LZR 287
+ATOM    111  N   ARG    14      15.415  29.886  27.829  1.00  9.99      1LZR 288
+ATOM    112  CA  ARG    14      14.801  30.823  28.801  1.00 11.33      1LZR 289
+ATOM    113  C   ARG    14      14.543  30.147  30.129  1.00  9.89      1LZR 290
+ATOM    114  O   ARG    14      14.613  30.845  31.159  1.00 10.24      1LZR 291
+ATOM    115  CB  ARG    14      13.449  31.378  28.303  1.00 15.75      1LZR 292
+ATOM    116  CG  ARG    14      13.564  32.154  27.027  1.00 23.25      1LZR 293
+ATOM    117  CD  ARG    14      12.362  33.064  26.823  1.00 28.70      1LZR 294
+ATOM    118  NE  ARG    14      11.162  32.259  26.765  1.00 32.47      1LZR 295
+ATOM    119  CZ  ARG    14      10.578  31.707  25.705  1.00 32.33      1LZR 296
+ATOM    120  NH1 ARG    14      11.066  31.929  24.488  1.00 34.19      1LZR 297
+ATOM    121  NH2 ARG    14       9.546  30.911  26.009  1.00 31.15      1LZR 298
+ATOM    122  N   LEU    15      14.289  28.845  30.099  1.00  9.41      1LZR 299
+ATOM    123  CA  LEU    15      14.041  28.081  31.338  1.00 10.22      1LZR 300
+ATOM    124  C   LEU    15      15.340  27.657  32.033  1.00 10.89      1LZR 301
+ATOM    125  O   LEU    15      15.235  26.937  33.045  1.00 11.00      1LZR 302
+ATOM    126  CB  LEU    15      13.093  26.904  31.028  1.00 10.86      1LZR 303
+ATOM    127  CG  LEU    15      11.675  27.320  30.639  1.00 10.95      1LZR 304
+ATOM    128  CD1 LEU    15      10.888  26.063  30.222  1.00 12.92      1LZR 305
+ATOM    129  CD2 LEU    15      10.988  27.981  31.817  1.00 13.65      1LZR 306
+ATOM    130  N   GLY    16      16.463  28.054  31.507  1.00  9.46      1LZR 307
+ATOM    131  CA  GLY    16      17.745  27.775  32.163  1.00  9.49      1LZR 308
+ATOM    132  C   GLY    16      18.340  26.418  31.964  1.00  8.81      1LZR 309
+ATOM    133  O   GLY    16      19.167  26.025  32.804  1.00 11.08      1LZR 310
+ATOM    134  N   MET    17      18.005  25.751  30.871  1.00  8.39      1LZR 311
+ATOM    135  CA  MET    17      18.577  24.386  30.667  1.00  8.80      1LZR 312
+ATOM    136  C   MET    17      19.961  24.391  30.039  1.00  9.75      1LZR 313
+ATOM    137  O   MET    17      20.621  23.335  30.145  1.00 10.28      1LZR 314
+ATOM    138  CB  MET    17      17.603  23.652  29.739  1.00  9.69      1LZR 315
+ATOM    139  CG  MET    17      16.297  23.429  30.476  1.00 13.75      1LZR 316
+ATOM    140  SD  MET    17      16.533  22.147  31.759  1.00 17.83      1LZR 317
+ATOM    141  CE  MET    17      15.909  20.705  30.825  1.00 16.99      1LZR 318
+ATOM    142  N   ASP    18      20.364  25.462  29.371  1.00  9.97      1LZR 319
+ATOM    143  CA  ASP    18      21.720  25.438  28.717  1.00 10.21      1LZR 320
+ATOM    144  C   ASP    18      22.839  25.306  29.741  1.00 11.28      1LZR 321
+ATOM    145  O   ASP    18      23.160  26.300  30.456  1.00 12.90      1LZR 322
+ATOM    146  CB  ASP    18      21.933  26.668  27.842  1.00 12.52      1LZR 323
+ATOM    147  CG  ASP    18      23.147  26.432  26.922  1.00 15.67      1LZR 324
+ATOM    148  OD1 ASP    18      23.658  25.320  26.671  1.00 14.67      1LZR 325
+ATOM    149  OD2 ASP    18      23.602  27.481  26.372  1.00 17.99      1LZR 326
+ATOM    150  N   GLY    19      23.499  24.177  29.825  1.00 10.42      1LZR 327
+ATOM    151  CA  GLY    19      24.622  23.961  30.761  1.00 10.49      1LZR 328
+ATOM    152  C   GLY    19      24.175  23.497  32.135  1.00 10.80      1LZR 329
+ATOM    153  O   GLY    19      24.985  23.441  33.057  1.00 11.75      1LZR 330
+ATOM    154  N   TYR    20      22.869  23.189  32.278  1.00  9.42      1LZR 331
+ATOM    155  CA  TYR    20      22.394  22.760  33.618  1.00  8.99      1LZR 332
+ATOM    156  C   TYR    20      23.073  21.455  34.014  1.00  8.47      1LZR 333
+ATOM    157  O   TYR    20      22.992  20.442  33.299  1.00  8.08      1LZR 334
+ATOM    158  CB  TYR    20      20.836  22.641  33.611  1.00  8.87      1LZR 335
+ATOM    159  CG  TYR    20      20.371  22.428  35.053  1.00  9.01      1LZR 336
+ATOM    160  CD1 TYR    20      20.159  23.496  35.919  1.00 10.75      1LZR 337
+ATOM    161  CD2 TYR    20      20.185  21.144  35.530  1.00  8.62      1LZR 338
+ATOM    162  CE1 TYR    20      19.759  23.302  37.238  1.00 11.28      1LZR 339
+ATOM    163  CE2 TYR    20      19.800  20.909  36.844  1.00  9.84      1LZR 340
+ATOM    164  CZ  TYR    20      19.608  21.993  37.700  1.00 12.37      1LZR 341
+ATOM    165  OH  TYR    20      19.198  21.704  38.979  1.00 14.29      1LZR 342
+ATOM    166  N   ARG    21      23.733  21.479  35.154  1.00  9.41      1LZR 343
+ATOM    167  CA  ARG    21      24.503  20.339  35.664  1.00 11.44      1LZR 344
+ATOM    168  C   ARG    21      25.430  19.772  34.578  1.00 10.16      1LZR 345
+ATOM    169  O   ARG    21      25.610  18.544  34.440  1.00 11.55      1LZR 346
+ATOM    170  CB  ARG    21      23.675  19.228  36.297  1.00 14.60      1LZR 347
+ATOM    171  CG  ARG    21      22.965  19.604  37.582  1.00 19.89      1LZR 348
+ATOM    172  CD  ARG    21      23.754  19.580  38.811  1.00 24.63      1LZR 349
+ATOM    173  NE  ARG    21      24.231  18.222  39.183  1.00 28.84      1LZR 350
+ATOM    174  CZ  ARG    21      25.252  18.105  40.063  1.00 29.55      1LZR 351
+ATOM    175  NH1 ARG    21      25.882  19.193  40.537  1.00 29.42      1LZR 352
+ATOM    176  NH2 ARG    21      25.659  16.916  40.433  1.00 29.88      1LZR 353
+ATOM    177  N   GLY    22      25.987  20.707  33.780  1.00  8.80      1LZR 354
+ATOM    178  CA  GLY    22      26.950  20.369  32.727  1.00  8.13      1LZR 355
+ATOM    179  C   GLY    22      26.403  19.903  31.409  1.00  9.29      1LZR 356
+ATOM    180  O   GLY    22      27.192  19.443  30.549  1.00  9.81      1LZR 357
+ATOM    181  N   ILE    23      25.089  19.999  31.226  1.00  7.80      1LZR 358
+ATOM    182  CA  ILE    23      24.467  19.481  29.971  1.00  7.51      1LZR 359
+ATOM    183  C   ILE    23      24.054  20.625  29.044  1.00  7.66      1LZR 360
+ATOM    184  O   ILE    23      23.208  21.444  29.427  1.00  8.01      1LZR 361
+ATOM    185  CB  ILE    23      23.202  18.633  30.364  1.00  6.89      1LZR 362
+ATOM    186  CG1 ILE    23      23.583  17.556  31.405  1.00  7.32      1LZR 363
+ATOM    187  CG2 ILE    23      22.510  18.119  29.088  1.00  9.15      1LZR 364
+ATOM    188  CD1 ILE    23      22.269  17.064  32.149  1.00 10.04      1LZR 365
+ATOM    189  N   SER    24      24.660  20.604  27.870  1.00  7.27      1LZR 366
+ATOM    190  CA  SER    24      24.380  21.667  26.887  1.00  7.18      1LZR 367
+ATOM    191  C   SER    24      22.954  21.604  26.361  1.00  6.76      1LZR 368
+ATOM    192  O   SER    24      22.284  20.545  26.315  1.00  6.96      1LZR 369
+ATOM    193  CB  SER    24      25.397  21.579  25.708  1.00  7.26      1LZR 370
+ATOM    194  OG  SER    24      25.050  20.438  24.925  1.00 10.69      1LZR 371
+ATOM    195  N   LEU    25      22.500  22.767  25.901  1.00  7.11      1LZR 372
+ATOM    196  CA  LEU    25      21.132  22.817  25.323  1.00  8.20      1LZR 373
+ATOM    197  C   LEU    25      20.946  21.807  24.200  1.00  8.26      1LZR 374
+ATOM    198  O   LEU    25      19.881  21.179  24.111  1.00  8.77      1LZR 375
+ATOM    199  CB  LEU    25      20.923  24.286  24.853  1.00 10.38      1LZR 376
+ATOM    200  CG  LEU    25      19.542  24.568  24.309  1.00 14.03      1LZR 377
+ATOM    201  CD1 LEU    25      18.500  24.448  25.400  1.00 15.38      1LZR 378
+ATOM    202  CD2 LEU    25      19.593  26.019  23.749  1.00 12.84      1LZR 379
+ATOM    203  N   ALA    26      21.962  21.640  23.337  1.00  7.26      1LZR 380
+ATOM    204  CA  ALA    26      21.783  20.671  22.225  1.00  7.55      1LZR 381
+ATOM    205  C   ALA    26      21.510  19.258  22.704  1.00  7.94      1LZR 382
+ATOM    206  O   ALA    26      20.814  18.467  22.026  1.00  8.46      1LZR 383
+ATOM    207  CB  ALA    26      23.007  20.723  21.288  1.00  9.02      1LZR 384
+ATOM    208  N   ASN    27      22.101  18.882  23.816  1.00  7.31      1LZR 385
+ATOM    209  CA  ASN    27      21.877  17.512  24.369  1.00  6.77      1LZR 386
+ATOM    210  C   ASN    27      20.426  17.401  24.838  1.00  7.57      1LZR 387
+ATOM    211  O   ASN    27      19.808  16.349  24.618  1.00  7.46      1LZR 388
+ATOM    212  CB  ASN    27      22.835  17.233  25.538  1.00  7.12      1LZR 389
+ATOM    213  CG  ASN    27      24.180  16.715  24.999  1.00 10.14      1LZR 390
+ATOM    214  OD1 ASN    27      24.219  15.577  24.545  1.00 10.34      1LZR 391
+ATOM    215  ND2 ASN    27      25.223  17.541  25.033  1.00 11.51      1LZR 392
+ATOM    216  N   TRP    28      19.900  18.462  25.488  1.00  7.14      1LZR 393
+ATOM    217  CA  TRP    28      18.470  18.390  25.898  1.00  6.71      1LZR 394
+ATOM    218  C   TRP    28      17.572  18.298  24.660  1.00  7.04      1LZR 395
+ATOM    219  O   TRP    28      16.525  17.625  24.693  1.00  8.00      1LZR 396
+ATOM    220  CB  TRP    28      18.084  19.640  26.686  1.00  7.51      1LZR 397
+ATOM    221  CG  TRP    28      18.700  19.749  28.042  1.00  7.81      1LZR 398
+ATOM    222  CD1 TRP    28      19.663  20.651  28.463  1.00  9.54      1LZR 399
+ATOM    223  CD2 TRP    28      18.400  18.920  29.171  1.00  7.88      1LZR 400
+ATOM    224  NE1 TRP    28      19.967  20.466  29.807  1.00  8.35      1LZR 401
+ATOM    225  CE2 TRP    28      19.202  19.405  30.248  1.00  9.13      1LZR 402
+ATOM    226  CE3 TRP    28      17.561  17.845  29.355  1.00  9.19      1LZR 403
+ATOM    227  CZ2 TRP    28      19.129  18.827  31.496  1.00  9.91      1LZR 404
+ATOM    228  CZ3 TRP    28      17.490  17.265  30.624  1.00  8.84      1LZR 405
+ATOM    229  CH2 TRP    28      18.277  17.757  31.676  1.00 10.35      1LZR 406
+ATOM    230  N   MET    29      17.928  19.032  23.622  1.00  6.63      1LZR 407
+ATOM    231  CA  MET    29      17.141  18.999  22.355  1.00  7.24      1LZR 408
+ATOM    232  C   MET    29      17.167  17.590  21.738  1.00  7.47      1LZR 409
+ATOM    233  O   MET    29      16.142  17.009  21.338  1.00  8.99      1LZR 410
+ATOM    234  CB  MET    29      17.690  20.036  21.356  1.00  7.57      1LZR 411
+ATOM    235  CG  MET    29      17.331  21.449  21.823  1.00 10.11      1LZR 412
+ATOM    236  SD  MET    29      15.521  21.775  21.702  1.00 11.30      1LZR 413
+ATOM    237  CE  MET    29      15.202  21.544  19.949  1.00 11.08      1LZR 414
+ATOM    238  N   CYS    30      18.361  17.001  21.674  1.00  7.17      1LZR 415
+ATOM    239  CA  CYS    30      18.500  15.642  21.133  1.00  6.67      1LZR 416
+ATOM    240  C   CYS    30      17.641  14.679  21.942  1.00  7.73      1LZR 417
+ATOM    241  O   CYS    30      16.945  13.802  21.386  1.00  8.74      1LZR 418
+ATOM    242  CB  CYS    30      19.987  15.281  21.211  1.00  7.98      1LZR 419
+ATOM    243  SG  CYS    30      20.310  13.644  20.414  1.00  9.15      1LZR 420
+ATOM    244  N   LEU    31      17.673  14.795  23.278  1.00  7.54      1LZR 421
+ATOM    245  CA  LEU    31      16.865  13.917  24.132  1.00  7.78      1LZR 422
+ATOM    246  C   LEU    31      15.366  14.080  23.822  1.00  8.82      1LZR 423
+ATOM    247  O   LEU    31      14.671  13.037  23.610  1.00  9.35      1LZR 424
+ATOM    248  CB  LEU    31      17.178  14.340  25.589  1.00 10.47      1LZR 425
+ATOM    249  CG  LEU    31      16.355  13.564  26.632  1.00 10.69      1LZR 426
+ATOM    250  CD1 LEU    31      16.694  12.080  26.659  1.00 12.83      1LZR 427
+ATOM    251  CD2 LEU    31      16.675  14.196  27.987  1.00 12.54      1LZR 428
+ATOM    252  N   ALA    32      14.865  15.325  23.811  1.00  7.44      1LZR 429
+ATOM    253  CA  ALA    32      13.411  15.527  23.562  1.00  7.65      1LZR 430
+ATOM    254  C   ALA    32      13.022  14.964  22.182  1.00  8.69      1LZR 431
+ATOM    255  O   ALA    32      11.894  14.424  22.035  1.00 10.16      1LZR 432
+ATOM    256  CB  ALA    32      13.073  17.004  23.693  1.00  8.10      1LZR 433
+ATOM    257  N   LYS    33      13.914  15.190  21.220  1.00  7.63      1LZR 434
+ATOM    258  CA  LYS    33      13.589  14.692  19.878  1.00  8.42      1LZR 435
+ATOM    259  C   LYS    33      13.367  13.181  19.864  1.00  8.38      1LZR 436
+ATOM    260  O   LYS    33      12.334  12.722  19.321  1.00  9.75      1LZR 437
+ATOM    261  CB  LYS    33      14.705  15.042  18.892  1.00  9.63      1LZR 438
+ATOM    262  CG  LYS    33      14.278  14.838  17.427  1.00 14.68      1LZR 439
+ATOM    263  CD  LYS    33      14.632  13.455  16.938  1.00 18.77      1LZR 440
+ATOM    264  CE  LYS    33      14.220  13.309  15.460  1.00 20.55      1LZR 441
+ATOM    265  NZ  LYS    33      14.542  11.917  15.042  1.00 26.33      1LZR 442
+ATOM    266  N   TRP    34      14.297  12.454  20.454  1.00  8.81      1LZR 443
+ATOM    267  CA  TRP    34      14.196  10.963  20.409  1.00  9.43      1LZR 444
+ATOM    268  C   TRP    34      13.236  10.385  21.409  1.00 10.69      1LZR 445
+ATOM    269  O   TRP    34      12.732   9.263  21.149  1.00 12.80      1LZR 446
+ATOM    270  CB  TRP    34      15.620  10.331  20.513  1.00 10.57      1LZR 447
+ATOM    271  CG  TRP    34      16.421  10.686  19.293  1.00 11.25      1LZR 448
+ATOM    272  CD1 TRP    34      17.390  11.625  19.167  1.00 12.14      1LZR 449
+ATOM    273  CD2 TRP    34      16.232  10.102  17.997  1.00 13.27      1LZR 450
+ATOM    274  NE1 TRP    34      17.844  11.668  17.867  1.00 13.54      1LZR 451
+ATOM    275  CE2 TRP    34      17.140  10.750  17.133  1.00 14.88      1LZR 452
+ATOM    276  CE3 TRP    34      15.390   9.065  17.536  1.00 14.11      1LZR 453
+ATOM    277  CZ2 TRP    34      17.243  10.396  15.781  1.00 15.81      1LZR 454
+ATOM    278  CZ3 TRP    34      15.523   8.723  16.207  1.00 15.21      1LZR 455
+ATOM    279  CH2 TRP    34      16.415   9.359  15.366  1.00 17.15      1LZR 456
+ATOM    280  N   GLU    35      12.992  11.079  22.513  1.00  9.01      1LZR 457
+ATOM    281  CA  GLU    35      12.035  10.556  23.457  1.00  9.03      1LZR 458
+ATOM    282  C   GLU    35      10.593  10.728  22.998  1.00  9.35      1LZR 459
+ATOM    283  O   GLU    35       9.825   9.759  23.068  1.00  9.96      1LZR 460
+ATOM    284  CB  GLU    35      12.197  11.203  24.843  1.00  8.91      1LZR 461
+ATOM    285  CG  GLU    35      13.454  10.708  25.565  1.00  9.71      1LZR 462
+ATOM    286  CD  GLU    35      13.412   9.272  25.989  1.00 11.66      1LZR 463
+ATOM    287  OE1 GLU    35      12.420   8.583  25.857  1.00 12.86      1LZR 464
+ATOM    288  OE2 GLU    35      14.523   8.909  26.455  1.00 14.93      1LZR 465
+ATOM    289  N   SER    36      10.227  11.896  22.538  1.00  8.77      1LZR 466
+ATOM    290  CA  SER    36       8.820  12.172  22.185  1.00  8.86      1LZR 467
+ATOM    291  C   SER    36       8.586  12.875  20.874  1.00  9.44      1LZR 468
+ATOM    292  O   SER    36       7.382  13.154  20.588  1.00 10.67      1LZR 469
+ATOM    293  CB  SER    36       8.276  13.131  23.294  1.00  9.82      1LZR 470
+ATOM    294  OG  SER    36       8.902  14.390  23.206  1.00 10.05      1LZR 471
+ATOM    295  N   GLY    37       9.590  13.183  20.094  1.00  9.80      1LZR 472
+ATOM    296  CA  GLY    37       9.333  13.965  18.863  1.00  9.56      1LZR 473
+ATOM    297  C   GLY    37       8.832  15.346  19.287  1.00  9.07      1LZR 474
+ATOM    298  O   GLY    37       8.028  15.942  18.549  1.00 10.91      1LZR 475
+ATOM    299  N   TYR    38       9.286  15.867  20.421  1.00  8.95      1LZR 476
+ATOM    300  CA  TYR    38       8.885  17.215  20.916  1.00  9.20      1LZR 477
+ATOM    301  C   TYR    38       7.396  17.317  21.247  1.00  9.62      1LZR 478
+ATOM    302  O   TYR    38       6.822  18.404  21.120  1.00  9.52      1LZR 479
+ATOM    303  CB  TYR    38       9.255  18.312  19.898  1.00  9.35      1LZR 480
+ATOM    304  CG  TYR    38      10.653  18.307  19.324  1.00  9.06      1LZR 481
+ATOM    305  CD1 TYR    38      11.759  18.151  20.185  1.00  9.43      1LZR 482
+ATOM    306  CD2 TYR    38      10.883  18.556  17.985  1.00 10.76      1LZR 483
+ATOM    307  CE1 TYR    38      13.067  18.203  19.671  1.00 10.84      1LZR 484
+ATOM    308  CE2 TYR    38      12.183  18.583  17.464  1.00 11.00      1LZR 485
+ATOM    309  CZ  TYR    38      13.273  18.405  18.319  1.00 11.37      1LZR 486
+ATOM    310  OH  TYR    38      14.559  18.449  17.819  1.00 12.34      1LZR 487
+ATOM    311  N   ASN    39       6.786  16.209  21.652  1.00  8.68      1LZR 488
+ATOM    312  CA  ASN    39       5.348  16.152  21.958  1.00  9.18      1LZR 489
+ATOM    313  C   ASN    39       5.094  16.088  23.471  1.00  9.09      1LZR 490
+ATOM    314  O   ASN    39       5.465  15.092  24.119  1.00  9.09      1LZR 491
+ATOM    315  CB  ASN    39       4.799  14.893  21.215  1.00 10.09      1LZR 492
+ATOM    316  CG  ASN    39       3.282  14.779  21.386  1.00 11.19      1LZR 493
+ATOM    317  OD1 ASN    39       2.589  15.658  21.889  1.00 11.34      1LZR 494
+ATOM    318  ND2 ASN    39       2.762  13.671  20.851  1.00 11.50      1LZR 495
+ATOM    319  N   THR    40       4.420  17.091  24.017  1.00  8.26      1LZR 496
+ATOM    320  CA  THR    40       4.172  17.075  25.468  1.00  8.88      1LZR 497
+ATOM    321  C   THR    40       3.117  16.063  25.899  1.00  9.60      1LZR 498
+ATOM    322  O   THR    40       3.108  15.764  27.110  1.00 11.49      1LZR 499
+ATOM    323  CB  THR    40       3.781  18.539  25.968  1.00  8.78      1LZR 500
+ATOM    324  OG1 THR    40       2.502  18.841  25.323  1.00  9.03      1LZR 501
+ATOM    325  CG2 THR    40       4.803  19.602  25.582  1.00  9.86      1LZR 502
+ATOM    326  N   ARG    41       2.293  15.614  24.995  1.00  9.61      1LZR 503
+ATOM    327  CA  ARG    41       1.207  14.698  25.486  1.00 13.22      1LZR 504
+ATOM    328  C   ARG    41       1.589  13.234  25.348  1.00 12.98      1LZR 505
+ATOM    329  O   ARG    41       0.763  12.362  25.686  1.00 15.00      1LZR 506
+ATOM    330  CB  ARG    41      -0.141  15.069  24.817  1.00 17.38      1LZR 507
+ATOM    331  CG  ARG    41      -0.369  14.459  23.459  1.00 21.69      1LZR 508
+ATOM    332  CD  ARG    41      -1.686  14.808  22.828  1.00 27.03      1LZR 509
+ATOM    333  NE  ARG    41      -2.833  14.621  23.688  1.00 29.47      1LZR 510
+ATOM    334  CZ  ARG    41      -3.531  13.524  23.956  1.00 30.34      1LZR 511
+ATOM    335  NH1 ARG    41      -3.287  12.334  23.408  1.00 30.63      1LZR 512
+ATOM    336  NH2 ARG    41      -4.519  13.595  24.870  1.00 30.67      1LZR 513
+ATOM    337  N   ALA    42       2.792  12.949  24.891  1.00 12.42      1LZR 514
+ATOM    338  CA  ALA    42       3.233  11.572  24.697  1.00 12.89      1LZR 515
+ATOM    339  C   ALA    42       3.269  10.796  26.026  1.00 12.39      1LZR 516
+ATOM    340  O   ALA    42       3.774  11.260  27.035  1.00 11.11      1LZR 517
+ATOM    341  CB  ALA    42       4.647  11.566  24.090  1.00 12.72      1LZR 518
+ATOM    342  N   THR    43       2.826   9.544  25.906  1.00 12.76      1LZR 519
+ATOM    343  CA  THR    43       2.863   8.606  27.032  1.00 13.52      1LZR 520
+ATOM    344  C   THR    43       3.266   7.230  26.471  1.00 15.21      1LZR 521
+ATOM    345  O   THR    43       2.916   6.875  25.328  1.00 16.67      1LZR 522
+ATOM    346  CB  THR    43       1.536   8.459  27.853  1.00 16.42      1LZR 523
+ATOM    347  OG1 THR    43       0.546   7.929  26.870  1.00 19.77      1LZR 524
+ATOM    348  CG2 THR    43       1.006   9.729  28.511  1.00 16.77      1LZR 525
+ATOM    349  N   ASN    44       4.017   6.489  27.275  1.00 13.33      1LZR 526
+ATOM    350  CA  ASN    44       4.456   5.141  26.884  1.00 14.31      1LZR 527
+ATOM    351  C   ASN    44       4.318   4.236  28.111  1.00 12.60      1LZR 528
+ATOM    352  O   ASN    44       5.015   4.468  29.077  1.00 12.20      1LZR 529
+ATOM    353  CB  ASN    44       5.907   5.157  26.361  1.00 16.66      1LZR 530
+ATOM    354  CG  ASN    44       6.438   3.723  26.239  1.00 20.88      1LZR 531
+ATOM    355  OD1 ASN    44       5.863   3.039  25.389  1.00 23.53      1LZR 532
+ATOM    356  ND2 ASN    44       7.404   3.267  27.027  1.00 22.51      1LZR 533
+ATOM    357  N   TYR    45       3.438   3.253  28.033  1.00 12.57      1LZR 534
+ATOM    358  CA  TYR    45       3.268   2.295  29.140  1.00 12.46      1LZR 535
+ATOM    359  C   TYR    45       4.299   1.175  28.943  1.00 13.30      1LZR 536
+ATOM    360  O   TYR    45       4.441   0.662  27.836  1.00 15.07      1LZR 537
+ATOM    361  CB  TYR    45       1.827   1.736  29.075  1.00 13.11      1LZR 538
+ATOM    362  CG  TYR    45       1.572   0.647  30.087  1.00 13.47      1LZR 539
+ATOM    363  CD1 TYR    45       1.771   0.933  31.439  1.00 14.30      1LZR 540
+ATOM    364  CD2 TYR    45       1.199  -0.649  29.709  1.00 15.14      1LZR 541
+ATOM    365  CE1 TYR    45       1.545  -0.047  32.408  1.00 14.94      1LZR 542
+ATOM    366  CE2 TYR    45       0.971  -1.657  30.662  1.00 15.03      1LZR 543
+ATOM    367  CZ  TYR    45       1.144  -1.310  32.011  1.00 15.30      1LZR 544
+ATOM    368  OH  TYR    45       0.989  -2.230  33.028  1.00 17.76      1LZR 545
+ATOM    369  N   ASN    46       5.030   0.803  29.985  1.00 12.60      1LZR 546
+ATOM    370  CA  ASN    46       6.047  -0.266  29.978  1.00 13.11      1LZR 547
+ATOM    371  C   ASN    46       5.330  -1.468  30.617  1.00 14.17      1LZR 548
+ATOM    372  O   ASN    46       5.298  -1.579  31.878  1.00 13.61      1LZR 549
+ATOM    373  CB  ASN    46       7.274   0.133  30.789  1.00 14.56      1LZR 550
+ATOM    374  CG  ASN    46       7.860   1.407  30.199  1.00 17.65      1LZR 551
+ATOM    375  OD1 ASN    46       8.293   1.376  29.009  1.00 20.69      1LZR 552
+ATOM    376  ND2 ASN    46       7.803   2.500  30.921  1.00 17.61      1LZR 553
+ATOM    377  N   ALA    47       4.731  -2.281  29.765  1.00 13.75      1LZR 554
+ATOM    378  CA  ALA    47       3.992  -3.449  30.296  1.00 14.78      1LZR 555
+ATOM    379  C   ALA    47       4.858  -4.372  31.151  1.00 14.59      1LZR 556
+ATOM    380  O   ALA    47       4.332  -4.996  32.089  1.00 15.41      1LZR 557
+ATOM    381  CB  ALA    47       3.398  -4.262  29.133  1.00 15.35      1LZR 558
+ATOM    382  N   GLY    48       6.123  -4.495  30.827  1.00 14.59      1LZR 559
+ATOM    383  CA  GLY    48       7.041  -5.354  31.575  1.00 15.40      1LZR 560
+ATOM    384  C   GLY    48       7.184  -4.978  33.040  1.00 14.59      1LZR 561
+ATOM    385  O   GLY    48       7.409  -5.900  33.857  1.00 15.21      1LZR 562
+ATOM    386  N   ASP    49       7.081  -3.709  33.413  1.00 12.80      1LZR 563
+ATOM    387  CA  ASP    49       7.266  -3.361  34.840  1.00 12.65      1LZR 564
+ATOM    388  C   ASP    49       6.138  -2.492  35.407  1.00 10.57      1LZR 565
+ATOM    389  O   ASP    49       6.262  -2.074  36.543  1.00 11.43      1LZR 566
+ATOM    390  CB  ASP    49       8.656  -2.779  35.114  1.00 13.37      1LZR 567
+ATOM    391  CG  ASP    49       8.709  -1.285  34.848  1.00 17.26      1LZR 568
+ATOM    392  OD1 ASP    49       7.950  -0.780  34.054  1.00 16.81      1LZR 569
+ATOM    393  OD2 ASP    49       9.463  -0.521  35.486  1.00 23.44      1LZR 570
+ATOM    394  N   ARG    50       5.088  -2.275  34.664  1.00 10.71      1LZR 571
+ATOM    395  CA  ARG    50       3.915  -1.521  35.093  1.00 11.76      1LZR 572
+ATOM    396  C   ARG    50       4.123  -0.020  35.328  1.00 11.90      1LZR 573
+ATOM    397  O   ARG    50       3.218   0.636  35.903  1.00 14.47      1LZR 574
+ATOM    398  CB  ARG    50       3.227  -2.189  36.278  1.00 13.85      1LZR 575
+ATOM    399  CG  ARG    50       2.861  -3.667  35.935  1.00 16.82      1LZR 576
+ATOM    400  CD  ARG    50       2.146  -4.261  37.094  1.00 22.58      1LZR 577
+ATOM    401  NE  ARG    50       1.560  -5.541  36.835  1.00 26.60      1LZR 578
+ATOM    402  CZ  ARG    50       0.694  -6.110  36.018  1.00 28.59      1LZR 579
+ATOM    403  NH1 ARG    50       0.056  -5.547  34.980  1.00 28.68      1LZR 580
+ATOM    404  NH2 ARG    50       0.320  -7.371  36.350  1.00 27.60      1LZR 581
+ATOM    405  N   SER    51       5.210   0.505  34.786  1.00 10.43      1LZR 582
+ATOM    406  CA  SER    51       5.417   1.984  34.918  1.00 10.30      1LZR 583
+ATOM    407  C   SER    51       5.018   2.622  33.580  1.00 10.46      1LZR 584
+ATOM    408  O   SER    51       4.886   1.975  32.517  1.00  9.67      1LZR 585
+ATOM    409  CB  SER    51       6.884   2.270  35.182  1.00 11.49      1LZR 586
+ATOM    410  OG  SER    51       7.743   1.890  34.099  1.00 10.69      1LZR 587
+ATOM    411  N   THR    52       4.926   3.961  33.647  1.00  8.91      1LZR 588
+ATOM    412  CA  THR    52       4.601   4.763  32.451  1.00  8.52      1LZR 589
+ATOM    413  C   THR    52       5.578   5.949  32.332  1.00  7.19      1LZR 590
+ATOM    414  O   THR    52       6.031   6.485  33.353  1.00  8.53      1LZR 591
+ATOM    415  CB  THR    52       3.131   5.317  32.560  1.00 10.18      1LZR 592
+ATOM    416  OG1 THR    52       2.236   4.163  32.666  1.00 10.65      1LZR 593
+ATOM    417  CG2 THR    52       2.699   6.127  31.319  1.00 10.10      1LZR 594
+ATOM    418  N   ASP    53       5.917   6.233  31.073  1.00  8.14      1LZR 595
+ATOM    419  CA  ASP    53       6.820   7.382  30.745  1.00  7.72      1LZR 596
+ATOM    420  C   ASP    53       5.887   8.536  30.298  1.00  7.80      1LZR 597
+ATOM    421  O   ASP    53       4.979   8.303  29.468  1.00  8.87      1LZR 598
+ATOM    422  CB  ASP    53       7.821   7.079  29.634  1.00 10.33      1LZR 599
+ATOM    423  CG  ASP    53       8.665   5.821  29.957  1.00 11.50      1LZR 600
+ATOM    424  OD1 ASP    53       9.106   5.718  31.085  1.00 13.80      1LZR 601
+ATOM    425  OD2 ASP    53       8.839   5.045  29.005  1.00 15.24      1LZR 602
+ATOM    426  N   TYR    54       6.135   9.727  30.836  1.00  6.76      1LZR 603
+ATOM    427  CA  TYR    54       5.276  10.847  30.541  1.00  6.89      1LZR 604
+ATOM    428  C   TYR    54       5.901  12.086  29.943  1.00  8.17      1LZR 605
+ATOM    429  O   TYR    54       6.920  12.562  30.484  1.00  8.74      1LZR 606
+ATOM    430  CB  TYR    54       4.619  11.348  31.870  1.00  6.67      1LZR 607
+ATOM    431  CG  TYR    54       3.653  10.339  32.498  1.00  7.52      1LZR 608
+ATOM    432  CD1 TYR    54       4.120   9.354  33.380  1.00  8.48      1LZR 609
+ATOM    433  CD2 TYR    54       2.266  10.403  32.190  1.00  7.94      1LZR 610
+ATOM    434  CE1 TYR    54       3.200   8.460  33.983  1.00  8.25      1LZR 611
+ATOM    435  CE2 TYR    54       1.366   9.504  32.779  1.00  8.88      1LZR 612
+ATOM    436  CZ  TYR    54       1.855   8.542  33.648  1.00  9.19      1LZR 613
+ATOM    437  OH  TYR    54       0.974   7.646  34.256  1.00 10.07      1LZR 614
+ATOM    438  N   GLY    55       5.220  12.606  28.912  1.00  8.13      1LZR 615
+ATOM    439  CA  GLY    55       5.599  13.926  28.391  1.00  8.47      1LZR 616
+ATOM    440  C   GLY    55       6.751  14.041  27.452  1.00  7.46      1LZR 617
+ATOM    441  O   GLY    55       7.296  13.054  26.923  1.00  7.50      1LZR 618
+ATOM    442  N   ILE    56       7.153  15.311  27.262  1.00  7.31      1LZR 619
+ATOM    443  CA  ILE    56       8.217  15.617  26.269  1.00  7.59      1LZR 620
+ATOM    444  C   ILE    56       9.558  14.940  26.537  1.00  7.67      1LZR 621
+ATOM    445  O   ILE    56      10.264  14.639  25.552  1.00  8.70      1LZR 622
+ATOM    446  CB  ILE    56       8.292  17.181  26.142  1.00  8.18      1LZR 623
+ATOM    447  CG1 ILE    56       8.991  17.521  24.794  1.00 10.88      1LZR 624
+ATOM    448  CG2 ILE    56       8.940  17.866  27.345  1.00  7.18      1LZR 625
+ATOM    449  CD1 ILE    56       8.708  19.007  24.396  1.00 14.49      1LZR 626
+ATOM    450  N   PHE    57       9.825  14.696  27.817  1.00  6.78      1LZR 627
+ATOM    451  CA  PHE    57      11.113  14.039  28.157  1.00  8.27      1LZR 628
+ATOM    452  C   PHE    57      10.875  12.574  28.535  1.00  9.08      1LZR 629
+ATOM    453  O   PHE    57      11.860  11.911  28.922  1.00  9.94      1LZR 630
+ATOM    454  CB  PHE    57      11.831  14.747  29.311  1.00  9.65      1LZR 631
+ATOM    455  CG  PHE    57      12.290  16.150  28.949  1.00 10.95      1LZR 632
+ATOM    456  CD1 PHE    57      13.187  16.381  27.933  1.00 11.34      1LZR 633
+ATOM    457  CD2 PHE    57      11.788  17.205  29.738  1.00 12.83      1LZR 634
+ATOM    458  CE1 PHE    57      13.568  17.695  27.645  1.00 13.99      1LZR 635
+ATOM    459  CE2 PHE    57      12.172  18.507  29.473  1.00 13.74      1LZR 636
+ATOM    460  CZ  PHE    57      13.076  18.746  28.410  1.00 13.12      1LZR 637
+ATOM    461  N   GLN    58       9.644  12.083  28.455  1.00  8.55      1LZR 638
+ATOM    462  CA  GLN    58       9.376  10.665  28.787  1.00  8.89      1LZR 639
+ATOM    463  C   GLN    58       9.943  10.272  30.153  1.00  9.50      1LZR 640
+ATOM    464  O   GLN    58      10.673   9.263  30.307  1.00 10.62      1LZR 641
+ATOM    465  CB  GLN    58       9.872   9.731  27.665  1.00  9.24      1LZR 642
+ATOM    466  CG  GLN    58       9.052   9.888  26.394  1.00 10.41      1LZR 643
+ATOM    467  CD  GLN    58       7.639   9.358  26.549  1.00 10.98      1LZR 644
+ATOM    468  OE1 GLN    58       7.453   8.137  26.384  1.00 11.11      1LZR 645
+ATOM    469  NE2 GLN    58       6.666  10.198  26.856  1.00 10.59      1LZR 646
+ATOM    470  N   ILE    59       9.545  11.015  31.153  1.00  8.36      1LZR 647
+ATOM    471  CA  ILE    59       9.986  10.790  32.554  1.00  9.56      1LZR 648
+ATOM    472  C   ILE    59       9.149   9.654  33.156  1.00  8.95      1LZR 649
+ATOM    473  O   ILE    59       7.909   9.660  33.053  1.00  9.09      1LZR 650
+ATOM    474  CB  ILE    59       9.884  12.137  33.339  1.00 10.27      1LZR 651
+ATOM    475  CG1 ILE    59      11.037  13.056  32.821  1.00 11.16      1LZR 652
+ATOM    476  CG2 ILE    59      10.007  11.896  34.865  1.00 10.53      1LZR 653
+ATOM    477  CD1 ILE    59      10.965  14.540  33.267  1.00 13.78      1LZR 654
+ATOM    478  N   ASN    60       9.840   8.728  33.793  1.00  8.05      1LZR 655
+ATOM    479  CA  ASN    60       9.210   7.532  34.326  1.00  9.11      1LZR 656
+ATOM    480  C   ASN    60       8.626   7.650  35.722  1.00  8.20      1LZR 657
+ATOM    481  O   ASN    60       9.209   8.186  36.662  1.00  9.71      1LZR 658
+ATOM    482  CB  ASN    60      10.291   6.417  34.257  1.00  9.80      1LZR 659
+ATOM    483  CG  ASN    60       9.717   5.033  34.546  1.00 11.33      1LZR 660
+ATOM    484  OD1 ASN    60       9.766   4.605  35.708  1.00 13.52      1LZR 661
+ATOM    485  ND2 ASN    60       9.146   4.384  33.544  1.00 11.16      1LZR 662
+ATOM    486  N   SER    61       7.433   7.053  35.814  1.00  8.48      1LZR 663
+ATOM    487  CA  SER    61       6.643   7.040  37.052  1.00  9.93      1LZR 664
+ATOM    488  C   SER    61       7.222   6.216  38.196  1.00 10.18      1LZR 665
+ATOM    489  O   SER    61       6.740   6.425  39.326  1.00 11.05      1LZR 666
+ATOM    490  CB  SER    61       5.185   6.569  36.766  1.00  8.74      1LZR 667
+ATOM    491  OG  SER    61       5.225   5.211  36.406  1.00 10.79      1LZR 668
+ATOM    492  N   ARG    62       8.191   5.346  37.936  1.00 10.42      1LZR 669
+ATOM    493  CA  ARG    62       8.705   4.561  39.080  1.00 11.73      1LZR 670
+ATOM    494  C   ARG    62       9.478   5.439  40.031  1.00 11.87      1LZR 671
+ATOM    495  O   ARG    62       9.553   5.177  41.257  1.00 13.05      1LZR 672
+ATOM    496  CB  ARG    62       9.533   3.364  38.580  1.00 14.76      1LZR 673
+ATOM    497  CG  ARG    62      10.054   2.531  39.797  1.00 18.27      1LZR 674
+ATOM    498  CD  ARG    62      10.471   1.169  39.296  1.00 21.00      1LZR 675
+ATOM    499  NE  ARG    62       9.318   0.434  38.715  1.00 23.58      1LZR 676
+ATOM    500  CZ  ARG    62       8.358  -0.026  39.520  1.00 24.23      1LZR 677
+ATOM    501  NH1 ARG    62       8.531   0.065  40.844  1.00 26.39      1LZR 678
+ATOM    502  NH2 ARG    62       7.194  -0.480  39.034  1.00 24.80      1LZR 679
+ATOM    503  N   TYR    63      10.074   6.525  39.549  1.00 11.21      1LZR 680
+ATOM    504  CA  TYR    63      10.870   7.355  40.428  1.00 12.16      1LZR 681
+ATOM    505  C   TYR    63      10.565   8.815  40.541  1.00 11.82      1LZR 682
+ATOM    506  O   TYR    63      10.868   9.469  41.545  1.00 12.37      1LZR 683
+ATOM    507  CB  TYR    63      12.369   7.333  39.839  1.00 17.32      1LZR 684
+ATOM    508  CG  TYR    63      12.905   5.915  39.708  1.00 20.65      1LZR 685
+ATOM    509  CD1 TYR    63      13.330   5.249  40.841  1.00 24.02      1LZR 686
+ATOM    510  CD2 TYR    63      12.920   5.250  38.488  1.00 23.04      1LZR 687
+ATOM    511  CE1 TYR    63      13.796   3.929  40.757  1.00 25.37      1LZR 688
+ATOM    512  CE2 TYR    63      13.361   3.923  38.375  1.00 25.29      1LZR 689
+ATOM    513  CZ  TYR    63      13.794   3.299  39.530  1.00 26.00      1LZR 690
+ATOM    514  OH  TYR    63      14.260   2.004  39.505  1.00 30.21      1LZR 691
+ATOM    515  N   TRP    64       9.980   9.364  39.450  1.00 10.42      1LZR 692
+ATOM    516  CA  TRP    64       9.873  10.829  39.374  1.00  9.72      1LZR 693
+ATOM    517  C   TRP    64       8.562  11.510  39.542  1.00  9.67      1LZR 694
+ATOM    518  O   TRP    64       8.582  12.709  39.912  1.00 10.44      1LZR 695
+ATOM    519  CB  TRP    64      10.533  11.250  38.020  1.00  8.36      1LZR 696
+ATOM    520  CG  TRP    64      11.910  10.670  37.815  1.00  9.14      1LZR 697
+ATOM    521  CD1 TRP    64      12.278   9.720  36.922  1.00  9.73      1LZR 698
+ATOM    522  CD2 TRP    64      13.096  10.979  38.587  1.00  9.59      1LZR 699
+ATOM    523  NE1 TRP    64      13.599   9.369  37.086  1.00 11.06      1LZR 700
+ATOM    524  CE2 TRP    64      14.116  10.160  38.078  1.00 10.44      1LZR 701
+ATOM    525  CE3 TRP    64      13.372  11.890  39.599  1.00 10.97      1LZR 702
+ATOM    526  CZ2 TRP    64      15.446  10.201  38.581  1.00 12.36      1LZR 703
+ATOM    527  CZ3 TRP    64      14.694  11.932  40.084  1.00 11.41      1LZR 704
+ATOM    528  CH2 TRP    64      15.714  11.108  39.597  1.00 10.25      1LZR 705
+ATOM    529  N   CYS    65       7.450  10.860  39.231  1.00  9.52      1LZR 706
+ATOM    530  CA  CYS    65       6.149  11.561  39.423  1.00  8.65      1LZR 707
+ATOM    531  C   CYS    65       5.179  10.505  39.963  1.00  9.50      1LZR 708
+ATOM    532  O   CYS    65       5.513   9.333  39.812  1.00 10.15      1LZR 709
+ATOM    533  CB  CYS    65       5.618  12.143  38.123  1.00  8.89      1LZR 710
+ATOM    534  SG  CYS    65       5.379  10.991  36.753  1.00  9.16      1LZR 711
+ATOM    535  N   ASN    66       4.072  10.967  40.513  1.00  8.78      1LZR 712
+ATOM    536  CA  ASN    66       3.102   9.959  41.051  1.00  8.77      1LZR 713
+ATOM    537  C   ASN    66       1.909   9.794  40.106  1.00  7.52      1LZR 714
+ATOM    538  O   ASN    66       1.259  10.780  39.773  1.00  7.72      1LZR 715
+ATOM    539  CB  ASN    66       2.610  10.391  42.435  1.00  9.01      1LZR 716
+ATOM    540  CG  ASN    66       1.684   9.317  43.009  1.00  9.67      1LZR 717
+ATOM    541  OD1 ASN    66       1.945   8.110  42.955  1.00 11.91      1LZR 718
+ATOM    542  ND2 ASN    66       0.573   9.857  43.523  1.00 11.84      1LZR 719
+ATOM    543  N   ASP    67       1.663   8.531  39.745  1.00  7.99      1LZR 720
+ATOM    544  CA  ASP    67       0.472   8.199  38.941  1.00  9.04      1LZR 721
+ATOM    545  C   ASP    67      -0.411   7.227  39.772  1.00  9.86      1LZR 722
+ATOM    546  O   ASP    67      -1.467   6.815  39.249  1.00 11.33      1LZR 723
+ATOM    547  CB  ASP    67       0.745   7.758  37.538  1.00  8.50      1LZR 724
+ATOM    548  CG  ASP    67       1.494   6.453  37.404  1.00  9.62      1LZR 725
+ATOM    549  OD1 ASP    67       1.851   5.808  38.435  1.00  9.51      1LZR 726
+ATOM    550  OD2 ASP    67       1.754   6.128  36.233  1.00 10.66      1LZR 727
+ATOM    551  N   GLY    68       0.002   6.840  40.957  1.00  9.89      1LZR 728
+ATOM    552  CA  GLY    68      -0.815   5.934  41.783  1.00 11.69      1LZR 729
+ATOM    553  C   GLY    68      -0.803   4.478  41.424  1.00 12.79      1LZR 730
+ATOM    554  O   GLY    68      -0.820   3.650  42.360  1.00 16.17      1LZR 731
+ATOM    555  N   LYS    69      -0.739   4.110  40.170  1.00 13.53      1LZR 732
+ATOM    556  CA  LYS    69      -0.812   2.720  39.721  1.00 13.26      1LZR 733
+ATOM    557  C   LYS    69       0.526   2.037  39.505  1.00 14.26      1LZR 734
+ATOM    558  O   LYS    69       0.495   0.837  39.111  1.00 15.84      1LZR 735
+ATOM    559  CB  LYS    69      -1.647   2.594  38.450  1.00 13.38      1LZR 736
+ATOM    560  CG  LYS    69      -1.069   3.397  37.283  1.00 13.45      1LZR 737
+ATOM    561  CD  LYS    69      -1.884   3.159  35.999  1.00 16.49      1LZR 738
+ATOM    562  CE  LYS    69      -1.311   3.978  34.871  1.00 19.62      1LZR 739
+ATOM    563  NZ  LYS    69      -2.312   4.344  33.844  1.00 23.26      1LZR 740
+ATOM    564  N   THR    70       1.630   2.708  39.715  1.00 12.60      1LZR 741
+ATOM    565  CA  THR    70       2.927   2.014  39.536  1.00 13.39      1LZR 742
+ATOM    566  C   THR    70       3.308   1.427  40.889  1.00 13.93      1LZR 743
+ATOM    567  O   THR    70       3.413   2.167  41.868  1.00 14.43      1LZR 744
+ATOM    568  CB  THR    70       4.049   3.036  39.078  1.00 12.42      1LZR 745
+ATOM    569  OG1 THR    70       3.553   3.761  37.920  1.00 12.47      1LZR 746
+ATOM    570  CG2 THR    70       5.398   2.369  38.779  1.00 12.26      1LZR 747
+ATOM    571  N   PRO    71       3.557   0.141  40.977  1.00 15.16      1LZR 748
+ATOM    572  CA  PRO    71       3.950  -0.458  42.266  1.00 16.17      1LZR 749
+ATOM    573  C   PRO    71       5.374  -0.069  42.644  1.00 17.25      1LZR 750
+ATOM    574  O   PRO    71       6.256   0.041  41.769  1.00 18.39      1LZR 751
+ATOM    575  CB  PRO    71       3.901  -1.978  42.053  1.00 15.62      1LZR 752
+ATOM    576  CG  PRO    71       3.481  -2.186  40.637  1.00 17.32      1LZR 753
+ATOM    577  CD  PRO    71       3.512  -0.840  39.894  1.00 16.10      1LZR 754
+ATOM    578  N   GLY    72       5.558   0.087  43.929  1.00 18.56      1LZR 755
+ATOM    579  CA  GLY    72       6.801   0.402  44.604  1.00 19.63      1LZR 756
+ATOM    580  C   GLY    72       7.419   1.694  44.112  1.00 19.68      1LZR 757
+ATOM    581  O   GLY    72       8.647   1.934  44.087  1.00 23.63      1LZR 758
+ATOM    582  N   ALA    73       6.609   2.631  43.703  1.00 17.89      1LZR 759
+ATOM    583  CA  ALA    73       7.200   3.884  43.153  1.00 16.22      1LZR 760
+ATOM    584  C   ALA    73       7.396   4.975  44.168  1.00 16.81      1LZR 761
+ATOM    585  O   ALA    73       6.781   4.983  45.270  1.00 16.42      1LZR 762
+ATOM    586  CB  ALA    73       6.194   4.325  42.062  1.00 16.83      1LZR 763
+ATOM    587  N   VAL    74       8.241   5.930  43.766  1.00 13.49      1LZR 764
+ATOM    588  CA  VAL    74       8.467   7.140  44.558  1.00 13.00      1LZR 765
+ATOM    589  C   VAL    74       8.134   8.334  43.634  1.00 11.93      1LZR 766
+ATOM    590  O   VAL    74       7.864   8.086  42.460  1.00 13.72      1LZR 767
+ATOM    591  CB  VAL    74       9.837   7.246  45.246  1.00 12.85      1LZR 768
+ATOM    592  CG1 VAL    74       9.876   6.107  46.264  1.00 14.55      1LZR 769
+ATOM    593  CG2 VAL    74      10.973   7.133  44.265  1.00 13.79      1LZR 770
+ATOM    594  N   ASN    75       8.175   9.511  44.202  1.00 12.66      1LZR 771
+ATOM    595  CA  ASN    75       7.821  10.718  43.440  1.00 11.86      1LZR 772
+ATOM    596  C   ASN    75       8.815  11.836  43.802  1.00 11.56      1LZR 773
+ATOM    597  O   ASN    75       8.459  12.802  44.482  1.00 11.36      1LZR 774
+ATOM    598  CB  ASN    75       6.384  11.026  43.909  1.00 11.88      1LZR 775
+ATOM    599  CG  ASN    75       5.846  12.313  43.376  1.00 11.91      1LZR 776
+ATOM    600  OD1 ASN    75       6.433  12.895  42.433  1.00 11.78      1LZR 777
+ATOM    601  ND2 ASN    75       4.750  12.839  43.935  1.00 13.80      1LZR 778
+ATOM    602  N   ALA    76      10.014  11.680  43.239  1.00 12.20      1LZR 779
+ATOM    603  CA  ALA    76      11.071  12.631  43.572  1.00 12.66      1LZR 780
+ATOM    604  C   ALA    76      10.851  14.036  43.068  1.00 13.35      1LZR 781
+ATOM    605  O   ALA    76      11.441  14.963  43.683  1.00 13.29      1LZR 782
+ATOM    606  CB  ALA    76      12.409  12.008  43.182  1.00 12.24      1LZR 783
+ATOM    607  N   CYS    77      10.063  14.254  42.001  1.00 11.16      1LZR 784
+ATOM    608  CA  CYS    77       9.816  15.619  41.545  1.00 11.68      1LZR 785
+ATOM    609  C   CYS    77       8.658  16.248  42.339  1.00 11.35      1LZR 786
+ATOM    610  O   CYS    77       8.416  17.446  42.178  1.00 12.20      1LZR 787
+ATOM    611  CB  CYS    77       9.471  15.666  40.044  1.00 10.02      1LZR 788
+ATOM    612  SG  CYS    77      10.966  15.196  39.084  1.00  9.76      1LZR 789
+ATOM    613  N   HIS    78       7.984  15.435  43.137  1.00 10.93      1LZR 790
+ATOM    614  CA  HIS    78       6.832  15.987  43.893  1.00 13.07      1LZR 791
+ATOM    615  C   HIS    78       5.753  16.504  42.956  1.00 11.99      1LZR 792
+ATOM    616  O   HIS    78       5.224  17.605  43.096  1.00 13.01      1LZR 793
+ATOM    617  CB  HIS    78       7.260  17.183  44.845  1.00 14.95      1LZR 794
+ATOM    618  CG  HIS    78       8.412  16.692  45.683  1.00 20.10      1LZR 795
+ATOM    619  ND1 HIS    78       9.650  17.316  45.807  1.00 22.98      1LZR 796
+ATOM    620  CD2 HIS    78       8.491  15.517  46.355  1.00 19.54      1LZR 797
+ATOM    621  CE1 HIS    78      10.401  16.572  46.603  1.00 21.88      1LZR 798
+ATOM    622  NE2 HIS    78       9.738  15.457  46.936  1.00 24.09      1LZR 799
+ATOM    623  N   LEU    79       5.389  15.679  41.972  1.00 11.62      1LZR 800
+ATOM    624  CA  LEU    79       4.350  16.123  41.029  1.00 11.66      1LZR 801
+ATOM    625  C   LEU    79       3.405  14.963  40.698  1.00  9.77      1LZR 802
+ATOM    626  O   LEU    79       3.884  13.828  40.643  1.00 10.56      1LZR 803
+ATOM    627  CB  LEU    79       5.037  16.466  39.665  1.00 12.40      1LZR 804
+ATOM    628  CG  LEU    79       5.974  17.626  39.550  1.00 15.24      1LZR 805
+ATOM    629  CD1 LEU    79       6.605  17.668  38.138  1.00 15.79      1LZR 806
+ATOM    630  CD2 LEU    79       5.103  18.915  39.700  1.00 14.82      1LZR 807
+ATOM    631  N   SER    80       2.176  15.319  40.365  1.00  8.29      1LZR 808
+ATOM    632  CA  SER    80       1.274  14.282  39.798  1.00  8.71      1LZR 809
+ATOM    633  C   SER    80       1.868  14.058  38.388  1.00  9.03      1LZR 810
+ATOM    634  O   SER    80       2.363  15.019  37.729  1.00  8.78      1LZR 811
+ATOM    635  CB  SER    80      -0.116  14.875  39.648  1.00  9.61      1LZR 812
+ATOM    636  OG  SER    80      -0.849  14.077  38.702  1.00 12.18      1LZR 813
+ATOM    637  N   CYS    81       1.829  12.852  37.819  1.00  8.92      1LZR 814
+ATOM    638  CA  CYS    81       2.350  12.619  36.445  1.00  9.09      1LZR 815
+ATOM    639  C   CYS    81       1.510  13.462  35.465  1.00  8.63      1LZR 816
+ATOM    640  O   CYS    81       2.044  13.782  34.383  1.00  9.16      1LZR 817
+ATOM    641  CB  CYS    81       2.388  11.150  36.044  1.00  7.55      1LZR 818
+ATOM    642  SG  CYS    81       3.531  10.203  37.129  1.00  8.66      1LZR 819
+ATOM    643  N   SER    82       0.298  13.840  35.819  1.00  8.34      1LZR 820
+ATOM    644  CA  SER    82      -0.539  14.703  34.943  1.00  8.44      1LZR 821
+ATOM    645  C   SER    82       0.192  16.010  34.629  1.00  8.97      1LZR 822
+ATOM    646  O   SER    82       0.010  16.545  33.512  1.00  9.10      1LZR 823
+ATOM    647  CB  SER    82      -1.867  15.004  35.651  1.00 10.87      1LZR 824
+ATOM    648  OG  SER    82      -2.710  15.902  34.914  1.00 12.43      1LZR 825
+ATOM    649  N   ALA    83       0.993  16.479  35.561  1.00  9.10      1LZR 826
+ATOM    650  CA  ALA    83       1.744  17.743  35.362  1.00  9.43      1LZR 827
+ATOM    651  C   ALA    83       2.695  17.664  34.175  1.00  9.26      1LZR 828
+ATOM    652  O   ALA    83       2.977  18.728  33.568  1.00  9.69      1LZR 829
+ATOM    653  CB  ALA    83       2.521  18.161  36.612  1.00  7.76      1LZR 830
+ATOM    654  N   LEU    84       3.128  16.482  33.849  1.00  8.74      1LZR 831
+ATOM    655  CA  LEU    84       4.053  16.286  32.728  1.00  8.72      1LZR 832
+ATOM    656  C   LEU    84       3.354  16.139  31.384  1.00 10.22      1LZR 833
+ATOM    657  O   LEU    84       4.096  15.803  30.430  1.00 10.79      1LZR 834
+ATOM    658  CB  LEU    84       4.966  15.082  33.051  1.00  8.20      1LZR 835
+ATOM    659  CG  LEU    84       5.731  15.154  34.362  1.00  9.30      1LZR 836
+ATOM    660  CD1 LEU    84       6.470  13.843  34.609  1.00 12.12      1LZR 837
+ATOM    661  CD2 LEU    84       6.663  16.349  34.338  1.00 11.75      1LZR 838
+ATOM    662  N   LEU    85       2.043  16.359  31.342  1.00  8.80      1LZR 839
+ATOM    663  CA  LEU    85       1.319  16.237  30.062  1.00  8.47      1LZR 840
+ATOM    664  C   LEU    85       0.748  17.607  29.666  1.00  9.29      1LZR 841
+ATOM    665  O   LEU    85      -0.100  17.661  28.769  1.00  9.71      1LZR 842
+ATOM    666  CB  LEU    85       0.199  15.172  30.199  1.00  8.59      1LZR 843
+ATOM    667  CG  LEU    85       0.744  13.752  30.487  1.00  9.13      1LZR 844
+ATOM    668  CD1 LEU    85      -0.439  12.790  30.689  1.00 11.48      1LZR 845
+ATOM    669  CD2 LEU    85       1.614  13.283  29.328  1.00 11.14      1LZR 846
+ATOM    670  N   GLN    86       1.152  18.647  30.357  1.00  9.19      1LZR 847
+ATOM    671  CA  GLN    86       0.612  20.010  30.014  1.00  9.37      1LZR 848
+ATOM    672  C   GLN    86       1.319  20.587  28.786  1.00 10.40      1LZR 849
+ATOM    673  O   GLN    86       2.447  20.143  28.451  1.00 10.40      1LZR 850
+ATOM    674  CB  GLN    86       0.901  20.958  31.177  1.00 10.03      1LZR 851
+ATOM    675  CG  GLN    86       0.243  20.571  32.501  1.00 11.74      1LZR 852
+ATOM    676  CD  GLN    86       0.679  21.536  33.594  1.00 13.71      1LZR 853
+ATOM    677  OE1 GLN    86       0.134  22.645  33.740  1.00 15.40      1LZR 854
+ATOM    678  NE2 GLN    86       1.669  21.187  34.394  1.00 13.82      1LZR 855
+ATOM    679  N   ASP    87       0.687  21.568  28.146  1.00  8.87      1LZR 856
+ATOM    680  CA  ASP    87       1.329  22.229  27.007  1.00 10.14      1LZR 857
+ATOM    681  C   ASP    87       2.473  23.114  27.549  1.00 11.18      1LZR 858
+ATOM    682  O   ASP    87       3.417  23.316  26.797  1.00 13.53      1LZR 859
+ATOM    683  CB  ASP    87       0.360  23.087  26.174  1.00 11.62      1LZR 860
+ATOM    684  CG  ASP    87      -0.531  22.251  25.257  1.00 13.18      1LZR 861
+ATOM    685  OD1 ASP    87      -0.456  21.040  25.083  1.00 11.91      1LZR 862
+ATOM    686  OD2 ASP    87      -1.399  22.930  24.621  1.00 15.26      1LZR 863
+ATOM    687  N   ASN    88       2.328  23.673  28.738  1.00 11.22      1LZR 864
+ATOM    688  CA  ASN    88       3.362  24.535  29.346  1.00 11.78      1LZR 865
+ATOM    689  C   ASN    88       4.376  23.536  29.966  1.00 10.59      1LZR 866
+ATOM    690  O   ASN    88       3.946  22.728  30.800  1.00 11.58      1LZR 867
+ATOM    691  CB  ASN    88       2.757  25.443  30.407  1.00 14.58      1LZR 868
+ATOM    692  CG  ASN    88       3.867  26.308  31.028  1.00 19.22      1LZR 869
+ATOM    693  OD1 ASN    88       4.632  25.828  31.817  1.00 18.02      1LZR 870
+ATOM    694  ND2 ASN    88       3.968  27.591  30.636  1.00 22.37      1LZR 871
+ATOM    695  N   ILE    89       5.636  23.657  29.561  1.00  8.98      1LZR 872
+ATOM    696  CA  ILE    89       6.650  22.692  30.037  1.00  9.87      1LZR 873
+ATOM    697  C   ILE    89       7.419  23.081  31.266  1.00  9.51      1LZR 874
+ATOM    698  O   ILE    89       8.403  22.358  31.608  1.00  9.84      1LZR 875
+ATOM    699  CB  ILE    89       7.609  22.326  28.834  1.00 10.77      1LZR 876
+ATOM    700  CG1 ILE    89       8.492  23.541  28.406  1.00 12.27      1LZR 877
+ATOM    701  CG2 ILE    89       6.795  21.747  27.651  1.00 11.51      1LZR 878
+ATOM    702  CD1 ILE    89       9.616  23.049  27.411  1.00 14.08      1LZR 879
+ATOM    703  N   ALA    90       7.007  24.114  31.976  1.00  8.86      1LZR 880
+ATOM    704  CA  ALA    90       7.752  24.536  33.181  1.00  9.59      1LZR 881
+ATOM    705  C   ALA    90       7.912  23.413  34.208  1.00  8.89      1LZR 882
+ATOM    706  O   ALA    90       9.012  23.193  34.719  1.00  9.13      1LZR 883
+ATOM    707  CB  ALA    90       7.078  25.752  33.806  1.00  9.54      1LZR 884
+ATOM    708  N   ASP    91       6.801  22.677  34.442  1.00  8.83      1LZR 885
+ATOM    709  CA  ASP    91       6.925  21.588  35.455  1.00  9.75      1LZR 886
+ATOM    710  C   ASP    91       7.822  20.448  34.950  1.00  9.46      1LZR 887
+ATOM    711  O   ASP    91       8.592  19.862  35.743  1.00  9.65      1LZR 888
+ATOM    712  CB  ASP    91       5.523  21.064  35.851  1.00 12.46      1LZR 889
+ATOM    713  CG  ASP    91       4.750  22.056  36.708  1.00 15.34      1LZR 890
+ATOM    714  OD1 ASP    91       5.406  22.730  37.535  1.00 16.80      1LZR 891
+ATOM    715  OD2 ASP    91       3.535  22.230  36.547  1.00 17.00      1LZR 892
+ATOM    716  N   ALA    92       7.694  20.107  33.666  1.00  8.87      1LZR 893
+ATOM    717  CA  ALA    92       8.509  19.023  33.087  1.00  9.59      1LZR 894
+ATOM    718  C   ALA    92       9.991  19.406  33.167  1.00  9.11      1LZR 895
+ATOM    719  O   ALA    92      10.863  18.557  33.440  1.00  9.93      1LZR 896
+ATOM    720  CB  ALA    92       8.059  18.752  31.641  1.00  9.74      1LZR 897
+ATOM    721  N   VAL    93      10.287  20.690  32.911  1.00  8.60      1LZR 898
+ATOM    722  CA  VAL    93      11.694  21.153  32.966  1.00  8.60      1LZR 899
+ATOM    723  C   VAL    93      12.182  21.081  34.427  1.00  8.95      1LZR 900
+ATOM    724  O   VAL    93      13.309  20.613  34.684  1.00  9.30      1LZR 901
+ATOM    725  CB  VAL    93      11.806  22.548  32.322  1.00  9.53      1LZR 902
+ATOM    726  CG1 VAL    93      13.051  23.289  32.755  1.00 10.82      1LZR 903
+ATOM    727  CG2 VAL    93      11.712  22.435  30.791  1.00 10.80      1LZR 904
+ATOM    728  N   ALA    94      11.351  21.549  35.360  1.00  8.68      1LZR 905
+ATOM    729  CA  ALA    94      11.812  21.479  36.781  1.00  8.83      1LZR 906
+ATOM    730  C   ALA    94      12.125  20.020  37.144  1.00  8.50      1LZR 907
+ATOM    731  O   ALA    94      13.067  19.734  37.894  1.00  9.66      1LZR 908
+ATOM    732  CB  ALA    94      10.743  22.083  37.691  1.00  9.25      1LZR 909
+ATOM    733  N   CYS    95      11.320  19.113  36.615  1.00  7.65      1LZR 910
+ATOM    734  CA  CYS    95      11.502  17.678  36.931  1.00  8.01      1LZR 911
+ATOM    735  C   CYS    95      12.749  17.138  36.255  1.00  7.48      1LZR 912
+ATOM    736  O   CYS    95      13.517  16.392  36.899  1.00  8.96      1LZR 913
+ATOM    737  CB  CYS    95      10.203  16.916  36.661  1.00  8.91      1LZR 914
+ATOM    738  SG  CYS    95      10.244  15.158  37.166  1.00  9.53      1LZR 915
+ATOM    739  N   ALA    96      12.904  17.486  34.982  1.00  7.12      1LZR 916
+ATOM    740  CA  ALA    96      14.119  17.025  34.264  1.00  8.14      1LZR 917
+ATOM    741  C   ALA    96      15.394  17.486  34.995  1.00  7.67      1LZR 918
+ATOM    742  O   ALA    96      16.386  16.745  35.022  1.00  9.02      1LZR 919
+ATOM    743  CB  ALA    96      14.077  17.537  32.824  1.00  8.26      1LZR 920
+ATOM    744  N   LYS    97      15.330  18.712  35.538  1.00  7.91      1LZR 921
+ATOM    745  CA  LYS    97      16.494  19.266  36.289  1.00  8.91      1LZR 922
+ATOM    746  C   LYS    97      16.711  18.380  37.514  1.00  9.11      1LZR 923
+ATOM    747  O   LYS    97      17.856  18.061  37.870  1.00  9.49      1LZR 924
+ATOM    748  CB  LYS    97      16.266  20.715  36.723  1.00  8.82      1LZR 925
+ATOM    749  CG  LYS    97      16.331  21.717  35.559  1.00  9.81      1LZR 926
+ATOM    750  CD  LYS    97      15.977  23.144  36.033  1.00  9.12      1LZR 927
+ATOM    751  CE  LYS    97      16.163  24.159  34.906  1.00  9.91      1LZR 928
+ATOM    752  NZ  LYS    97      15.784  25.511  35.344  1.00 12.22      1LZR 929
+ATOM    753  N   ARG    98      15.630  17.989  38.174  1.00  8.86      1LZR 930
+ATOM    754  CA  ARG    98      15.776  17.092  39.360  1.00  9.01      1LZR 931
+ATOM    755  C   ARG    98      16.394  15.771  38.951  1.00  8.95      1LZR 932
+ATOM    756  O   ARG    98      17.310  15.242  39.627  1.00  9.54      1LZR 933
+ATOM    757  CB  ARG    98      14.401  16.870  40.023  1.00  9.74      1LZR 934
+ATOM    758  CG  ARG    98      14.430  15.735  41.070  1.00 11.60      1LZR 935
+ATOM    759  CD  ARG    98      15.278  16.155  42.267  1.00 12.29      1LZR 936
+ATOM    760  NE  ARG    98      15.403  15.049  43.223  1.00 14.15      1LZR 937
+ATOM    761  CZ  ARG    98      16.258  14.040  43.160  1.00 15.87      1LZR 938
+ATOM    762  NH1 ARG    98      17.186  13.936  42.183  1.00 16.37      1LZR 939
+ATOM    763  NH2 ARG    98      16.294  13.090  44.119  1.00 17.31      1LZR 940
+ATOM    764  N   VAL    99      15.935  15.205  37.829  1.00  8.45      1LZR 941
+ATOM    765  CA  VAL    99      16.478  13.901  37.371  1.00  8.75      1LZR 942
+ATOM    766  C   VAL    99      18.003  13.958  37.276  1.00  8.93      1LZR 943
+ATOM    767  O   VAL    99      18.692  13.048  37.765  1.00 10.37      1LZR 944
+ATOM    768  CB  VAL    99      15.877  13.471  36.004  1.00  9.01      1LZR 945
+ATOM    769  CG1 VAL    99      16.589  12.235  35.404  1.00  8.75      1LZR 946
+ATOM    770  CG2 VAL    99      14.352  13.271  36.103  1.00  8.66      1LZR 947
+ATOM    771  N   VAL   100      18.514  14.980  36.606  1.00  9.14      1LZR 948
+ATOM    772  CA  VAL   100      19.981  15.053  36.409  1.00  9.35      1LZR 949
+ATOM    773  C   VAL   100      20.755  15.452  37.654  1.00 11.41      1LZR 950
+ATOM    774  O   VAL   100      22.007  15.400  37.538  1.00 11.89      1LZR 951
+ATOM    775  CB  VAL   100      20.360  15.838  35.131  1.00  8.40      1LZR 952
+ATOM    776  CG1 VAL   100      19.706  15.209  33.906  1.00  9.23      1LZR 953
+ATOM    777  CG2 VAL   100      19.992  17.320  35.257  1.00  9.41      1LZR 954
+ATOM    778  N   ARG   101      20.101  15.789  38.748  1.00  9.91      1LZR 955
+ATOM    779  CA  ARG   101      20.824  16.061  40.001  1.00 12.27      1LZR 956
+ATOM    780  C   ARG   101      21.242  14.730  40.638  1.00 13.59      1LZR 957
+ATOM    781  O   ARG   101      22.109  14.781  41.566  1.00 14.67      1LZR 958
+ATOM    782  CB  ARG   101      20.047  16.933  40.955  1.00 11.57      1LZR 959
+ATOM    783  CG  ARG   101      19.981  18.390  40.475  1.00 13.74      1LZR 960
+ATOM    784  CD  ARG   101      19.570  19.327  41.554  1.00 15.09      1LZR 961
+ATOM    785  NE  ARG   101      18.236  19.129  42.109  1.00 15.40      1LZR 962
+ATOM    786  CZ  ARG   101      17.127  19.660  41.592  1.00 14.59      1LZR 963
+ATOM    787  NH1 ARG   101      17.076  20.396  40.475  1.00 16.03      1LZR 964
+ATOM    788  NH2 ARG   101      16.002  19.450  42.264  1.00 15.40      1LZR 965
+ATOM    789  N   ASP   102      20.710  13.606  40.173  1.00 13.12      1LZR 966
+ATOM    790  CA  ASP   102      21.157  12.273  40.693  1.00 12.98      1LZR 967
+ATOM    791  C   ASP   102      22.452  11.919  39.946  1.00 12.27      1LZR 968
+ATOM    792  O   ASP   102      22.767  12.502  38.908  1.00 12.23      1LZR 969
+ATOM    793  CB  ASP   102      20.093  11.207  40.502  1.00 12.87      1LZR 970
+ATOM    794  CG  ASP   102      19.154  11.105  41.721  1.00 13.20      1LZR 971
+ATOM    795  OD1 ASP   102      19.200  11.974  42.588  1.00 16.34      1LZR 972
+ATOM    796  OD2 ASP   102      18.382  10.148  41.716  1.00 16.58      1LZR 973
+ATOM    797  N   PRO   103      23.220  10.975  40.469  1.00 14.01      1LZR 974
+ATOM    798  CA  PRO   103      24.532  10.644  39.896  1.00 13.59      1LZR 975
+ATOM    799  C   PRO   103      24.650  10.305  38.445  1.00 13.95      1LZR 976
+ATOM    800  O   PRO   103      25.656  10.713  37.794  1.00 14.18      1LZR 977
+ATOM    801  CB  PRO   103      25.059   9.498  40.779  1.00 15.76      1LZR 978
+ATOM    802  CG  PRO   103      24.292   9.610  42.061  1.00 15.55      1LZR 979
+ATOM    803  CD  PRO   103      22.970  10.270  41.740  1.00 14.50      1LZR 980
+ATOM    804  N   GLN   104      23.699   9.589  37.867  1.00 12.49      1LZR 981
+ATOM    805  CA  GLN   104      23.776   9.234  36.443  1.00 12.50      1LZR 982
+ATOM    806  C   GLN   104      23.663  10.461  35.547  1.00 11.01      1LZR 983
+ATOM    807  O   GLN   104      24.084  10.368  34.366  1.00 11.51      1LZR 984
+ATOM    808  CB  GLN   104      22.604   8.322  36.017  1.00 16.40      1LZR 985
+ATOM    809  CG  GLN   104      22.642   6.934  36.586  1.00 21.78      1LZR 986
+ATOM    810  CD  GLN   104      21.570   6.121  35.830  1.00 23.04      1LZR 987
+ATOM    811  OE1 GLN   104      20.353   6.242  36.033  1.00 24.30      1LZR 988
+ATOM    812  NE2 GLN   104      22.116   5.317  34.932  1.00 23.06      1LZR 989
+ATOM    813  N   GLY   105      23.078  11.526  36.043  1.00 10.52      1LZR 990
+ATOM    814  CA  GLY   105      22.959  12.748  35.184  1.00 10.00      1LZR 991
+ATOM    815  C   GLY   105      22.087  12.382  33.976  1.00  9.66      1LZR 992
+ATOM    816  O   GLY   105      21.088  11.719  34.140  1.00 11.18      1LZR 993
+ATOM    817  N   ILE   106      22.489  12.832  32.799  1.00 10.01      1LZR 994
+ATOM    818  CA  ILE   106      21.775  12.625  31.549  1.00 10.89      1LZR 995
+ATOM    819  C   ILE   106      21.695  11.169  31.173  1.00 10.72      1LZR 996
+ATOM    820  O   ILE   106      20.851  10.791  30.323  1.00 11.12      1LZR 997
+ATOM    821  CB  ILE   106      22.449  13.554  30.450  1.00 12.73      1LZR 998
+ATOM    822  CG1 ILE   106      21.596  13.592  29.156  1.00 15.50      1LZR 999
+ATOM    823  CG2 ILE   106      23.908  13.151  30.188  1.00 14.03      1LZR1000
+ATOM    824  CD1 ILE   106      20.317  14.450  29.257  1.00 15.25      1LZR1001
+ATOM    825  N   ARG   107      22.576  10.333  31.722  1.00  9.78      1LZR1002
+ATOM    826  CA  ARG   107      22.548   8.897  31.406  1.00 10.99      1LZR1003
+ATOM    827  C   ARG   107      21.291   8.216  31.950  1.00 10.88      1LZR1004
+ATOM    828  O   ARG   107      21.096   7.021  31.642  1.00 12.49      1LZR1005
+ATOM    829  CB  ARG   107      23.814   8.174  31.932  1.00 11.76      1LZR1006
+ATOM    830  CG  ARG   107      25.026   8.586  31.049  1.00 13.38      1LZR1007
+ATOM    831  CD  ARG   107      26.322   8.347  31.778  1.00 15.09      1LZR1008
+ATOM    832  NE  ARG   107      27.462   8.562  30.898  1.00 16.12      1LZR1009
+ATOM    833  CZ  ARG   107      27.953   9.647  30.326  1.00 18.26      1LZR1010
+ATOM    834  NH1 ARG   107      27.492  10.889  30.444  1.00 14.98      1LZR1011
+ATOM    835  NH2 ARG   107      29.035   9.429  29.514  1.00 18.52      1LZR1012
+ATOM    836  N   ALA   108      20.460   8.943  32.689  1.00 10.28      1LZR1013
+ATOM    837  CA  ALA   108      19.214   8.409  33.224  1.00 12.25      1LZR1014
+ATOM    838  C   ALA   108      18.284   8.000  32.072  1.00 12.15      1LZR1015
+ATOM    839  O   ALA   108      17.378   7.181  32.298  1.00 13.72      1LZR1016
+ATOM    840  CB  ALA   108      18.473   9.435  34.065  1.00 12.27      1LZR1017
+ATOM    841  N   TRP   109      18.513   8.584  30.912  1.00 11.60      1LZR1018
+ATOM    842  CA  TRP   109      17.708   8.257  29.714  1.00 11.78      1LZR1019
+ATOM    843  C   TRP   109      18.511   7.351  28.816  1.00 12.71      1LZR1020
+ATOM    844  O   TRP   109      19.532   7.815  28.260  1.00 12.01      1LZR1021
+ATOM    845  CB  TRP   109      17.309   9.541  28.998  1.00 11.39      1LZR1022
+ATOM    846  CG  TRP   109      16.238  10.406  29.606  1.00 10.48      1LZR1023
+ATOM    847  CD1 TRP   109      14.868  10.292  29.427  1.00 12.51      1LZR1024
+ATOM    848  CD2 TRP   109      16.438  11.504  30.507  1.00  9.67      1LZR1025
+ATOM    849  NE1 TRP   109      14.239  11.294  30.133  1.00 11.33      1LZR1026
+ATOM    850  CE2 TRP   109      15.166  12.050  30.823  1.00 10.30      1LZR1027
+ATOM    851  CE3 TRP   109      17.588  12.086  31.030  1.00 10.57      1LZR1028
+ATOM    852  CZ2 TRP   109      15.019  13.158  31.641  1.00  8.51      1LZR1029
+ATOM    853  CZ3 TRP   109      17.453  13.185  31.857  1.00 10.04      1LZR1030
+ATOM    854  CH2 TRP   109      16.178  13.715  32.164  1.00 10.98      1LZR1031
+ATOM    855  N   VAL   110      18.114   6.096  28.600  1.00 13.52      1LZR1032
+ATOM    856  CA  VAL   110      18.944   5.239  27.712  1.00 15.01      1LZR1033
+ATOM    857  C   VAL   110      18.900   5.743  26.285  1.00 13.65      1LZR1034
+ATOM    858  O   VAL   110      19.919   5.581  25.555  1.00 15.84      1LZR1035
+ATOM    859  CB  VAL   110      18.590   3.756  27.949  1.00 19.94      1LZR1036
+ATOM    860  CG1 VAL   110      17.114   3.506  27.782  1.00 22.51      1LZR1037
+ATOM    861  CG2 VAL   110      19.430   2.853  27.028  1.00 20.73      1LZR1038
+ATOM    862  N   ALA   111      17.845   6.382  25.845  1.00 12.75      1LZR1039
+ATOM    863  CA  ALA   111      17.766   6.953  24.485  1.00 13.50      1LZR1040
+ATOM    864  C   ALA   111      18.907   7.966  24.247  1.00 13.14      1LZR1041
+ATOM    865  O   ALA   111      19.397   8.111  23.099  1.00 13.02      1LZR1042
+ATOM    866  CB  ALA   111      16.468   7.714  24.256  1.00 14.57      1LZR1043
+ATOM    867  N   TRP   112      19.301   8.645  25.345  1.00 10.98      1LZR1044
+ATOM    868  CA  TRP   112      20.406   9.633  25.168  1.00  9.74      1LZR1045
+ATOM    869  C   TRP   112      21.689   8.885  24.826  1.00 10.32      1LZR1046
+ATOM    870  O   TRP   112      22.434   9.291  23.924  1.00 10.74      1LZR1047
+ATOM    871  CB  TRP   112      20.543  10.546  26.379  1.00 10.26      1LZR1048
+ATOM    872  CG  TRP   112      21.669  11.522  26.240  1.00  9.52      1LZR1049
+ATOM    873  CD1 TRP   112      21.599  12.744  25.665  1.00 10.24      1LZR1050
+ATOM    874  CD2 TRP   112      23.022  11.322  26.654  1.00 10.52      1LZR1051
+ATOM    875  NE1 TRP   112      22.855  13.343  25.675  1.00  9.99      1LZR1052
+ATOM    876  CE2 TRP   112      23.745  12.524  26.292  1.00 11.11      1LZR1053
+ATOM    877  CE3 TRP   112      23.703  10.279  27.286  1.00 10.59      1LZR1054
+ATOM    878  CZ2 TRP   112      25.111  12.641  26.516  1.00 11.37      1LZR1055
+ATOM    879  CZ3 TRP   112      25.069  10.422  27.556  1.00 11.14      1LZR1056
+ATOM    880  CH2 TRP   112      25.739  11.588  27.165  1.00 11.70      1LZR1057
+ATOM    881  N   ARG   113      21.938   7.790  25.534  1.00 10.66      1LZR1058
+ATOM    882  CA  ARG   113      23.155   7.007  25.236  1.00 11.33      1LZR1059
+ATOM    883  C   ARG   113      23.143   6.483  23.803  1.00 11.73      1LZR1060
+ATOM    884  O   ARG   113      24.137   6.542  23.034  1.00 12.10      1LZR1061
+ATOM    885  CB  ARG   113      23.255   5.802  26.198  1.00 14.93      1LZR1062
+ATOM    886  CG  ARG   113      23.528   6.206  27.644  1.00 18.51      1LZR1063
+ATOM    887  CD  ARG   113      23.598   4.961  28.490  1.00 25.12      1LZR1064
+ATOM    888  NE  ARG   113      22.867   5.152  29.736  1.00 30.89      1LZR1065
+ATOM    889  CZ  ARG   113      22.312   4.120  30.409  1.00 34.79      1LZR1066
+ATOM    890  NH1 ARG   113      22.393   2.861  29.913  1.00 34.80      1LZR1067
+ATOM    891  NH2 ARG   113      21.711   4.380  31.572  1.00 33.66      1LZR1068
+ATOM    892  N   ASN   114      21.986   5.974  23.372  1.00 10.99      1LZR1069
+ATOM    893  CA  ASN   114      21.880   5.393  22.036  1.00 11.45      1LZR1070
+ATOM    894  C   ASN   114      21.940   6.383  20.878  1.00 12.47      1LZR1071
+ATOM    895  O   ASN   114      22.504   6.085  19.824  1.00 12.42      1LZR1072
+ATOM    896  CB  ASN   114      20.524   4.678  21.861  1.00 13.49      1LZR1073
+ATOM    897  CG  ASN   114      20.272   3.542  22.817  1.00 16.17      1LZR1074
+ATOM    898  OD1 ASN   114      21.205   3.024  23.378  1.00 17.18      1LZR1075
+ATOM    899  ND2 ASN   114      18.987   3.199  22.987  1.00 19.55      1LZR1076
+ATOM    900  N   ARG   115      21.285   7.530  21.088  1.00 10.42      1LZR1077
+ATOM    901  CA  ARG   115      21.097   8.505  20.035  1.00 11.73      1LZR1078
+ATOM    902  C   ARG   115      21.862   9.800  20.080  1.00 10.17      1LZR1079
+ATOM    903  O   ARG   115      21.907  10.458  19.032  1.00 11.64      1LZR1080
+ATOM    904  CB  ARG   115      19.575   8.886  20.000  1.00 13.62      1LZR1081
+ATOM    905  CG  ARG   115      18.617   7.685  19.984  1.00 17.17      1LZR1082
+ATOM    906  CD  ARG   115      18.463   7.181  18.589  1.00 21.07      1LZR1083
+ATOM    907  NE  ARG   115      17.500   6.073  18.508  1.00 22.70      1LZR1084
+ATOM    908  CZ  ARG   115      17.137   5.575  17.311  1.00 23.81      1LZR1085
+ATOM    909  NH1 ARG   115      17.630   6.078  16.196  1.00 23.22      1LZR1086
+ATOM    910  NH2 ARG   115      16.267   4.556  17.315  1.00 24.65      1LZR1087
+ATOM    911  N   CYS   116      22.357  10.150  21.235  1.00  9.21      1LZR1088
+ATOM    912  CA  CYS   116      22.989  11.457  21.413  1.00  9.59      1LZR1089
+ATOM    913  C   CYS   116      24.428  11.443  21.868  1.00  9.41      1LZR1090
+ATOM    914  O   CYS   116      25.233  12.292  21.423  1.00 11.21      1LZR1091
+ATOM    915  CB  CYS   116      22.153  12.304  22.440  1.00  8.96      1LZR1092
+ATOM    916  SG  CYS   116      20.383  12.378  22.022  1.00 10.53      1LZR1093
+ATOM    917  N   GLN   117      24.754  10.541  22.763  1.00  9.05      1LZR1094
+ATOM    918  CA  GLN   117      26.135  10.497  23.292  1.00 10.62      1LZR1095
+ATOM    919  C   GLN   117      27.170  10.345  22.176  1.00 11.81      1LZR1096
+ATOM    920  O   GLN   117      27.050   9.512  21.280  1.00 11.98      1LZR1097
+ATOM    921  CB  GLN   117      26.203   9.346  24.299  1.00 10.44      1LZR1098
+ATOM    922  CG  GLN   117      27.568   9.289  24.987  1.00 12.86      1LZR1099
+ATOM    923  CD  GLN   117      27.671   8.094  25.890  1.00 18.44      1LZR1100
+ATOM    924  OE1 GLN   117      28.666   7.926  26.625  1.00 23.14      1LZR1101
+ATOM    925  NE2 GLN   117      26.687   7.214  25.889  1.00 18.71      1LZR1102
+ATOM    926  N   ASN   118      28.183  11.164  22.296  1.00 12.74      1LZR1103
+ATOM    927  CA  ASN   118      29.324  11.178  21.350  1.00 15.41      1LZR1104
+ATOM    928  C   ASN   118      28.899  11.441  19.924  1.00 16.77      1LZR1105
+ATOM    929  O   ASN   118      29.637  10.980  19.002  1.00 21.04      1LZR1106
+ATOM    930  CB  ASN   118      30.177   9.904  21.454  1.00 18.87      1LZR1107
+ATOM    931  CG  ASN   118      30.785   9.766  22.836  1.00 21.61      1LZR1108
+ATOM    932  OD1 ASN   118      30.699   8.649  23.367  1.00 26.33      1LZR1109
+ATOM    933  ND2 ASN   118      31.305  10.788  23.470  1.00 21.61      1LZR1110
+ATOM    934  N   ARG   119      27.816  12.139  19.691  1.00 13.95      1LZR1111
+ATOM    935  CA  ARG   119      27.404  12.457  18.314  1.00 14.15      1LZR1112
+ATOM    936  C   ARG   119      27.558  13.983  18.156  1.00 13.31      1LZR1113
+ATOM    937  O   ARG   119      27.688  14.672  19.183  1.00 13.50      1LZR1114
+ATOM    938  CB  ARG   119      25.922  12.198  18.015  1.00 13.85      1LZR1115
+ATOM    939  CG  ARG   119      25.441  10.826  18.431  1.00 17.64      1LZR1116
+ATOM    940  CD  ARG   119      25.494   9.794  17.411  1.00 19.10      1LZR1117
+ATOM    941  NE  ARG   119      24.796   8.581  17.909  1.00 19.56      1LZR1118
+ATOM    942  CZ  ARG   119      24.373   7.649  17.049  1.00 19.28      1LZR1119
+ATOM    943  NH1 ARG   119      24.503   7.900  15.724  1.00 21.56      1LZR1120
+ATOM    944  NH2 ARG   119      23.791   6.547  17.446  1.00 17.19      1LZR1121
+ATOM    945  N   ASP   120      27.461  14.399  16.891  1.00 13.01      1LZR1122
+ATOM    946  CA  ASP   120      27.508  15.851  16.615  1.00 13.47      1LZR1123
+ATOM    947  C   ASP   120      26.068  16.311  16.896  1.00 13.83      1LZR1124
+ATOM    948  O   ASP   120      25.230  16.074  16.027  1.00 16.93      1LZR1125
+ATOM    949  CB  ASP   120      27.893  16.071  15.156  1.00 14.93      1LZR1126
+ATOM    950  CG  ASP   120      27.955  17.564  14.848  1.00 17.96      1LZR1127
+ATOM    951  OD1 ASP   120      27.621  18.379  15.731  1.00 18.79      1LZR1128
+ATOM    952  OD2 ASP   120      28.400  17.800  13.698  1.00 17.46      1LZR1129
+ATOM    953  N   VAL   121      25.772  16.883  18.034  1.00 12.31      1LZR1130
+ATOM    954  CA  VAL   121      24.375  17.286  18.339  1.00 12.94      1LZR1131
+ATOM    955  C   VAL   121      24.095  18.752  17.967  1.00 14.54      1LZR1132
+ATOM    956  O   VAL   121      23.022  19.278  18.240  1.00 13.05      1LZR1133
+ATOM    957  CB  VAL   121      24.067  17.024  19.829  1.00 12.26      1LZR1134
+ATOM    958  CG1 VAL   121      23.972  15.529  20.078  1.00 13.40      1LZR1135
+ATOM    959  CG2 VAL   121      25.067  17.689  20.757  1.00 13.57      1LZR1136
+ATOM    960  N   ARG   122      25.063  19.407  17.325  1.00 15.55      1LZR1137
+ATOM    961  CA  ARG   122      24.813  20.836  16.973  1.00 17.62      1LZR1138
+ATOM    962  C   ARG   122      23.606  20.971  16.065  1.00 17.48      1LZR1139
+ATOM    963  O   ARG   122      22.927  22.020  16.051  1.00 16.50      1LZR1140
+ATOM    964  CB  ARG   122      26.078  21.394  16.282  1.00 21.93      1LZR1141
+ATOM    965  CG  ARG   122      27.328  21.244  17.148  1.00 25.91      1LZR1142
+ATOM    966  CD  ARG   122      28.542  21.653  16.355  1.00 31.24      1LZR1143
+ATOM    967  NE  ARG   122      28.867  20.691  15.295  1.00 34.46      1LZR1144
+ATOM    968  CZ  ARG   122      29.927  20.860  14.478  1.00 37.12      1LZR1145
+ATOM    969  NH1 ARG   122      30.721  21.937  14.653  1.00 37.90      1LZR1146
+ATOM    970  NH2 ARG   122      30.196  19.988  13.503  1.00 35.83      1LZR1147
+ATOM    971  N   GLN   123      23.318  19.971  15.268  1.00 17.25      1LZR1148
+ATOM    972  CA  GLN   123      22.230  19.972  14.314  1.00 18.89      1LZR1149
+ATOM    973  C   GLN   123      20.888  20.358  14.962  1.00 18.46      1LZR1150
+ATOM    974  O   GLN   123      20.023  20.989  14.335  1.00 18.47      1LZR1151
+ATOM    975  CB  GLN   123      22.035  18.623  13.602  1.00 23.90      1LZR1152
+ATOM    976  CG  GLN   123      21.629  17.472  14.492  1.00 29.15      1LZR1153
+ATOM    977  CD  GLN   123      21.445  16.137  13.816  1.00 33.22      1LZR1154
+ATOM    978  OE1 GLN   123      20.388  15.824  13.247  1.00 36.20      1LZR1155
+ATOM    979  NE2 GLN   123      22.489  15.302  13.898  1.00 35.32      1LZR1156
+ATOM    980  N   TYR   124      20.751  19.926  16.226  1.00 14.88      1LZR1157
+ATOM    981  CA  TYR   124      19.485  20.197  16.912  1.00 14.26      1LZR1158
+ATOM    982  C   TYR   124      19.252  21.671  17.234  1.00 14.92      1LZR1159
+ATOM    983  O   TYR   124      18.072  22.047  17.413  1.00 14.27      1LZR1160
+ATOM    984  CB  TYR   124      19.356  19.325  18.159  1.00 12.73      1LZR1161
+ATOM    985  CG  TYR   124      19.376  17.850  17.770  1.00 13.27      1LZR1162
+ATOM    986  CD1 TYR   124      18.263  17.212  17.219  1.00 14.72      1LZR1163
+ATOM    987  CD2 TYR   124      20.521  17.097  17.960  1.00 14.27      1LZR1164
+ATOM    988  CE1 TYR   124      18.312  15.869  16.851  1.00 15.56      1LZR1165
+ATOM    989  CE2 TYR   124      20.576  15.745  17.607  1.00 15.34      1LZR1166
+ATOM    990  CZ  TYR   124      19.462  15.138  17.053  1.00 14.68      1LZR1167
+ATOM    991  OH  TYR   124      19.585  13.806  16.719  1.00 16.52      1LZR1168
+ATOM    992  N   VAL   125      20.269  22.479  17.338  1.00 13.06      1LZR1169
+ATOM    993  CA  VAL   125      20.090  23.900  17.661  1.00 14.09      1LZR1170
+ATOM    994  C   VAL   125      20.506  24.839  16.515  1.00 15.11      1LZR1171
+ATOM    995  O   VAL   125      20.313  26.068  16.710  1.00 15.27      1LZR1172
+ATOM    996  CB  VAL   125      20.846  24.293  18.959  1.00 13.78      1LZR1173
+ATOM    997  CG1 VAL   125      20.254  23.598  20.199  1.00 14.82      1LZR1174
+ATOM    998  CG2 VAL   125      22.346  24.053  18.819  1.00 14.79      1LZR1175
+ATOM    999  N   GLN   126      21.017  24.303  15.443  1.00 15.96      1LZR1176
+ATOM   1000  CA  GLN   126      21.491  25.183  14.336  1.00 18.58      1LZR1177
+ATOM   1001  C   GLN   126      20.358  26.048  13.801  1.00 16.11      1LZR1178
+ATOM   1002  O   GLN   126      19.217  25.657  13.518  1.00 15.95      1LZR1179
+ATOM   1003  CB  GLN   126      22.307  24.417  13.315  1.00 23.82      1LZR1180
+ATOM   1004  CG  GLN   126      21.627  23.480  12.377  1.00 32.12      1LZR1181
+ATOM   1005  CD  GLN   126      22.510  22.518  11.600  1.00 36.48      1LZR1182
+ATOM   1006  OE1 GLN   126      22.025  21.595  10.891  1.00 39.43      1LZR1183
+ATOM   1007  NE2 GLN   126      23.835  22.672  11.717  1.00 38.32      1LZR1184
+ATOM   1008  N   GLY   127      20.693  27.326  13.672  1.00 15.99      1LZR1185
+ATOM   1009  CA  GLY   127      19.885  28.408  13.172  1.00 14.90      1LZR1186
+ATOM   1010  C   GLY   127      18.742  28.870  14.037  1.00 15.11      1LZR1187
+ATOM   1011  O   GLY   127      17.902  29.661  13.548  1.00 15.70      1LZR1188
+ATOM   1012  N   CYS   128      18.716  28.451  15.308  1.00 13.16      1LZR1189
+ATOM   1013  CA  CYS   128      17.596  28.810  16.168  1.00 13.30      1LZR1190
+ATOM   1014  C   CYS   128      17.812  30.116  16.919  1.00 14.46      1LZR1191
+ATOM   1015  O   CYS   128      16.852  30.540  17.611  1.00 15.53      1LZR1192
+ATOM   1016  CB  CYS   128      17.301  27.694  17.216  1.00 11.59      1LZR1193
+ATOM   1017  SG  CYS   128      16.841  26.106  16.446  1.00 11.96      1LZR1194
+ATOM   1018  N   GLY   129      19.016  30.633  16.850  1.00 15.23      1LZR1195
+ATOM   1019  CA  GLY   129      19.277  31.903  17.571  1.00 18.17      1LZR1196
+ATOM   1020  C   GLY   129      19.506  31.747  19.049  1.00 19.23      1LZR1197
+ATOM   1021  O   GLY   129      19.249  32.709  19.790  1.00 21.37      1LZR1198
+ATOM   1022  N   VAL   130      19.986  30.613  19.482  1.00 19.11      1LZR1199
+ATOM   1023  CA  VAL   130      20.298  30.303  20.875  1.00 21.12      1LZR1200
+ATOM   1024  C   VAL   130      21.819  30.121  21.039  1.00 23.55      1LZR1201
+ATOM   1025  O   VAL   130      22.599  30.238  20.065  1.00 25.34      1LZR1202
+ATOM   1026  CB  VAL   130      19.557  29.037  21.339  1.00 20.77      1LZR1203
+ATOM   1027  CG1 VAL   130      18.050  29.213  21.351  1.00 19.51      1LZR1204
+ATOM   1028  CG2 VAL   130      19.912  27.817  20.480  1.00 20.49      1LZR1205
+ATOM   1029  OXT VAL   130      22.188  29.833  22.186  1.00 26.62      1LZR1206
+TER    1030      VAL   130                                              1LZR1207
+HETATM 1031 CL    CL   131       1.165  18.329  40.352  0.91 13.20      1LZR1208
+HETATM 1032 CL    CL   132       0.073  13.119  43.081  0.79 10.79      1LZR1209
+HETATM 1033  C1  NAG   136      18.904   6.557  42.763  1.00 39.55      1LZR1210
+HETATM 1034  C2  NAG   136      18.369   6.605  44.181  1.00 42.00      1LZR1211
+HETATM 1035  C3  NAG   136      19.180   7.616  44.952  1.00 43.28      1LZR1212
+HETATM 1036  C4  NAG   136      20.675   7.362  44.868  1.00 43.36      1LZR1213
+HETATM 1037  C5  NAG   136      21.165   6.867  43.499  1.00 42.88      1LZR1214
+HETATM 1038  C6  NAG   136      22.438   6.018  43.537  1.00 42.93      1LZR1215
+HETATM 1039  C7  NAG   136      16.093   5.802  44.021  1.00 45.84      1LZR1216
+HETATM 1040  C8  NAG   136      14.634   6.183  43.943  1.00 45.31      1LZR1217
+HETATM 1041  N2  NAG   136      16.935   6.831  44.116  1.00 44.26      1LZR1218
+HETATM 1042  O1  NAG   136      18.124   5.621  42.064  1.00 33.85      1LZR1219
+HETATM 1043  O3  NAG   136      18.785   7.477  46.351  1.00 44.29      1LZR1220
+HETATM 1044  O4  NAG   136      21.429   8.555  45.148  1.00 44.17      1LZR1221
+HETATM 1045  O5  NAG   136      20.215   6.049  42.811  1.00 41.06      1LZR1222
+HETATM 1046  O6  NAG   136      23.041   5.994  44.825  1.00 44.50      1LZR1223
+HETATM 1047  O7  NAG   136      16.446   4.613  44.004  1.00 46.55      1LZR1224
+HETATM 1048  C1  NAG   137      17.050   4.631  38.215  1.00 26.66      1LZR1225
+HETATM 1049  C2  NAG   137      18.338   4.003  38.704  1.00 27.71      1LZR1226
+HETATM 1050  C3  NAG   137      18.399   4.142  40.212  1.00 28.15      1LZR1227
+HETATM 1051  C4  NAG   137      18.142   5.537  40.661  1.00 27.95      1LZR1228
+HETATM 1052  C5  NAG   137      16.877   6.153  40.029  1.00 26.14      1LZR1229
+HETATM 1053  C6  NAG   137      16.657   7.622  40.279  1.00 24.90      1LZR1230
+HETATM 1054  C7  NAG   137      19.290   2.172  37.450  1.00 30.43      1LZR1231
+HETATM 1055  C8  NAG   137      19.274   0.701  37.142  1.00 30.65      1LZR1232
+HETATM 1056  N2  NAG   137      18.419   2.587  38.332  1.00 28.92      1LZR1233
+HETATM 1057  O1  NAG   137      17.049   4.659  36.822  1.00 25.27      1LZR1234
+HETATM 1058  O3  NAG   137      19.747   3.742  40.580  1.00 29.47      1LZR1235
+HETATM 1059  O5  NAG   137      16.972   5.988  38.612  1.00 25.90      1LZR1236
+HETATM 1060  O6  NAG   137      17.798   8.419  39.909  1.00 23.07      1LZR1237
+HETATM 1061  O7  NAG   137      20.088   2.915  36.878  1.00 32.14      1LZR1238
+HETATM 1062  C1  NAG   138      14.641   5.155  33.524  1.00 25.18      1LZR1239
+HETATM 1063  C2  NAG   138      14.660   6.372  34.423  1.00 23.36      1LZR1240
+HETATM 1064  C3  NAG   138      15.814   6.228  35.399  1.00 23.62      1LZR1241
+HETATM 1065  C4  NAG   138      15.764   4.872  36.107  1.00 25.46      1LZR1242
+HETATM 1066  C5  NAG   138      15.751   3.782  35.016  1.00 26.24      1LZR1243
+HETATM 1067  C6  NAG   138      15.885   2.351  35.448  1.00 29.00      1LZR1244
+HETATM 1068  C7  NAG   138      13.801   8.503  33.593  1.00 18.58      1LZR1245
+HETATM 1069  C8  NAG   138      14.135   9.693  32.738  1.00 17.13      1LZR1246
+HETATM 1070  N2  NAG   138      14.766   7.603  33.640  1.00 19.57      1LZR1247
+HETATM 1071  O1  NAG   138      13.517   5.193  32.730  1.00 27.49      1LZR1248
+HETATM 1072  O3  NAG   138      15.747   7.299  36.339  1.00 21.54      1LZR1249
+HETATM 1073  O5  NAG   138      14.497   3.977  34.345  1.00 26.18      1LZR1250
+HETATM 1074  O6  NAG   138      15.434   2.135  36.785  1.00 32.98      1LZR1251
+HETATM 1075  O7  NAG   138      12.715   8.422  34.156  1.00 15.90      1LZR1252
+HETATM 1076  C1  NAG   139      11.344   3.542  29.637  1.00 38.93      1LZR1253
+HETATM 1077  C2  NAG   139      12.396   2.594  30.170  1.00 39.76      1LZR1254
+HETATM 1078  C3  NAG   139      12.835   3.115  31.528  1.00 37.76      1LZR1255
+HETATM 1079  C4  NAG   139      13.340   4.533  31.419  1.00 36.29      1LZR1256
+HETATM 1080  C5  NAG   139      12.370   5.430  30.626  1.00 37.03      1LZR1257
+HETATM 1081  C6  NAG   139      12.859   6.840  30.367  1.00 36.53      1LZR1258
+HETATM 1082  C7  NAG   139      12.736   0.343  29.394  1.00 43.06      1LZR1259
+HETATM 1083  C8  NAG   139      12.318  -1.101  29.408  1.00 43.05      1LZR1260
+HETATM 1084  N2  NAG   139      12.020   1.177  30.158  1.00 41.77      1LZR1261
+HETATM 1085  O1  NAG   139      10.897   3.159  28.387  1.00 38.80      1LZR1262
+HETATM 1086  O3  NAG   139      13.912   2.280  32.003  1.00 38.13      1LZR1263
+HETATM 1087  O5  NAG   139      12.095   4.755  29.374  1.00 39.25      1LZR1264
+HETATM 1088  O6  NAG   139      12.266   7.490  29.242  1.00 34.05      1LZR1265
+HETATM 1089  O7  NAG   139      13.691   0.701  28.698  1.00 43.67      1LZR1266
+HETATM 1090  O   HOH   140      12.582  19.043  13.258  1.00 20.86      1LZR1267
+HETATM 1091  O   HOH   141       4.090  17.963  13.854  0.84 32.30      1LZR1268
+HETATM 1092  O   HOH   142      17.848  13.528  13.845  1.00 40.34      1LZR1269
+HETATM 1093  O   HOH   143      12.956  16.290  14.042  0.98 38.34      1LZR1270
+HETATM 1094  O   HOH   144       5.263  19.993  14.058  1.00 37.02      1LZR1271
+HETATM 1095  O   HOH   145      10.498  20.731  14.091  0.88 14.63      1LZR1272
+HETATM 1096  O   HOH   146      14.820  17.967  14.952  1.00 14.29      1LZR1273
+HETATM 1097  O   HOH   147      10.873  29.170  14.946  1.00 26.41      1LZR1274
+HETATM 1098  O   HOH   148       8.121  19.411  15.356  1.00 14.48      1LZR1275
+HETATM 1099  O   HOH   149      10.317  12.540  15.623  0.93 35.11      1LZR1276
+HETATM 1100  O   HOH   150       4.175  21.734  15.543  0.70 26.21      1LZR1277
+HETATM 1101  O   HOH   151       8.086  16.748  15.642  1.00 26.67      1LZR1278
+HETATM 1102  O   HOH   152       7.063  28.055  16.078  0.82 47.22      1LZR1279
+HETATM 1103  O   HOH   153      12.242   6.693  16.415  0.80 53.23      1LZR1280
+HETATM 1104  O   HOH   154      23.760  27.416  16.099  0.81 67.65      1LZR1281
+HETATM 1105  O   HOH   155      21.789  12.495  17.059  0.68 18.00      1LZR1282
+HETATM 1106  O   HOH   156      11.397  11.074  17.340  1.00 38.06      1LZR1283
+HETATM 1107  O   HOH   157       5.934  14.331  17.374  1.00 34.02      1LZR1284
+HETATM 1108  O   HOH   158      21.320  28.498  17.494  0.87 20.33      1LZR1285
+HETATM 1109  O   HOH   159       7.970  33.589  17.996  0.74 33.04      1LZR1286
+HETATM 1110  O   HOH   160       7.846  10.689  16.934  0.91 48.29      1LZR1287
+HETATM 1111  O   HOH   161       8.848  30.933  18.256  0.92 30.82      1LZR1288
+HETATM 1112  O   HOH   162       4.242  24.520  18.418  1.00 40.08      1LZR1289
+HETATM 1113  O   HOH   163      -1.595  25.651  18.449  0.87 20.76      1LZR1290
+HETATM 1114  O   HOH   164       0.469  21.188  18.586  1.00 15.62      1LZR1291
+HETATM 1115  O   HOH   165       4.473   4.876  19.046  0.76 46.98      1LZR1292
+HETATM 1116  O   HOH   166      -1.114  18.301  19.315  1.00 14.13      1LZR1293
+HETATM 1117  O   HOH   167      28.346  18.179  19.309  0.57 16.24      1LZR1294
+HETATM 1118  O   HOH   168      14.054   6.756  19.853  0.76 44.38      1LZR1295
+HETATM 1119  O   HOH   169       5.051  11.739  20.235  0.91 27.99      1LZR1296
+HETATM 1120  O   HOH   170      25.127   7.705  20.562  0.89 14.70      1LZR1297
+HETATM 1121  O   HOH   171       0.341  25.254  20.327  0.74 50.10      1LZR1298
+HETATM 1122  O   HOH   172      16.605   4.650  21.232  0.99 22.08      1LZR1299
+HETATM 1123  O   HOH   173       7.249   8.895  21.797  0.99 48.03      1LZR1300
+HETATM 1124  O   HOH   174      23.318  26.372  21.645  0.65 52.09      1LZR1301
+HETATM 1125  O   HOH   175       4.542   8.944  21.447  0.98 44.56      1LZR1302
+HETATM 1126  O   HOH   176       0.431  17.275  21.633  1.00 13.03      1LZR1303
+HETATM 1127  O   HOH   177      -2.425  22.232  22.393  1.00 25.60      1LZR1304
+HETATM 1128  O   HOH   178      26.579  21.412  22.514  1.00 13.54      1LZR1305
+HETATM 1129  O   HOH   179      -2.182  19.857  22.985  1.00 42.88      1LZR1306
+HETATM 1130  O   HOH   180      24.251  23.673  22.768  1.00 12.48      1LZR1307
+HETATM 1131  O   HOH   181       1.983   8.869  22.962  0.84 36.00      1LZR1308
+HETATM 1132  O   HOH   182      26.735   5.350  23.385  0.99 22.44      1LZR1309
+HETATM 1133  O   HOH   183      26.447  14.457  23.328  1.00 21.24      1LZR1310
+HETATM 1134  O   HOH   184       6.212   7.432  23.957  0.79 51.61      1LZR1311
+HETATM 1135  O   HOH   185      -0.047   6.456  24.245  0.68 48.99      1LZR1312
+HETATM 1136  O   HOH   186      24.863  25.921  24.288  0.70 18.51      1LZR1313
+HETATM 1137  O   HOH   187      15.622  32.143  24.420  0.85 20.76      1LZR1314
+HETATM 1138  O   HOH   188      -1.006  10.335  24.972  0.94 35.37      1LZR1315
+HETATM 1139  O   HOH   189       1.778   2.926  25.591  0.91 28.80      1LZR1316
+HETATM 1140  O   HOH   190       3.913  25.691  25.613  1.00 25.48      1LZR1317
+HETATM 1141  O   HOH   191       1.657  26.777  26.233  0.98 32.38      1LZR1318
+HETATM 1142  O   HOH   192      -0.068  18.626  26.248  0.85 11.85      1LZR1319
+HETATM 1143  O   HOH   193      17.012  33.699  26.397  0.94 47.86      1LZR1320
+HETATM 1144  O   HOH   194      23.734  32.868  25.959  0.64 37.64      1LZR1321
+HETATM 1145  O   HOH   195       9.454   6.124  26.691  0.88 20.45      1LZR1322
+HETATM 1146  O   HOH   196       5.058  -2.210  26.868  0.53 19.08      1LZR1323
+HETATM 1147  O   HOH   197      12.002   6.479  27.112  0.76 16.44      1LZR1324
+HETATM 1148  O   HOH   198      26.982   4.175  26.687  0.99 42.75      1LZR1325
+HETATM 1149  O   HOH   199      15.068   6.326  27.299  1.00 12.10      1LZR1326
+HETATM 1150  O   HOH   200      26.950  18.633  27.510  1.00 10.06      1LZR1327
+HETATM 1151  O   HOH   201      24.244  29.899  27.405  0.59 49.63      1LZR1328
+HETATM 1152  O   HOH   202       6.221  26.258  27.855  1.00 15.75      1LZR1329
+HETATM 1153  O   HOH   203      -0.611   4.907  28.548  1.00 45.15      1LZR1330
+HETATM 1154  O   HOH   204      10.094  29.682  28.288  0.80 23.89      1LZR1331
+HETATM 1155  O   HOH   205       7.459  28.745  28.681  0.80 34.25      1LZR1332
+HETATM 1156  O   HOH   206       6.028  17.150  29.126  1.00 13.12      1LZR1333
+HETATM 1157  O   HOH   207       8.246  -3.012  29.199  0.77 15.47      1LZR1334
+HETATM 1158  O   HOH   208      19.678  28.286  29.551  1.00 11.60      1LZR1335
+HETATM 1159  O   HOH   209      -1.277  23.488  29.587  1.00 10.53      1LZR1336
+HETATM 1160  O   HOH   210       4.671  19.424  29.694  1.00 14.92      1LZR1337
+HETATM 1161  O   HOH   211      15.606   5.148  29.929  1.00 44.27      1LZR1338
+HETATM 1162  O   HOH   212       4.785  -7.904  29.891  1.00 35.81      1LZR1339
+HETATM 1163  O   HOH   213      19.608  30.701  30.864  0.86 49.51      1LZR1340
+HETATM 1164  O   HOH   214       8.304  15.047  30.359  1.00 10.89      1LZR1341
+HETATM 1165  O   HOH   215       4.988  32.349  30.917  0.96 47.24      1LZR1342
+HETATM 1166  O   HOH   216      22.489  28.996  31.027  0.72 30.32      1LZR1343
+HETATM 1167  O   HOH   217      -0.344   4.233  31.491  0.86 18.25      1LZR1344
+HETATM 1168  O   HOH   218      12.406  -4.102  31.917  0.73 57.39      1LZR1345
+HETATM 1169  O   HOH   219      -2.266  17.414  31.851  1.00 15.21      1LZR1346
+HETATM 1170  O   HOH   220       6.734  29.807  32.117  0.88 18.55      1LZR1347
+HETATM 1171  O   HOH   221      -1.764  23.878  32.307  0.95 23.77      1LZR1348
+HETATM 1172  O   HOH   222       4.911  20.525  32.332  1.00 10.12      1LZR1349
+HETATM 1173  O   HOH   223      -1.217   6.895  32.658  1.00 23.47      1LZR1350
+HETATM 1174  O   HOH   224      18.271   4.684  32.713  0.90 35.08      1LZR1351
+HETATM 1175  O   HOH   225      11.005   0.767  32.737  0.81 40.42      1LZR1352
+HETATM 1176  O   HOH   226      23.484  25.695  35.364  0.89 60.81      1LZR1353
+HETATM 1177  O   HOH   227       7.115  -9.029  33.568  0.58 31.33      1LZR1354
+HETATM 1178  O   HOH   228       4.139  23.389  33.681  0.85 13.48      1LZR1355
+HETATM 1179  O   HOH   229      -4.349  25.618  35.724  0.92 77.23      1LZR1356
+HETATM 1180  O   HOH   230      21.775   2.673  33.780  0.95 48.35      1LZR1357
+HETATM 1181  O   HOH   231      24.664   4.879  34.478  0.95 39.90      1LZR1358
+HETATM 1182  O   HOH   232       1.538  24.786  34.616  0.85 52.43      1LZR1359
+HETATM 1183  O   HOH   233       5.184  28.780  34.671  0.90 34.91      1LZR1360
+HETATM 1184  O   HOH   234      -1.364  -8.829  34.826  0.65 35.67      1LZR1361
+HETATM 1185  O   HOH   235      24.580  16.012  35.002  1.00 16.58      1LZR1362
+HETATM 1186  O   HOH   236      -2.135  18.667  35.159  1.00 15.01      1LZR1363
+HETATM 1187  O   HOH   237       2.027   3.458  35.215  1.00 13.05      1LZR1364
+HETATM 1188  O   HOH   238      10.632  25.469  35.345  0.84 16.10      1LZR1365
+HETATM 1189  O   HOH   239      10.824   1.852  35.468  1.00 24.44      1LZR1366
+HETATM 1190  O   HOH   240      13.583   0.562  35.154  0.85 45.83      1LZR1367
+HETATM 1191  O   HOH   241       0.749   0.283  36.235  0.85 22.50      1LZR1368
+HETATM 1192  O   HOH   242      13.235  25.206  36.405  1.00 17.91      1LZR1369
+HETATM 1193  O   HOH   243      11.859  -1.558  36.239  0.67 33.30      1LZR1370
+HETATM 1194  O   HOH   244      20.156  10.860  36.781  0.79  9.80      1LZR1371
+HETATM 1195  O   HOH   245      20.797  27.107  37.723  0.90 55.15      1LZR1372
+HETATM 1196  O   HOH   246      23.851  23.817  37.090  1.00 21.37      1LZR1373
+HETATM 1197  O   HOH   247      18.338  29.833  37.097  1.00 36.35      1LZR1374
+HETATM 1198  O   HOH   248       7.872  25.389  37.521  0.98 60.95      1LZR1375
+HETATM 1199  O   HOH   249      18.378  26.996  36.261  1.00 41.36      1LZR1376
+HETATM 1200  O   HOH   250      19.088   8.351  37.577  1.00 24.02      1LZR1377
+HETATM 1201  O   HOH   251      24.672  15.137  37.806  0.81 15.63      1LZR1378
+HETATM 1202  O   HOH   252      -2.222  25.713  36.926  1.00 54.38      1LZR1379
+HETATM 1203  O   HOH   253      -0.587  -1.326  38.234  1.00 35.01      1LZR1380
+HETATM 1204  O   HOH   254       4.115  25.433  38.236  0.89 71.54      1LZR1381
+HETATM 1205  O   HOH   255       0.465  -3.644  39.111  1.00 37.31      1LZR1382
+HETATM 1206  O   HOH   256      21.593   8.073  39.296  1.00 17.30      1LZR1383
+HETATM 1207  O   HOH   257      13.556  24.014  39.322  0.76 28.26      1LZR1384
+HETATM 1208  O   HOH   258      22.838  22.370  39.087  0.77 60.03      1LZR1385
+HETATM 1209  O   HOH   259      14.207  21.196  39.936  0.81 17.92      1LZR1386
+HETATM 1210  O   HOH   260       8.536  24.208  39.700  0.72 42.61      1LZR1387
+HETATM 1211  O   HOH   261       9.567  19.239  40.014  0.76 30.00      1LZR1388
+HETATM 1212  O   HOH   262      16.446   0.976  40.044  0.90 39.30      1LZR1389
+HETATM 1213  O   HOH   263       3.891  22.470  40.499  0.80 55.66      1LZR1390
+HETATM 1214  O   HOH   264      25.909  14.328  40.302  0.73 22.39      1LZR1391
+HETATM 1215  O   HOH   265      22.102   5.429  40.320  0.78 29.16      1LZR1392
+HETATM 1216  O   HOH   266       3.714   6.517  40.527  1.00 11.25      1LZR1393
+HETATM 1217  O   HOH   267      25.645  22.069  40.239  1.00 44.60      1LZR1394
+HETATM 1218  O   HOH   268       5.927   7.456  41.139  1.00  5.20      1LZR1395
+HETATM 1219  O   HOH   269      22.229  29.326  41.505  0.96 46.73      1LZR1396
+HETATM 1220  O   HOH   270       2.677  20.622  41.775  1.00 26.88      1LZR1397
+HETATM 1221  O   HOH   271       2.529   4.745  42.165  1.00 13.29      1LZR1398
+HETATM 1222  O   HOH   272      25.424   5.243  42.432  1.00 29.73      1LZR1399
+HETATM 1223  O   HOH   273       6.778  20.036  42.510  0.90 33.86      1LZR1400
+HETATM 1224  O   HOH   274      11.363   0.376  42.822  1.00 42.52      1LZR1401
+HETATM 1225  O   HOH   275      24.652  13.913  42.808  1.00 34.53      1LZR1402
+HETATM 1226  O   HOH   276      13.823  21.391  42.692  0.78 62.10      1LZR1403
+HETATM 1227  O   HOH   277      25.889   2.424  43.171  0.99 41.41      1LZR1404
+HETATM 1228  O   HOH   278      -2.626   1.620  42.930  0.83 32.76      1LZR1405
+HETATM 1229  O   HOH   279       4.773   7.661  43.197  0.94 15.21      1LZR1406
+HETATM 1230  O   HOH   280      16.629   9.130  43.410  1.00 49.28      1LZR1407
+HETATM 1231  O   HOH   281      11.130   3.517  43.216  0.84 26.61      1LZR1408
+HETATM 1232  O   HOH   282       0.279  17.503  43.412  0.92 17.03      1LZR1409
+HETATM 1233  O   HOH   283      12.121  18.030  43.720  0.97 47.28      1LZR1410
+HETATM 1234  O   HOH   284       0.891   1.061  42.969  1.00 54.58      1LZR1411
+HETATM 1235  O   HOH   285       2.522  14.984  43.823  1.00 16.31      1LZR1412
+HETATM 1236  O   HOH   286      17.971  17.213  44.193  0.93 29.11      1LZR1413
+HETATM 1237  O   HOH   287       9.563  19.612  44.495  1.00 43.37      1LZR1414
+HETATM 1238  O   HOH   288       1.888   5.634  44.573  1.00 33.30      1LZR1415
+HETATM 1239  O   HOH   289       3.920   2.577  44.739  0.48 43.57      1LZR1416
+HETATM 1240  O   HOH   290       3.468  -2.183  45.586  0.83 46.66      1LZR1417
+HETATM 1241  O   HOH   291       5.749  21.032  45.710  0.71 33.34      1LZR1418
+HETATM 1242  O   HOH   292      18.699  20.663  45.933  1.00 44.27      1LZR1419
+HETATM 1243  O   HOH   293      13.725  14.656  45.765  1.00 27.57      1LZR1420
+HETATM 1244  O   HOH   294       4.851   8.116  46.046  0.83 21.29      1LZR1421
+HETATM 1245  O   HOH   295      27.234  18.756  45.935  1.00 59.33      1LZR1422
+HETATM 1246  O   HOH   296       3.432  10.760  46.127  1.00 20.75      1LZR1423
+HETATM 1247  O   HOH   297      14.327  11.894  46.199  0.91 31.93      1LZR1424
+HETATM 1248  O   HOH   298      -0.081  15.493  46.335  0.91 34.13      1LZR1425
+HETATM 1249  O   HOH   299       0.267   9.999  47.076  0.62 46.19      1LZR1426
+HETATM 1250  O   HOH   300       8.009   9.860  47.228  1.00 27.38      1LZR1427
+HETATM 1251  O   HOH   301       3.653  14.017  46.270  1.00 52.50      1LZR1428
+HETATM 1252  O   HOH   302      10.749  15.061  50.248  0.76 40.64      1LZR1429
+CONECT   53   52 1017                                                   1LZR1430
+CONECT  243  242  916                                                   1LZR1431
+CONECT  534  533  642                                                   1LZR1432
+CONECT  612  611  738                                                   1LZR1433
+CONECT  642  534  641                                                   1LZR1434
+CONECT  738  612  737                                                   1LZR1435
+CONECT  916  243  915                                                   1LZR1436
+CONECT 1017   53 1016                                                   1LZR1437
+CONECT 1033 1034 1042 1045                                              1LZR1438
+CONECT 1034 1033 1035 1041                                              1LZR1439
+CONECT 1035 1034 1036 1043                                              1LZR1440
+CONECT 1036 1035 1037 1044                                              1LZR1441
+CONECT 1037 1036 1038 1045                                              1LZR1442
+CONECT 1038 1037 1046                                                   1LZR1443
+CONECT 1039 1040 1041 1047                                              1LZR1444
+CONECT 1040 1039                                                        1LZR1445
+CONECT 1041 1034 1039                                                   1LZR1446
+CONECT 1042 1033 1051                                                   1LZR1447
+CONECT 1043 1035                                                        1LZR1448
+CONECT 1044 1036                                                        1LZR1449
+CONECT 1045 1033 1037                                                   1LZR1450
+CONECT 1046 1038                                                        1LZR1451
+CONECT 1047 1039                                                        1LZR1452
+CONECT 1048 1049 1057 1059                                              1LZR1453
+CONECT 1049 1048 1050 1056                                              1LZR1454
+CONECT 1050 1049 1051 1058                                              1LZR1455
+CONECT 1051 1042 1050 1052                                              1LZR1456
+CONECT 1052 1051 1053 1059                                              1LZR1457
+CONECT 1053 1052 1060                                                   1LZR1458
+CONECT 1054 1055 1056 1061                                              1LZR1459
+CONECT 1055 1054                                                        1LZR1460
+CONECT 1056 1049 1054                                                   1LZR1461
+CONECT 1057 1048 1065                                                   1LZR1462
+CONECT 1058 1050                                                        1LZR1463
+CONECT 1059 1048 1052                                                   1LZR1464
+CONECT 1060 1053                                                        1LZR1465
+CONECT 1061 1054                                                        1LZR1466
+CONECT 1062 1063 1071 1073                                              1LZR1467
+CONECT 1063 1062 1064 1070                                              1LZR1468
+CONECT 1064 1063 1065 1072                                              1LZR1469
+CONECT 1065 1057 1064 1066                                              1LZR1470
+CONECT 1066 1065 1067 1073                                              1LZR1471
+CONECT 1067 1066 1074                                                   1LZR1472
+CONECT 1068 1069 1070 1075                                              1LZR1473
+CONECT 1069 1068                                                        1LZR1474
+CONECT 1070 1063 1068                                                   1LZR1475
+CONECT 1071 1062 1079                                                   1LZR1476
+CONECT 1072 1064                                                        1LZR1477
+CONECT 1073 1062 1066                                                   1LZR1478
+CONECT 1074 1067                                                        1LZR1479
+CONECT 1075 1068                                                        1LZR1480
+CONECT 1076 1077 1085 1087                                              1LZR1481
+CONECT 1077 1076 1078 1084                                              1LZR1482
+CONECT 1078 1077 1079 1086                                              1LZR1483
+CONECT 1079 1071 1078 1080                                              1LZR1484
+CONECT 1080 1079 1081 1087                                              1LZR1485
+CONECT 1081 1080 1088                                                   1LZR1486
+CONECT 1082 1083 1084 1089                                              1LZR1487
+CONECT 1083 1082                                                        1LZR1488
+CONECT 1084 1077 1082                                                   1LZR1489
+CONECT 1085 1076                                                        1LZR1490
+CONECT 1086 1078                                                        1LZR1491
+CONECT 1087 1076 1080                                                   1LZR1492
+CONECT 1088 1081                                                        1LZR1493
+CONECT 1089 1082                                                        1LZR1494
+MASTER      105    0    6    5    5   18    0    6 1251    1   65   10  1LZR1495
+END                                                                     1LZR1496

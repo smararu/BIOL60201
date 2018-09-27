@@ -1,0 +1,165 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1hlb.pdb                                                                        
+ 1HLB  OXYGEN TRANSPORT  HEMOGLOBIN (SEA CUCUMBER)  SEA CUCUMBER (CAUDINA (MOLPADIA) ARENICOLA)  
+ Sequence length -  157
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   GLY G  
+    2     2   GLY G  
+    3     3   THR T  
+    4     4   LEU L  
+    5     5   ALA A  
+    6     6   ILE I  
+    7     7   GLN Q  
+    8     8   ALA A  
+    9     9   GLN Q  
+   10    10   GLY G  
+   11    11   ASP D  
+   12    12   LEU L  
+   13    13   THR T H
+   14    14   LEU L H
+   15    15   ALA A H
+   16    16   GLN Q H
+   17    17   LYS K H
+   18    18   LYS K H
+   19    19   ILE I H
+   20    20   VAL V H
+   21    21   ARG R H
+   22    22   LYS K H
+   23    23   THR T H
+   24    24   TRP W H
+   25    25   HIS H H
+   26    26   GLN Q H
+   27    27   LEU L H
+   28    28   MET M H
+   29    29   ARG R  
+   30    30   ASN N  
+   31    31   LYS K  
+   32    32   THR T  
+   33    33   SER S H
+   34    34   PHE F H
+   35    35   VAL V H
+   36    36   THR T H
+   37    37   ASP D H
+   38    38   VAL V H
+   39    39   PHE F H
+   40    40   ILE I H
+   41    41   ARG R H
+   42    42   ILE I H
+   43    43   PHE F H
+   44    44   ALA A H
+   45    45   TYR Y H
+   46    46   ASP D H
+   47    47   PRO P H
+   48    48   SER S H
+   49    49   ALA A H
+   50    50   GLN Q H
+   51    51   ASN N H
+   52    52   LYS K H
+   53    53   PHE F  
+   54    54   PRO P  
+   55    55   GLN Q  
+   56    56   MET M  
+   57    57   ALA A  
+   58    58   GLY G  
+   59    59   MET M  
+   60    60   SER S H
+   61    61   ALA A H
+   62    62   SER S H
+   63    63   GLN Q H
+   64    64   LEU L H
+   65    65   ARG R H
+   66    66   SER S H
+   67    67   SER S H
+   68    68   ARG R H
+   69    69   GLN Q H
+   70    70   MET M H
+   71    71   GLN Q H
+   72    72   ALA A H
+   73    73   HIS H H
+   74    74   ALA A H
+   75    75   ILE I H
+   76    76   ARG R H
+   77    77   VAL V H
+   78    78   SER S H
+   79    79   SER S H
+   80    80   ILE I H
+   81    81   MET M H
+   82    82   SER S H
+   83    83   GLU E H
+   84    84   TYR Y H
+   85    85   VAL V H
+   86    86   GLU E H
+   87    87   GLU E  
+   88    88   LEU L  
+   89    89   ASP D  
+   90    90   SER S  
+   91    91   ASP D H
+   92    92   ILE I H
+   93    93   LEU L H
+   94    94   PRO P H
+   95    95   GLU E H
+   96    96   LEU L H
+   97    97   LEU L H
+   98    98   ALA A H
+   99    99   THR T H
+  100   100   LEU L H
+  101   101   ALA A H
+  102   102   ARG R H
+  103   103   THR T H
+  104   104   HIS H H
+  105   105   ASP D H
+  106   106   LEU L H
+  107   107   ASN N  
+  108   108   LYS K  
+  109   109   VAL V  
+  110   110   GLY G H
+  111   111   ALA A H
+  112   112   ASP D H
+  113   113   HIS H H
+  114   114   TYR Y H
+  115   115   ASN N H
+  116   116   LEU L H
+  117   117   PHE F H
+  118   118   ALA A H
+  119   119   LYS K H
+  120   120   VAL V H
+  121   121   LEU L H
+  122   122   MET M H
+  123   123   GLU E H
+  124   124   ALA A H
+  125   125   LEU L H
+  126   126   GLN Q H
+  127   127   ALA A H
+  128   128   GLU E H
+  129   129   LEU L  
+  130   130   GLY G  
+  131   131   SER S  
+  132   132   ASP D  
+  133   133   PHE F  
+  134   134   ASN N H
+  135   135   GLU E H
+  136   136   LYS K H
+  137   137   THR T H
+  138   138   ARG R H
+  139   139   ASP D H
+  140   140   ALA A H
+  141   141   TRP W H
+  142   142   ALA A H
+  143   143   LYS K H
+  144   144   ALA A H
+  145   145   PHE F H
+  146   146   SER S H
+  147   147   VAL V H
+  148   148   VAL V H
+  149   149   GLN Q H
+  150   150   ALA A H
+  151   151   VAL V  
+  152   152   LEU L  
+  153   153   LEU L  
+  154   154   VAL V  
+  155   155   LYS K  
+  156   156   HIS H  
+  157   157   GLY G  
+ 

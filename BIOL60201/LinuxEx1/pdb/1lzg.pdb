@@ -1,0 +1,1256 @@
+HEADER    HYDROLASE (O-GLYCOSYL)                  10-FEB-95   1LZG      1LZG   2
+COMPND    LYSOZYME (E.C.3.2.1.17) MUTANT WITH TRP 62 REPLACED BY PHE    1LZG   3
+COMPND   2 (W62F) CO-CRYSTALLIZED WITH TRI-N-ACETYL-CHITOTRIOSE         1LZG   4
+COMPND   3 (PH 4.7)                                                     1LZG   5
+SOURCE    HEN (GALLUS GALLUS) EGG WHITE                                 1LZG   6
+AUTHOR    K.MAENAKA,M.MATSUSHIMA,H.SONG,K.WATANABE,I.KUMAGAI            1LZG   7
+REVDAT   1   08-MAY-95 1LZG    0                                        1LZG   8
+JRNL        AUTH   K.MAENAKA,M.MATSUSHIMA,H.SONG,F.SUNADA,K.WATANABE,   1LZG   9
+JRNL        AUTH 2 I.KUMAGAI                                            1LZG  10
+JRNL        TITL   DISSECTION OF PROTEIN-CARBOHYDRATE INTERACTIONS IN   1LZG  11
+JRNL        TITL 2 MUTANT HEN EGG-WHITE LYSOZYME COMPLEXES AND THEIR    1LZG  12
+JRNL        TITL 3 HYDROLYTIC ACTIVITY                                  1LZG  13
+JRNL        REF    TO BE PUBLISHED                                      1LZG  14
+JRNL        REFN                                                  0353  1LZG  15
+REMARK   1                                                              1LZG  16
+REMARK   2                                                              1LZG  17
+REMARK   2 RESOLUTION. 1.8  ANGSTROMS.                                  1LZG  18
+REMARK   3                                                              1LZG  19
+REMARK   3 REFINEMENT.                                                  1LZG  20
+REMARK   3   PROGRAM                    PROLSQ                          1LZG  21
+REMARK   3   AUTHORS                    KONNERT,HENDRICKSON             1LZG  22
+REMARK   3   R VALUE                    0.159                           1LZG  23
+REMARK   3                                                              1LZG  24
+REMARK   3  DATA COLLECTION.                                            1LZG  25
+REMARK   3   NUMBER OF UNIQUE REFLECTIONS      8461                     1LZG  26
+REMARK   3   RESOLUTION RANGE              6.0 - 1.8  ANGSTROMS         1LZG  27
+REMARK   3                                                              1LZG  28
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES (THE VALUES OF             1LZG  29
+REMARK   3      SIGMA, IN PARENTHESES, ARE THE INPUT ESTIMATED          1LZG  30
+REMARK   3      STANDARD DEVIATIONS THAT DETERMINE THE RELATIVE         1LZG  31
+REMARK   3      WEIGHTS OF THE CORRESPONDING RESTRAINTS).               1LZG  32
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES (THE VALUES OF             1LZG  33
+REMARK   3      SIGMA, IN PARENTHESES, ARE THE INPUT ESTIMATED          1LZG  34
+REMARK   3      STANDARD DEVIATIONS THAT DETERMINE THE RELATIVE         1LZG  35
+REMARK   3      WEIGHTS OF THE CORRESPONDING RESTRAINTS).               1LZG  36
+REMARK   3    DISTANCE RESTRAINTS (ANGSTROMS).                          1LZG  37
+REMARK   3      BOND DISTANCE                            0.014(0.020)   1LZG  38
+REMARK   3      ANGLE DISTANCE                           0.037(0.035)   1LZG  39
+REMARK   3      PLANAR 1-4 DISTANCE                      0.046(0.050)   1LZG  40
+REMARK   3    PLANE RESTRAINT (ANGSTROMS)                0.012(0.020)   1LZG  41
+REMARK   3    CHIRAL-CENTER RESTRAINT (ANGSTROMS**3)     0.141(0.150)   1LZG  42
+REMARK   3    NON-BONDED CONTACT RESTRAINTS (ANGSTROMS).                1LZG  43
+REMARK   3      SINGLE TORSION CONTACT                   0.172(0.300)   1LZG  44
+REMARK   3      MULTIPLE TORSION CONTACT                 0.186(0.300)   1LZG  45
+REMARK   3      POSSIBLE HYDROGEN BOND                   0.217(0.300)   1LZG  46
+REMARK   3    CONFORMATIONAL TORSION ANGLE RESTRAINT (DEGREES).         1LZG  47
+REMARK   3      PLANAR                                     2.3(3.0)     1LZG  48
+REMARK   3      STAGGERED                                 14.9(15.0)    1LZG  49
+REMARK   3      ORTHONORMAL                               19.4(20.0)    1LZG  50
+REMARK   3    ISOTROPIC THERMAL FACTOR RESTRAINTS (ANGSTROMS**2).       1LZG  51
+REMARK   3      MAIN-CHAIN BOND                          1.107(1.500)   1LZG  52
+REMARK   3      MAIN-CHAIN ANGLE                         1.692(2.000)   1LZG  53
+REMARK   3      SIDE-CHAIN BOND                          2.123(2.000)   1LZG  54
+REMARK   3      SIDE-CHAIN ANGLE                         3.232(2.500)   1LZG  55
+REMARK   4                                                              1LZG  56
+REMARK   4 THE SACCHARIDE MOLECULE OF TRI-N-ACETYLCHITOTRIOSE WAS       1LZG  57
+REMARK   4 BOUND LOOSELY;  THEN ONLY TWO SACCHARIDE RINGS (SUBSITES B   1LZG  58
+REMARK   4 AND C) WERE DETERMINED.                                      1LZG  59
+REMARK 999                                                              1LZG  60
+REMARK 999 CROSS REFERENCE TO SEQUENCE DATABASE                         1LZG  61
+REMARK 999 SWISS-PROT ENTRY NAME       PDB ENTRY CHAIN NAME             1LZG  62
+REMARK 999    LYC_CHICK                                                 1LZG  63
+SEQRES   1    129  LYS VAL PHE GLY ARG CYS GLU LEU ALA ALA ALA MET LYS  1LZG  64
+SEQRES   2    129  ARG HIS GLY LEU ASP ASN TYR ARG GLY TYR SER LEU GLY  1LZG  65
+SEQRES   3    129  ASN TRP VAL CYS ALA ALA LYS PHE GLU SER ASN PHE ASN  1LZG  66
+SEQRES   4    129  THR GLN ALA THR ASN ARG ASN THR ASP GLY SER THR ASP  1LZG  67
+SEQRES   5    129  TYR GLY ILE LEU GLN ILE ASN SER ARG PHE TRP CYS ASN  1LZG  68
+SEQRES   6    129  ASP GLY ARG THR PRO GLY SER ARG ASN LEU CYS ASN ILE  1LZG  69
+SEQRES   7    129  PRO CYS SER ALA LEU LEU SER SER ASP ILE THR ALA SER  1LZG  70
+SEQRES   8    129  VAL ASN CYS ALA LYS LYS ILE VAL SER ASP GLY ASN GLY  1LZG  71
+SEQRES   9    129  MET ASN ALA TRP VAL ALA TRP ARG ASN ARG CYS LYS GLY  1LZG  72
+SEQRES  10    129  THR ASP VAL GLN ALA TRP ILE ARG GLY CYS ARG LEU      1LZG  73
+HET    NAG    131      14     N-ACETYL-D-GLUCOSAMINE                    1LZG  74
+HET    NAG    132      14     N-ACETYL-D-GLUCOSAMINE                    1LZG  75
+FORMUL   2  NAG    2(C8 H15 N1 O6)                                      1LZG  76
+FORMUL   3  HOH   *85(H2 O1)                                            1LZG  77
+HELIX    1   A ARG      5  HIS     15  1                                1LZG  78
+HELIX    2   B LEU     25  GLU     35  1                                1LZG  79
+HELIX    3   C CYS     80  LEU     84  5                                1LZG  80
+HELIX    4   D THR     89  LYS     96  1                                1LZG  81
+SHEET    1   A 2 LYS     1  PHE     3  0                                1LZG  82
+SHEET    2   A 2 PHE    38  THR    40 -1  N  THR    40   O  LYS     1   1LZG  83
+SHEET    1   B 3 ALA    42  ASN    46  0                                1LZG  84
+SHEET    2   B 3 SER    50  GLY    54 -1  O  SER    50   N  ASN    46   1LZG  85
+SHEET    3   B 3 GLN    57  SER    60 -1  O  ILE    58   N  TYR    53   1LZG  86
+TURN     1  T1 LYS    13  GLY    16                                     1LZG  87
+TURN     2  T2 LEU    17  TYR    20                                     1LZG  88
+TURN     3  T3 TYR    20  TYR    23                                     1LZG  89
+TURN     4  T4 GLY    54  GLN    57                                     1LZG  90
+TURN     5  T5 ASN    59  PHE    62                                     1LZG  91
+TURN     6  T6 THR    69  SER    72                                     1LZG  92
+TURN     7  T7 ASN    74  ASN    77                                     1LZG  93
+TURN     8  T8 ASN   103  ASN   106                                     1LZG  94
+TURN     9  T9 CYS   115  THR   118                                     1LZG  95
+TURN    10 T10 ILE   124  CYS   127                                     1LZG  96
+SSBOND   1 CYS      6    CYS    127                                     1LZG  97
+SSBOND   2 CYS     30    CYS    115                                     1LZG  98
+SSBOND   3 CYS     64    CYS     80                                     1LZG  99
+SSBOND   4 CYS     76    CYS     94                                     1LZG 100
+CRYST1   79.020   79.020   38.250  90.00  90.00  90.00 P 43 21 2     8  1LZG 101
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1LZG 102
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1LZG 103
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1LZG 104
+SCALE1      0.012655  0.000000  0.000000        0.00000                 1LZG 105
+SCALE2      0.000000  0.012655  0.000000        0.00000                 1LZG 106
+SCALE3      0.000000  0.000000  0.026144        0.00000                 1LZG 107
+ATOM      1  N   LYS     1       3.429  10.083  10.179  1.00 11.28      1LZG 108
+ATOM      2  CA  LYS     1       2.456  10.398   9.117  1.00 11.13      1LZG 109
+ATOM      3  C   LYS     1       2.446  11.916   8.899  1.00 12.54      1LZG 110
+ATOM      4  O   LYS     1       2.366  12.605   9.945  1.00 12.24      1LZG 111
+ATOM      5  CB  LYS     1       1.057   9.969   9.506  1.00 11.03      1LZG 112
+ATOM      6  CG  LYS     1      -0.042  10.615   8.720  1.00 12.37      1LZG 113
+ATOM      7  CD  LYS     1      -1.308   9.819   8.706  1.00 15.32      1LZG 114
+ATOM      8  CE  LYS     1      -2.195  10.422   7.578  1.00 18.31      1LZG 115
+ATOM      9  NZ  LYS     1      -3.589   9.887   7.780  1.00 21.34      1LZG 116
+ATOM     10  N   VAL     2       2.579  12.354   7.660  1.00 11.75      1LZG 117
+ATOM     11  CA  VAL     2       2.546  13.786   7.364  1.00 11.71      1LZG 118
+ATOM     12  C   VAL     2       1.104  14.084   6.976  1.00 13.22      1LZG 119
+ATOM     13  O   VAL     2       0.654  13.599   5.905  1.00 16.34      1LZG 120
+ATOM     14  CB  VAL     2       3.581  14.214   6.318  1.00 11.86      1LZG 121
+ATOM     15  CG1 VAL     2       3.421  15.671   5.952  1.00 13.05      1LZG 122
+ATOM     16  CG2 VAL     2       5.009  13.937   6.727  1.00 10.51      1LZG 123
+ATOM     17  N   PHE     3       0.310  14.783   7.755  1.00 13.34      1LZG 124
+ATOM     18  CA  PHE     3      -1.089  15.040   7.369  1.00 12.40      1LZG 125
+ATOM     19  C   PHE     3      -1.193  16.095   6.256  1.00 12.45      1LZG 126
+ATOM     20  O   PHE     3      -0.307  16.958   6.129  1.00 13.33      1LZG 127
+ATOM     21  CB  PHE     3      -1.899  15.595   8.556  1.00 12.88      1LZG 128
+ATOM     22  CG  PHE     3      -2.490  14.503   9.413  1.00 13.71      1LZG 129
+ATOM     23  CD1 PHE     3      -1.668  13.872  10.377  1.00 13.99      1LZG 130
+ATOM     24  CD2 PHE     3      -3.822  14.126   9.238  1.00 12.58      1LZG 131
+ATOM     25  CE1 PHE     3      -2.239  12.858  11.179  1.00 13.60      1LZG 132
+ATOM     26  CE2 PHE     3      -4.396  13.135  10.013  1.00 12.15      1LZG 133
+ATOM     27  CZ  PHE     3      -3.585  12.496  10.975  1.00 14.88      1LZG 134
+ATOM     28  N   GLY     4      -2.268  15.970   5.514  1.00 12.83      1LZG 135
+ATOM     29  CA  GLY     4      -2.640  16.929   4.463  1.00 13.09      1LZG 136
+ATOM     30  C   GLY     4      -3.441  17.986   5.281  1.00 13.77      1LZG 137
+ATOM     31  O   GLY     4      -4.015  17.565   6.292  1.00 13.91      1LZG 138
+ATOM     32  N   ARG     5      -3.445  19.237   4.879  1.00 14.31      1LZG 139
+ATOM     33  CA  ARG     5      -4.120  20.331   5.533  1.00 14.73      1LZG 140
+ATOM     34  C   ARG     5      -5.568  20.022   5.888  1.00 15.72      1LZG 141
+ATOM     35  O   ARG     5      -5.930  20.052   7.086  1.00 14.84      1LZG 142
+ATOM     36  CB  ARG     5      -3.963  21.645   4.758  1.00 16.74      1LZG 143
+ATOM     37  CG  ARG     5      -4.686  22.823   5.396  1.00 16.91      1LZG 144
+ATOM     38  CD  ARG     5      -4.418  24.086   4.634  1.00 18.74      1LZG 145
+ATOM     39  NE  ARG     5      -5.127  24.107   3.375  1.00 19.77      1LZG 146
+ATOM     40  CZ  ARG     5      -6.420  24.381   3.125  1.00 20.00      1LZG 147
+ATOM     41  NH1 ARG     5      -7.332  24.739   4.016  1.00 19.66      1LZG 148
+ATOM     42  NH2 ARG     5      -6.790  24.194   1.848  1.00 20.34      1LZG 149
+ATOM     43  N   CYS     6      -6.402  19.759   4.893  1.00 15.09      1LZG 150
+ATOM     44  CA  CYS     6      -7.822  19.451   5.084  1.00 13.98      1LZG 151
+ATOM     45  C   CYS     6      -7.999  18.144   5.815  1.00 12.99      1LZG 152
+ATOM     46  O   CYS     6      -8.965  18.044   6.577  1.00 13.20      1LZG 153
+ATOM     47  CB  CYS     6      -8.625  19.465   3.777  1.00 14.42      1LZG 154
+ATOM     48  SG  CYS     6      -8.729  21.125   3.054  1.00 16.39      1LZG 155
+ATOM     49  N   GLU     7      -7.136  17.153   5.597  1.00 13.29      1LZG 156
+ATOM     50  CA  GLU     7      -7.203  15.848   6.290  1.00 12.14      1LZG 157
+ATOM     51  C   GLU     7      -7.145  16.012   7.806  1.00 11.86      1LZG 158
+ATOM     52  O   GLU     7      -7.945  15.468   8.620  1.00 12.97      1LZG 159
+ATOM     53  CB  GLU     7      -6.045  14.955   5.844  1.00 13.98      1LZG 160
+ATOM     54  CG  GLU     7      -6.033  13.530   6.352  1.00 15.75      1LZG 161
+ATOM     55  CD  GLU     7      -4.789  12.772   5.916  1.00 18.23      1LZG 162
+ATOM     56  OE1 GLU     7      -3.752  13.298   5.547  1.00 17.81      1LZG 163
+ATOM     57  OE2 GLU     7      -4.941  11.527   6.015  1.00 18.68      1LZG 164
+ATOM     58  N   LEU     8      -6.189  16.779   8.271  1.00 11.24      1LZG 165
+ATOM     59  CA  LEU     8      -5.978  17.127   9.693  1.00 10.92      1LZG 166
+ATOM     60  C   LEU     8      -7.183  17.912  10.262  1.00 11.62      1LZG 167
+ATOM     61  O   LEU     8      -7.646  17.649  11.386  1.00 13.23      1LZG 168
+ATOM     62  CB  LEU     8      -4.686  17.951   9.822  1.00 10.11      1LZG 169
+ATOM     63  CG  LEU     8      -4.424  18.364  11.304  1.00 11.33      1LZG 170
+ATOM     64  CD1 LEU     8      -4.106  17.113  12.141  1.00  9.04      1LZG 171
+ATOM     65  CD2 LEU     8      -3.280  19.380  11.289  1.00 11.60      1LZG 172
+ATOM     66  N   ALA     9      -7.613  18.896   9.505  1.00 11.07      1LZG 173
+ATOM     67  CA  ALA     9      -8.770  19.741   9.874  1.00 11.06      1LZG 174
+ATOM     68  C   ALA     9      -9.915  18.813  10.215  1.00 11.49      1LZG 175
+ATOM     69  O   ALA     9     -10.542  18.869  11.275  1.00 13.27      1LZG 176
+ATOM     70  CB  ALA     9      -9.062  20.708   8.737  1.00  9.52      1LZG 177
+ATOM     71  N   ALA    10     -10.195  17.861   9.372  1.00 11.53      1LZG 178
+ATOM     72  CA  ALA    10     -11.282  16.906   9.598  1.00 11.75      1LZG 179
+ATOM     73  C   ALA    10     -11.016  16.095  10.847  1.00 12.59      1LZG 180
+ATOM     74  O   ALA    10     -11.921  15.854  11.674  1.00 13.29      1LZG 181
+ATOM     75  CB  ALA    10     -11.485  16.074   8.335  1.00  9.63      1LZG 182
+ATOM     76  N   ALA    11      -9.810  15.576  10.983  1.00 12.68      1LZG 183
+ATOM     77  CA  ALA    11      -9.493  14.760  12.168  1.00 13.29      1LZG 184
+ATOM     78  C   ALA    11      -9.677  15.566  13.477  1.00 14.23      1LZG 185
+ATOM     79  O   ALA    11     -10.192  15.031  14.452  1.00 13.23      1LZG 186
+ATOM     80  CB  ALA    11      -8.063  14.250  12.091  1.00 13.19      1LZG 187
+ATOM     81  N   MET    12      -9.200  16.811  13.422  1.00 14.87      1LZG 188
+ATOM     82  CA  MET    12      -9.277  17.676  14.629  1.00 15.38      1LZG 189
+ATOM     83  C   MET    12     -10.719  17.948  15.021  1.00 15.65      1LZG 190
+ATOM     84  O   MET    12     -11.091  17.867  16.222  1.00 15.93      1LZG 191
+ATOM     85  CB  MET    12      -8.464  18.944  14.410  1.00 13.96      1LZG 192
+ATOM     86  CG  MET    12      -7.009  18.665  14.482  1.00 13.27      1LZG 193
+ATOM     87  SD  MET    12      -6.094  20.241  14.233  1.00 16.29      1LZG 194
+ATOM     88  CE  MET    12      -4.626  19.944  15.234  1.00 12.17      1LZG 195
+ATOM     89  N   LYS    13     -11.515  18.275  14.035  1.00 15.93      1LZG 196
+ATOM     90  CA  LYS    13     -12.949  18.549  14.238  1.00 17.92      1LZG 197
+ATOM     91  C   LYS    13     -13.634  17.319  14.837  1.00 18.81      1LZG 198
+ATOM     92  O   LYS    13     -14.431  17.437  15.784  1.00 19.13      1LZG 199
+ATOM     93  CB  LYS    13     -13.609  18.909  12.918  1.00 18.35      1LZG 200
+ATOM     94  CG  LYS    13     -15.134  19.000  13.082  1.00 20.52      1LZG 201
+ATOM     95  CD  LYS    13     -15.736  19.647  11.853  1.00 21.63      1LZG 202
+ATOM     96  CE  LYS    13     -17.228  19.880  12.018  1.00 23.96      1LZG 203
+ATOM     97  NZ  LYS    13     -17.450  21.285  11.495  1.00 27.50      1LZG 204
+ATOM     98  N   ARG    14     -13.278  16.142  14.304  1.00 19.76      1LZG 205
+ATOM     99  CA  ARG    14     -13.840  14.857  14.751  1.00 20.75      1LZG 206
+ATOM    100  C   ARG    14     -13.581  14.555  16.224  1.00 21.23      1LZG 207
+ATOM    101  O   ARG    14     -14.359  13.956  16.986  1.00 20.14      1LZG 208
+ATOM    102  CB  ARG    14     -13.320  13.701  13.881  1.00 22.93      1LZG 209
+ATOM    103  CG  ARG    14     -13.744  12.356  14.443  1.00 26.64      1LZG 210
+ATOM    104  CD  ARG    14     -13.554  11.238  13.486  1.00 29.47      1LZG 211
+ATOM    105  NE  ARG    14     -12.210  10.709  13.482  1.00 31.30      1LZG 212
+ATOM    106  CZ  ARG    14     -11.762   9.709  14.239  1.00 31.96      1LZG 213
+ATOM    107  NH1 ARG    14     -12.527   9.036  15.097  1.00 31.83      1LZG 214
+ATOM    108  NH2 ARG    14     -10.452   9.429  14.141  1.00 33.02      1LZG 215
+ATOM    109  N   HIS    15     -12.420  15.013  16.638  1.00 20.98      1LZG 216
+ATOM    110  CA  HIS    15     -11.900  14.854  18.000  1.00 20.45      1LZG 217
+ATOM    111  C   HIS    15     -12.325  15.994  18.912  1.00 20.57      1LZG 218
+ATOM    112  O   HIS    15     -11.775  16.091  20.029  1.00 20.47      1LZG 219
+ATOM    113  CB  HIS    15     -10.379  14.625  17.998  1.00 20.43      1LZG 220
+ATOM    114  CG  HIS    15      -9.984  13.233  17.608  1.00 20.80      1LZG 221
+ATOM    115  ND1 HIS    15      -9.616  12.834  16.360  1.00 21.41      1LZG 222
+ATOM    116  CD2 HIS    15      -9.899  12.108  18.372  1.00 20.92      1LZG 223
+ATOM    117  CE1 HIS    15      -9.316  11.546  16.346  1.00 21.08      1LZG 224
+ATOM    118  NE2 HIS    15      -9.471  11.081  17.577  1.00 22.70      1LZG 225
+ATOM    119  N   GLY    16     -13.267  16.827  18.485  1.00 20.85      1LZG 226
+ATOM    120  CA  GLY    16     -13.802  17.937  19.261  1.00 20.77      1LZG 227
+ATOM    121  C   GLY    16     -13.002  19.164  19.579  1.00 20.58      1LZG 228
+ATOM    122  O   GLY    16     -13.241  19.825  20.627  1.00 20.43      1LZG 229
+ATOM    123  N   LEU    17     -12.112  19.579  18.688  1.00 20.15      1LZG 230
+ATOM    124  CA  LEU    17     -11.294  20.798  18.852  1.00 19.45      1LZG 231
+ATOM    125  C   LEU    17     -11.885  22.059  18.248  1.00 19.20      1LZG 232
+ATOM    126  O   LEU    17     -11.417  23.188  18.643  1.00 21.54      1LZG 233
+ATOM    127  CB  LEU    17      -9.889  20.475  18.298  1.00 17.55      1LZG 234
+ATOM    128  CG  LEU    17      -8.914  19.679  19.118  1.00 17.57      1LZG 235
+ATOM    129  CD1 LEU    17      -7.545  19.751  18.432  1.00 16.25      1LZG 236
+ATOM    130  CD2 LEU    17      -8.809  20.212  20.550  1.00 15.97      1LZG 237
+ATOM    131  N   ASP    18     -12.851  22.021  17.353  1.00 18.61      1LZG 238
+ATOM    132  CA  ASP    18     -13.462  23.224  16.754  1.00 18.46      1LZG 239
+ATOM    133  C   ASP    18     -14.207  23.963  17.890  1.00 18.64      1LZG 240
+ATOM    134  O   ASP    18     -15.155  23.419  18.493  1.00 19.36      1LZG 241
+ATOM    135  CB  ASP    18     -14.327  23.045  15.554  1.00 22.22      1LZG 242
+ATOM    136  CG  ASP    18     -14.822  24.305  14.841  1.00 25.24      1LZG 243
+ATOM    137  OD1 ASP    18     -14.412  25.488  14.955  1.00 24.38      1LZG 244
+ATOM    138  OD2 ASP    18     -15.757  24.064  13.997  1.00 27.41      1LZG 245
+ATOM    139  N   ASN    19     -13.735  25.157  18.136  1.00 17.01      1LZG 246
+ATOM    140  CA  ASN    19     -14.314  25.992  19.186  1.00 17.49      1LZG 247
+ATOM    141  C   ASN    19     -14.028  25.440  20.548  1.00 16.05      1LZG 248
+ATOM    142  O   ASN    19     -14.635  25.859  21.541  1.00 15.96      1LZG 249
+ATOM    143  CB  ASN    19     -15.796  26.203  18.849  1.00 23.13      1LZG 250
+ATOM    144  CG  ASN    19     -15.844  27.141  17.651  1.00 27.04      1LZG 251
+ATOM    145  OD1 ASN    19     -15.165  28.192  17.698  1.00 31.25      1LZG 252
+ATOM    146  ND2 ASN    19     -16.585  26.792  16.606  1.00 30.40      1LZG 253
+ATOM    147  N   TYR    20     -13.063  24.533  20.686  1.00 15.46      1LZG 254
+ATOM    148  CA  TYR    20     -12.751  24.066  22.035  1.00 14.65      1LZG 255
+ATOM    149  C   TYR    20     -12.071  25.243  22.786  1.00 15.98      1LZG 256
+ATOM    150  O   TYR    20     -11.079  25.876  22.343  1.00 15.89      1LZG 257
+ATOM    151  CB  TYR    20     -11.850  22.851  22.023  1.00 15.23      1LZG 258
+ATOM    152  CG  TYR    20     -11.642  22.269  23.413  1.00 13.37      1LZG 259
+ATOM    153  CD1 TYR    20     -12.532  21.309  23.892  1.00 13.77      1LZG 260
+ATOM    154  CD2 TYR    20     -10.588  22.688  24.222  1.00 13.66      1LZG 261
+ATOM    155  CE1 TYR    20     -12.337  20.730  25.135  1.00 15.48      1LZG 262
+ATOM    156  CE2 TYR    20     -10.390  22.139  25.476  1.00 14.96      1LZG 263
+ATOM    157  CZ  TYR    20     -11.274  21.171  25.931  1.00 15.54      1LZG 264
+ATOM    158  OH  TYR    20     -11.082  20.652  27.177  1.00 18.29      1LZG 265
+ATOM    159  N   ARG    21     -12.662  25.536  23.924  1.00 15.50      1LZG 266
+ATOM    160  CA  ARG    21     -12.172  26.638  24.785  1.00 16.03      1LZG 267
+ATOM    161  C   ARG    21     -12.213  27.932  24.018  1.00 14.10      1LZG 268
+ATOM    162  O   ARG    21     -11.431  28.876  24.271  1.00 15.91      1LZG 269
+ATOM    163  CB  ARG    21     -10.769  26.332  25.318  1.00 19.70      1LZG 270
+ATOM    164  CG  ARG    21     -10.789  25.335  26.470  1.00 22.78      1LZG 271
+ATOM    165  CD  ARG    21     -11.437  25.966  27.639  1.00 27.57      1LZG 272
+ATOM    166  NE  ARG    21     -11.313  25.241  28.861  1.00 31.60      1LZG 273
+ATOM    167  CZ  ARG    21     -11.681  24.047  29.293  1.00 33.01      1LZG 274
+ATOM    168  NH1 ARG    21     -12.321  23.107  28.613  1.00 32.13      1LZG 275
+ATOM    169  NH2 ARG    21     -11.343  23.818  30.595  1.00 35.53      1LZG 276
+ATOM    170  N   GLY    22     -13.130  28.012  23.088  1.00 12.56      1LZG 277
+ATOM    171  CA  GLY    22     -13.327  29.224  22.265  1.00 11.36      1LZG 278
+ATOM    172  C   GLY    22     -12.371  29.382  21.111  1.00 11.48      1LZG 279
+ATOM    173  O   GLY    22     -12.419  30.437  20.457  1.00 12.45      1LZG 280
+ATOM    174  N   TYR    23     -11.567  28.391  20.771  1.00 11.15      1LZG 281
+ATOM    175  CA  TYR    23     -10.617  28.487  19.653  1.00 10.49      1LZG 282
+ATOM    176  C   TYR    23     -11.126  27.732  18.425  1.00 10.52      1LZG 283
+ATOM    177  O   TYR    23     -11.220  26.494  18.450  1.00 12.04      1LZG 284
+ATOM    178  CB  TYR    23      -9.246  27.940  20.089  1.00  7.94      1LZG 285
+ATOM    179  CG  TYR    23      -8.550  28.763  21.160  1.00  8.03      1LZG 286
+ATOM    180  CD1 TYR    23      -7.767  29.858  20.752  1.00  7.76      1LZG 287
+ATOM    181  CD2 TYR    23      -8.614  28.441  22.514  1.00  7.78      1LZG 288
+ATOM    182  CE1 TYR    23      -7.075  30.624  21.697  1.00  7.28      1LZG 289
+ATOM    183  CE2 TYR    23      -7.969  29.214  23.465  1.00  6.21      1LZG 290
+ATOM    184  CZ  TYR    23      -7.193  30.293  23.041  1.00  7.42      1LZG 291
+ATOM    185  OH  TYR    23      -6.511  31.029  23.968  1.00  9.36      1LZG 292
+ATOM    186  N   SER    24     -11.376  28.467  17.354  1.00 10.43      1LZG 293
+ATOM    187  CA  SER    24     -11.885  27.905  16.099  1.00  9.41      1LZG 294
+ATOM    188  C   SER    24     -10.824  26.973  15.498  1.00 10.60      1LZG 295
+ATOM    189  O   SER    24      -9.618  27.045  15.822  1.00  9.82      1LZG 296
+ATOM    190  CB  SER    24     -12.262  29.070  15.197  1.00 10.01      1LZG 297
+ATOM    191  OG  SER    24     -11.039  29.674  14.732  1.00 13.01      1LZG 298
+ATOM    192  N   LEU    25     -11.297  26.040  14.679  1.00 10.71      1LZG 299
+ATOM    193  CA  LEU    25     -10.430  25.049  14.037  1.00 11.28      1LZG 300
+ATOM    194  C   LEU    25      -9.218  25.637  13.339  1.00 11.60      1LZG 301
+ATOM    195  O   LEU    25      -8.125  24.998  13.353  1.00 11.84      1LZG 302
+ATOM    196  CB  LEU    25     -11.341  24.238  13.084  1.00 12.66      1LZG 303
+ATOM    197  CG  LEU    25     -10.799  22.938  12.512  1.00 12.94      1LZG 304
+ATOM    198  CD1 LEU    25     -10.475  21.968  13.633  1.00 11.76      1LZG 305
+ATOM    199  CD2 LEU    25     -11.908  22.340  11.635  1.00 12.97      1LZG 306
+ATOM    200  N   GLY    26      -9.399  26.785  12.677  1.00 10.37      1LZG 307
+ATOM    201  CA  GLY    26      -8.276  27.407  11.964  1.00  9.84      1LZG 308
+ATOM    202  C   GLY    26      -7.083  27.606  12.865  1.00 10.48      1LZG 309
+ATOM    203  O   GLY    26      -5.937  27.514  12.386  1.00 10.88      1LZG 310
+ATOM    204  N   ASN    27      -7.308  27.899  14.144  1.00 10.12      1LZG 311
+ATOM    205  CA  ASN    27      -6.227  28.135  15.108  1.00  9.29      1LZG 312
+ATOM    206  C   ASN    27      -5.420  26.864  15.323  1.00  8.50      1LZG 313
+ATOM    207  O   ASN    27      -4.205  26.918  15.311  1.00  7.47      1LZG 314
+ATOM    208  CB  ASN    27      -6.740  28.684  16.454  1.00  9.63      1LZG 315
+ATOM    209  CG  ASN    27      -7.251  30.099  16.381  1.00  9.76      1LZG 316
+ATOM    210  OD1 ASN    27      -6.454  31.057  16.396  1.00 10.12      1LZG 317
+ATOM    211  ND2 ASN    27      -8.571  30.251  16.269  1.00  8.51      1LZG 318
+ATOM    212  N   TRP    28      -6.127  25.760  15.488  1.00  8.28      1LZG 319
+ATOM    213  CA  TRP    28      -5.501  24.448  15.725  1.00  8.36      1LZG 320
+ATOM    214  C   TRP    28      -4.695  23.996  14.514  1.00  8.71      1LZG 321
+ATOM    215  O   TRP    28      -3.599  23.407  14.724  1.00  6.99      1LZG 322
+ATOM    216  CB  TRP    28      -6.612  23.498  16.227  1.00  8.64      1LZG 323
+ATOM    217  CG  TRP    28      -7.239  23.887  17.526  1.00  8.29      1LZG 324
+ATOM    218  CD1 TRP    28      -8.464  24.442  17.737  1.00 11.99      1LZG 325
+ATOM    219  CD2 TRP    28      -6.669  23.697  18.825  1.00  9.55      1LZG 326
+ATOM    220  NE1 TRP    28      -8.692  24.590  19.099  1.00 10.86      1LZG 327
+ATOM    221  CE2 TRP    28      -7.619  24.125  19.789  1.00 10.51      1LZG 328
+ATOM    222  CE3 TRP    28      -5.443  23.138  19.253  1.00  9.88      1LZG 329
+ATOM    223  CZ2 TRP    28      -7.353  24.112  21.150  1.00  9.91      1LZG 330
+ATOM    224  CZ3 TRP    28      -5.181  23.131  20.603  1.00  9.06      1LZG 331
+ATOM    225  CH2 TRP    28      -6.113  23.602  21.529  1.00  9.65      1LZG 332
+ATOM    226  N   VAL    29      -5.224  24.183  13.298  1.00  7.38      1LZG 333
+ATOM    227  CA  VAL    29      -4.524  23.782  12.066  1.00  7.54      1LZG 334
+ATOM    228  C   VAL    29      -3.318  24.691  11.849  1.00  7.46      1LZG 335
+ATOM    229  O   VAL    29      -2.242  24.182  11.472  1.00  9.73      1LZG 336
+ATOM    230  CB  VAL    29      -5.469  23.778  10.831  1.00  7.81      1LZG 337
+ATOM    231  CG1 VAL    29      -4.713  23.574   9.509  1.00  9.05      1LZG 338
+ATOM    232  CG2 VAL    29      -6.550  22.715  10.968  1.00  5.29      1LZG 339
+ATOM    233  N   CYS    30      -3.433  25.967  12.090  1.00  7.22      1LZG 340
+ATOM    234  CA  CYS    30      -2.316  26.907  11.933  1.00  6.32      1LZG 341
+ATOM    235  C   CYS    30      -1.244  26.491  12.939  1.00  7.40      1LZG 342
+ATOM    236  O   CYS    30      -0.060  26.426  12.583  1.00  6.96      1LZG 343
+ATOM    237  CB  CYS    30      -2.818  28.340  12.142  1.00  5.60      1LZG 344
+ATOM    238  SG  CYS    30      -1.531  29.592  12.002  1.00  9.02      1LZG 345
+ATOM    239  N   ALA    31      -1.637  26.173  14.171  1.00  8.21      1LZG 346
+ATOM    240  CA  ALA    31      -0.650  25.801  15.224  1.00  8.44      1LZG 347
+ATOM    241  C   ALA    31       0.102  24.550  14.784  1.00  8.12      1LZG 348
+ATOM    242  O   ALA    31       1.344  24.553  14.882  1.00  9.12      1LZG 349
+ATOM    243  CB  ALA    31      -1.347  25.599  16.581  1.00  8.94      1LZG 350
+ATOM    244  N   ALA    32      -0.587  23.532  14.314  1.00  7.13      1LZG 351
+ATOM    245  CA  ALA    32       0.091  22.303  13.812  1.00  7.69      1LZG 352
+ATOM    246  C   ALA    32       1.042  22.631  12.656  1.00  8.34      1LZG 353
+ATOM    247  O   ALA    32       2.187  22.091  12.609  1.00  8.58      1LZG 354
+ATOM    248  CB  ALA    32      -0.956  21.266  13.385  1.00  5.00      1LZG 355
+ATOM    249  N   LYS    33       0.624  23.403  11.684  1.00  7.11      1LZG 356
+ATOM    250  CA  LYS    33       1.479  23.751  10.537  1.00  9.12      1LZG 357
+ATOM    251  C   LYS    33       2.844  24.311  10.932  1.00 10.57      1LZG 358
+ATOM    252  O   LYS    33       3.939  23.868  10.522  1.00 12.30      1LZG 359
+ATOM    253  CB  LYS    33       0.786  24.858   9.698  1.00 11.47      1LZG 360
+ATOM    254  CG  LYS    33       1.696  25.383   8.550  1.00 13.21      1LZG 361
+ATOM    255  CD  LYS    33       1.802  24.357   7.420  1.00 15.10      1LZG 362
+ATOM    256  CE  LYS    33       3.045  24.676   6.591  1.00 19.16      1LZG 363
+ATOM    257  NZ  LYS    33       3.125  23.669   5.460  1.00 21.16      1LZG 364
+ATOM    258  N   PHE    34       2.788  25.283  11.843  1.00  9.69      1LZG 365
+ATOM    259  CA  PHE    34       4.006  25.964  12.304  1.00  9.48      1LZG 366
+ATOM    260  C   PHE    34       4.770  25.195  13.358  1.00  9.40      1LZG 367
+ATOM    261  O   PHE    34       5.967  25.474  13.430  1.00  8.44      1LZG 368
+ATOM    262  CB  PHE    34       3.649  27.401  12.635  1.00  9.39      1LZG 369
+ATOM    263  CG  PHE    34       3.258  28.161  11.401  1.00  9.58      1LZG 370
+ATOM    264  CD1 PHE    34       4.067  28.121  10.258  1.00  9.19      1LZG 371
+ATOM    265  CD2 PHE    34       2.097  28.933  11.391  1.00 10.30      1LZG 372
+ATOM    266  CE1 PHE    34       3.671  28.863   9.143  1.00 10.72      1LZG 373
+ATOM    267  CE2 PHE    34       1.717  29.672  10.273  1.00 10.64      1LZG 374
+ATOM    268  CZ  PHE    34       2.507  29.661   9.128  1.00 11.28      1LZG 375
+ATOM    269  N   GLU    35       4.121  24.382  14.142  1.00  8.05      1LZG 376
+ATOM    270  CA  GLU    35       4.852  23.612  15.182  1.00  9.59      1LZG 377
+ATOM    271  C   GLU    35       5.572  22.411  14.575  1.00  9.62      1LZG 378
+ATOM    272  O   GLU    35       6.733  22.183  14.933  1.00 10.78      1LZG 379
+ATOM    273  CB  GLU    35       3.892  23.064  16.242  1.00  8.88      1LZG 380
+ATOM    274  CG  GLU    35       3.391  24.159  17.217  1.00 11.86      1LZG 381
+ATOM    275  CD  GLU    35       4.429  24.763  18.135  1.00 13.01      1LZG 382
+ATOM    276  OE1 GLU    35       5.553  24.341  18.270  1.00 11.56      1LZG 383
+ATOM    277  OE2 GLU    35       4.019  25.791  18.748  1.00 13.03      1LZG 384
+ATOM    278  N   SER    36       4.900  21.666  13.704  1.00 10.65      1LZG 385
+ATOM    279  CA  SER    36       5.514  20.440  13.149  1.00 10.37      1LZG 386
+ATOM    280  C   SER    36       5.375  20.243  11.653  1.00 11.21      1LZG 387
+ATOM    281  O   SER    36       5.840  19.223  11.133  1.00 11.50      1LZG 388
+ATOM    282  CB  SER    36       4.759  19.273  13.789  1.00  8.33      1LZG 389
+ATOM    283  OG  SER    36       3.447  19.273  13.204  1.00  8.76      1LZG 390
+ATOM    284  N   ASN    37       4.762  21.196  10.988  1.00 11.86      1LZG 391
+ATOM    285  CA  ASN    37       4.552  21.108   9.550  1.00 12.39      1LZG 392
+ATOM    286  C   ASN    37       3.695  19.876   9.238  1.00 12.37      1LZG 393
+ATOM    287  O   ASN    37       3.967  19.195   8.231  1.00 11.74      1LZG 394
+ATOM    288  CB  ASN    37       5.898  21.138   8.829  1.00 16.07      1LZG 395
+ATOM    289  CG  ASN    37       5.742  21.561   7.385  1.00 18.89      1LZG 396
+ATOM    290  OD1 ASN    37       6.697  21.332   6.618  1.00 23.24      1LZG 397
+ATOM    291  ND2 ASN    37       4.621  22.103   6.927  1.00 19.63      1LZG 398
+ATOM    292  N   PHE    38       2.744  19.614  10.099  1.00 10.69      1LZG 399
+ATOM    293  CA  PHE    38       1.801  18.496  10.039  1.00 12.37      1LZG 400
+ATOM    294  C   PHE    38       2.415  17.077  10.132  1.00 10.79      1LZG 401
+ATOM    295  O   PHE    38       1.741  16.116   9.742  1.00 11.36      1LZG 402
+ATOM    296  CB  PHE    38       0.896  18.609   8.822  1.00 11.73      1LZG 403
+ATOM    297  CG  PHE    38       0.178  19.890   8.562  1.00 11.41      1LZG 404
+ATOM    298  CD1 PHE    38      -0.438  20.587   9.605  1.00 11.35      1LZG 405
+ATOM    299  CD2 PHE    38       0.086  20.375   7.272  1.00 11.60      1LZG 406
+ATOM    300  CE1 PHE    38      -1.153  21.756   9.303  1.00 10.00      1LZG 407
+ATOM    301  CE2 PHE    38      -0.611  21.559   6.942  1.00 10.26      1LZG 408
+ATOM    302  CZ  PHE    38      -1.247  22.249   8.000  1.00  9.38      1LZG 409
+ATOM    303  N   ASN    39       3.583  16.944  10.650  1.00 11.19      1LZG 410
+ATOM    304  CA  ASN    39       4.335  15.686  10.875  1.00 11.26      1LZG 411
+ATOM    305  C   ASN    39       4.185  15.164  12.314  1.00 10.36      1LZG 412
+ATOM    306  O   ASN    39       4.717  15.768  13.279  1.00 10.18      1LZG 413
+ATOM    307  CB  ASN    39       5.831  15.927  10.608  1.00 11.84      1LZG 414
+ATOM    308  CG  ASN    39       6.602  14.616  10.559  1.00 12.79      1LZG 415
+ATOM    309  OD1 ASN    39       6.039  13.494  10.679  1.00 12.89      1LZG 416
+ATOM    310  ND2 ASN    39       7.907  14.764  10.291  1.00 13.95      1LZG 417
+ATOM    311  N   THR    40       3.504  14.055  12.443  1.00  9.29      1LZG 418
+ATOM    312  CA  THR    40       3.285  13.447  13.755  1.00  8.39      1LZG 419
+ATOM    313  C   THR    40       4.593  12.940  14.367  1.00  8.65      1LZG 420
+ATOM    314  O   THR    40       4.611  12.760  15.637  1.00  8.46      1LZG 421
+ATOM    315  CB  THR    40       2.187  12.306  13.672  1.00  8.92      1LZG 422
+ATOM    316  OG1 THR    40       2.850  11.193  12.959  1.00  7.28      1LZG 423
+ATOM    317  CG2 THR    40       0.911  12.685  12.926  1.00 10.04      1LZG 424
+ATOM    318  N   GLN    41       5.629  12.744  13.552  1.00  6.89      1LZG 425
+ATOM    319  CA  GLN    41       6.886  12.232  14.120  1.00  7.39      1LZG 426
+ATOM    320  C   GLN    41       7.858  13.332  14.478  1.00  8.38      1LZG 427
+ATOM    321  O   GLN    41       9.001  13.006  14.892  1.00 11.10      1LZG 428
+ATOM    322  CB  GLN    41       7.541  11.160  13.246  1.00  7.40      1LZG 429
+ATOM    323  CG  GLN    41       6.631   9.949  12.928  1.00 10.08      1LZG 430
+ATOM    324  CD  GLN    41       7.418   8.870  12.205  1.00 11.97      1LZG 431
+ATOM    325  OE1 GLN    41       7.283   8.564  11.023  1.00 13.21      1LZG 432
+ATOM    326  NE2 GLN    41       8.359   8.255  12.913  1.00 12.47      1LZG 433
+ATOM    327  N   ALA    42       7.505  14.588  14.400  1.00  8.18      1LZG 434
+ATOM    328  CA  ALA    42       8.465  15.666  14.731  1.00  9.90      1LZG 435
+ATOM    329  C   ALA    42       8.921  15.663  16.204  1.00 10.48      1LZG 436
+ATOM    330  O   ALA    42       8.136  15.534  17.132  1.00  9.16      1LZG 437
+ATOM    331  CB  ALA    42       7.714  16.968  14.424  1.00 10.32      1LZG 438
+ATOM    332  N   THR    43      10.194  15.883  16.463  1.00 10.61      1LZG 439
+ATOM    333  CA  THR    43      10.739  16.005  17.810  1.00 11.24      1LZG 440
+ATOM    334  C   THR    43      11.724  17.165  17.764  1.00 11.51      1LZG 441
+ATOM    335  O   THR    43      12.425  17.390  16.754  1.00 11.31      1LZG 442
+ATOM    336  CB  THR    43      11.431  14.688  18.341  1.00 10.25      1LZG 443
+ATOM    337  OG1 THR    43      12.501  14.408  17.364  1.00  8.94      1LZG 444
+ATOM    338  CG2 THR    43      10.441  13.535  18.613  1.00  9.45      1LZG 445
+ATOM    339  N   ASN    44      11.782  17.928  18.842  1.00 12.58      1LZG 446
+ATOM    340  CA  ASN    44      12.739  19.046  18.990  1.00 13.91      1LZG 447
+ATOM    341  C   ASN    44      13.191  19.048  20.453  1.00 13.64      1LZG 448
+ATOM    342  O   ASN    44      12.404  18.861  21.376  1.00 12.67      1LZG 449
+ATOM    343  CB  ASN    44      12.163  20.373  18.484  1.00 18.06      1LZG 450
+ATOM    344  CG  ASN    44      11.940  20.237  16.957  1.00 23.16      1LZG 451
+ATOM    345  OD1 ASN    44      12.953  19.990  16.246  1.00 24.96      1LZG 452
+ATOM    346  ND2 ASN    44      10.701  20.296  16.458  1.00 21.64      1LZG 453
+ATOM    347  N   ARG    45      14.467  19.243  20.670  1.00 13.84      1LZG 454
+ATOM    348  CA  ARG    45      15.062  19.264  22.019  1.00 16.78      1LZG 455
+ATOM    349  C   ARG    45      15.272  20.700  22.472  1.00 16.09      1LZG 456
+ATOM    350  O   ARG    45      15.745  21.482  21.636  1.00 16.98      1LZG 457
+ATOM    351  CB  ARG    45      16.461  18.608  21.999  1.00 18.43      1LZG 458
+ATOM    352  CG  ARG    45      16.991  18.335  23.415  1.00 22.87      1LZG 459
+ATOM    353  CD  ARG    45      16.389  17.037  23.849  1.00 28.66      1LZG 460
+ATOM    354  NE  ARG    45      16.944  16.541  25.094  1.00 33.12      1LZG 461
+ATOM    355  CZ  ARG    45      18.020  15.715  25.139  1.00 34.62      1LZG 462
+ATOM    356  NH1 ARG    45      18.610  15.386  23.977  1.00 34.73      1LZG 463
+ATOM    357  NH2 ARG    45      18.323  15.205  26.339  1.00 33.78      1LZG 464
+ATOM    358  N   ASN    46      14.988  20.999  23.714  1.00 16.79      1LZG 465
+ATOM    359  CA  ASN    46      15.205  22.372  24.242  1.00 17.25      1LZG 466
+ATOM    360  C   ASN    46      16.460  22.456  25.079  1.00 17.85      1LZG 467
+ATOM    361  O   ASN    46      16.992  21.443  25.538  1.00 17.56      1LZG 468
+ATOM    362  CB  ASN    46      13.954  22.780  25.029  1.00 19.59      1LZG 469
+ATOM    363  CG  ASN    46      12.686  22.510  24.238  1.00 18.82      1LZG 470
+ATOM    364  OD1 ASN    46      12.513  23.057  23.155  1.00 22.12      1LZG 471
+ATOM    365  ND2 ASN    46      11.799  21.710  24.757  1.00 22.14      1LZG 472
+ATOM    366  N   THR    47      16.901  23.683  25.337  1.00 20.21      1LZG 473
+ATOM    367  CA  THR    47      18.135  23.875  26.161  1.00 21.28      1LZG 474
+ATOM    368  C   THR    47      17.993  23.345  27.578  1.00 21.34      1LZG 475
+ATOM    369  O   THR    47      19.026  22.903  28.109  1.00 21.84      1LZG 476
+ATOM    370  CB  THR    47      18.671  25.351  26.174  1.00 23.02      1LZG 477
+ATOM    371  OG1 THR    47      17.595  26.131  26.806  1.00 24.28      1LZG 478
+ATOM    372  CG2 THR    47      18.968  25.827  24.748  1.00 24.21      1LZG 479
+ATOM    373  N   ASP    48      16.802  23.376  28.147  1.00 20.77      1LZG 480
+ATOM    374  CA  ASP    48      16.581  22.867  29.495  1.00 20.67      1LZG 481
+ATOM    375  C   ASP    48      16.664  21.333  29.478  1.00 19.28      1LZG 482
+ATOM    376  O   ASP    48      16.495  20.815  30.598  1.00 19.73      1LZG 483
+ATOM    377  CB  ASP    48      15.289  23.327  30.140  1.00 22.73      1LZG 484
+ATOM    378  CG  ASP    48      14.005  22.797  29.550  1.00 24.84      1LZG 485
+ATOM    379  OD1 ASP    48      14.002  22.000  28.589  1.00 27.14      1LZG 486
+ATOM    380  OD2 ASP    48      12.913  23.170  30.031  1.00 26.14      1LZG 487
+ATOM    381  N   GLY    49      16.859  20.690  28.345  1.00 17.10      1LZG 488
+ATOM    382  CA  GLY    49      16.919  19.223  28.328  1.00 15.27      1LZG 489
+ATOM    383  C   GLY    49      15.621  18.521  28.093  1.00 14.43      1LZG 490
+ATOM    384  O   GLY    49      15.541  17.252  28.004  1.00 16.11      1LZG 491
+ATOM    385  N   SER    50      14.546  19.269  27.962  1.00 12.47      1LZG 492
+ATOM    386  CA  SER    50      13.204  18.683  27.722  1.00 11.80      1LZG 493
+ATOM    387  C   SER    50      13.065  18.581  26.189  1.00 10.63      1LZG 494
+ATOM    388  O   SER    50      13.872  19.180  25.452  1.00 12.45      1LZG 495
+ATOM    389  CB  SER    50      12.100  19.499  28.337  1.00 11.78      1LZG 496
+ATOM    390  OG  SER    50      12.042  20.779  27.707  1.00 13.58      1LZG 497
+ATOM    391  N   THR    51      12.085  17.838  25.731  1.00 10.19      1LZG 498
+ATOM    392  CA  THR    51      11.881  17.644  24.280  1.00 10.53      1LZG 499
+ATOM    393  C   THR    51      10.459  17.931  23.857  1.00  9.44      1LZG 500
+ATOM    394  O   THR    51       9.592  17.632  24.691  1.00  8.88      1LZG 501
+ATOM    395  CB  THR    51      12.231  16.149  23.874  1.00  9.95      1LZG 502
+ATOM    396  OG1 THR    51      13.652  15.989  24.234  1.00 10.28      1LZG 503
+ATOM    397  CG2 THR    51      12.024  15.821  22.393  1.00  9.47      1LZG 504
+ATOM    398  N   ASP    52      10.209  18.393  22.647  1.00  8.36      1LZG 505
+ATOM    399  CA  ASP    52       8.783  18.611  22.243  1.00  9.76      1LZG 506
+ATOM    400  C   ASP    52       8.437  17.464  21.294  1.00  9.95      1LZG 507
+ATOM    401  O   ASP    52       9.267  17.131  20.447  1.00 11.26      1LZG 508
+ATOM    402  CB  ASP    52       8.607  19.948  21.586  1.00 12.66      1LZG 509
+ATOM    403  CG  ASP    52       9.237  21.065  22.364  1.00 13.29      1LZG 510
+ATOM    404  OD1 ASP    52       9.017  21.277  23.554  1.00 14.70      1LZG 511
+ATOM    405  OD2 ASP    52      10.015  21.819  21.764  1.00 17.09      1LZG 512
+ATOM    406  N   TYR    53       7.228  16.948  21.396  1.00  9.50      1LZG 513
+ATOM    407  CA  TYR    53       6.848  15.786  20.593  1.00  8.45      1LZG 514
+ATOM    408  C   TYR    53       5.562  15.934  19.818  1.00  9.07      1LZG 515
+ATOM    409  O   TYR    53       4.593  16.444  20.369  1.00  8.71      1LZG 516
+ATOM    410  CB  TYR    53       6.552  14.696  21.680  1.00  8.37      1LZG 517
+ATOM    411  CG  TYR    53       7.782  14.210  22.366  1.00  8.79      1LZG 518
+ATOM    412  CD1 TYR    53       8.498  13.124  21.801  1.00  8.32      1LZG 519
+ATOM    413  CD2 TYR    53       8.245  14.802  23.552  1.00  9.86      1LZG 520
+ATOM    414  CE1 TYR    53       9.640  12.656  22.452  1.00  9.50      1LZG 521
+ATOM    415  CE2 TYR    53       9.396  14.313  24.196  1.00  8.14      1LZG 522
+ATOM    416  CZ  TYR    53      10.079  13.232  23.635  1.00  9.06      1LZG 523
+ATOM    417  OH  TYR    53      11.221  12.809  24.262  1.00  8.56      1LZG 524
+ATOM    418  N   GLY    54       5.599  15.449  18.616  1.00  9.13      1LZG 525
+ATOM    419  CA  GLY    54       4.525  15.366  17.671  1.00  9.39      1LZG 526
+ATOM    420  C   GLY    54       4.043  16.619  16.989  1.00  7.67      1LZG 527
+ATOM    421  O   GLY    54       4.656  17.676  16.920  1.00  8.20      1LZG 528
+ATOM    422  N   ILE    55       2.892  16.409  16.432  1.00  8.96      1LZG 529
+ATOM    423  CA  ILE    55       2.067  17.326  15.646  1.00  9.29      1LZG 530
+ATOM    424  C   ILE    55       1.870  18.645  16.356  1.00  9.04      1LZG 531
+ATOM    425  O   ILE    55       1.847  19.729  15.719  1.00  8.58      1LZG 532
+ATOM    426  CB  ILE    55       0.739  16.581  15.227  1.00 10.11      1LZG 533
+ATOM    427  CG1 ILE    55       0.055  17.333  14.039  1.00 11.14      1LZG 534
+ATOM    428  CG2 ILE    55      -0.348  16.349  16.311  1.00  8.06      1LZG 535
+ATOM    429  CD1 ILE    55       0.256  16.530  12.712  1.00 15.14      1LZG 536
+ATOM    430  N   LEU    56       1.727  18.593  17.682  1.00  7.79      1LZG 537
+ATOM    431  CA  LEU    56       1.491  19.837  18.455  1.00  8.11      1LZG 538
+ATOM    432  C   LEU    56       2.673  20.237  19.319  1.00  8.26      1LZG 539
+ATOM    433  O   LEU    56       2.523  21.163  20.138  1.00  6.77      1LZG 540
+ATOM    434  CB  LEU    56       0.159  19.653  19.214  1.00  9.60      1LZG 541
+ATOM    435  CG  LEU    56      -1.069  19.843  18.315  1.00 10.08      1LZG 542
+ATOM    436  CD1 LEU    56      -2.359  19.643  19.082  1.00 10.55      1LZG 543
+ATOM    437  CD2 LEU    56      -1.013  21.200  17.646  1.00  8.11      1LZG 544
+ATOM    438  N   GLN    57       3.778  19.533  19.142  1.00  7.37      1LZG 545
+ATOM    439  CA  GLN    57       5.023  19.807  19.871  1.00  8.16      1LZG 546
+ATOM    440  C   GLN    57       4.831  19.971  21.376  1.00  8.44      1LZG 547
+ATOM    441  O   GLN    57       5.276  20.952  21.959  1.00  8.10      1LZG 548
+ATOM    442  CB  GLN    57       5.743  20.997  19.253  1.00  6.54      1LZG 549
+ATOM    443  CG  GLN    57       6.334  20.732  17.868  1.00  7.59      1LZG 550
+ATOM    444  CD  GLN    57       7.552  19.821  17.953  1.00  9.42      1LZG 551
+ATOM    445  OE1 GLN    57       8.701  20.221  18.158  1.00  9.64      1LZG 552
+ATOM    446  NE2 GLN    57       7.302  18.539  17.829  1.00  8.50      1LZG 553
+ATOM    447  N   ILE    58       4.210  18.983  22.003  1.00  9.01      1LZG 554
+ATOM    448  CA  ILE    58       3.939  18.967  23.441  1.00  8.64      1LZG 555
+ATOM    449  C   ILE    58       5.251  18.609  24.158  1.00  9.17      1LZG 556
+ATOM    450  O   ILE    58       6.029  17.660  23.886  1.00  7.57      1LZG 557
+ATOM    451  CB  ILE    58       2.711  18.034  23.682  1.00  8.36      1LZG 558
+ATOM    452  CG1 ILE    58       1.412  18.697  23.148  1.00  9.75      1LZG 559
+ATOM    453  CG2 ILE    58       2.550  17.672  25.202  1.00 12.73      1LZG 560
+ATOM    454  CD1 ILE    58       0.228  17.671  23.093  1.00  8.67      1LZG 561
+ATOM    455  N   ASN    59       5.506  19.408  25.173  1.00  8.73      1LZG 562
+ATOM    456  CA  ASN    59       6.708  19.397  25.993  1.00 11.56      1LZG 563
+ATOM    457  C   ASN    59       6.776  18.434  27.161  1.00 11.38      1LZG 564
+ATOM    458  O   ASN    59       5.884  18.374  28.012  1.00 12.29      1LZG 565
+ATOM    459  CB  ASN    59       6.950  20.878  26.392  1.00 13.06      1LZG 566
+ATOM    460  CG  ASN    59       8.290  21.034  27.056  1.00 17.66      1LZG 567
+ATOM    461  OD1 ASN    59       8.299  20.985  28.286  1.00 20.64      1LZG 568
+ATOM    462  ND2 ASN    59       9.395  21.182  26.358  1.00 19.38      1LZG 569
+ATOM    463  N   SER    60       7.905  17.731  27.212  1.00 12.05      1LZG 570
+ATOM    464  CA  SER    60       8.203  16.732  28.245  1.00 12.39      1LZG 571
+ATOM    465  C   SER    60       8.433  17.372  29.626  1.00 14.24      1LZG 572
+ATOM    466  O   SER    60       8.227  16.615  30.627  1.00 16.47      1LZG 573
+ATOM    467  CB  SER    60       9.370  15.840  27.902  1.00  9.09      1LZG 574
+ATOM    468  OG  SER    60      10.614  16.516  28.017  1.00 11.20      1LZG 575
+ATOM    469  N   ARG    61       8.813  18.628  29.730  1.00 14.25      1LZG 576
+ATOM    470  CA  ARG    61       8.985  19.243  31.106  1.00 16.58      1LZG 577
+ATOM    471  C   ARG    61       7.706  19.194  31.943  1.00 15.97      1LZG 578
+ATOM    472  O   ARG    61       7.753  18.992  33.181  1.00 16.39      1LZG 579
+ATOM    473  CB  ARG    61       9.481  20.663  30.974  1.00 19.45      1LZG 580
+ATOM    474  CG  ARG    61       9.565  21.640  32.110  1.00 21.22      1LZG 581
+ATOM    475  CD  ARG    61      10.625  21.217  33.066  1.00 24.59      1LZG 582
+ATOM    476  NE  ARG    61      11.955  21.355  32.411  1.00 28.05      1LZG 583
+ATOM    477  CZ  ARG    61      12.965  20.531  32.721  1.00 30.32      1LZG 584
+ATOM    478  NH1 ARG    61      12.779  19.544  33.644  1.00 32.74      1LZG 585
+ATOM    479  NH2 ARG    61      14.146  20.634  32.119  1.00 29.54      1LZG 586
+ATOM    480  N   PHE    62       6.538  19.363  31.335  1.00 14.55      1LZG 587
+ATOM    481  CA  PHE    62       5.275  19.336  31.997  1.00 14.48      1LZG 588
+ATOM    482  C   PHE    62       4.234  18.305  31.612  1.00 14.70      1LZG 589
+ATOM    483  O   PHE    62       3.414  18.047  32.508  1.00 14.70      1LZG 590
+ATOM    484  CB  PHE    62       4.514  20.687  31.750  1.00 17.01      1LZG 591
+ATOM    485  CG  PHE    62       5.247  21.888  32.271  1.00 19.80      1LZG 592
+ATOM    486  CD1 PHE    62       5.188  22.206  33.628  1.00 21.07      1LZG 593
+ATOM    487  CD2 PHE    62       5.975  22.696  31.405  1.00 20.23      1LZG 594
+ATOM    488  CE1 PHE    62       5.862  23.316  34.131  1.00 21.23      1LZG 595
+ATOM    489  CE2 PHE    62       6.640  23.804  31.891  1.00 21.73      1LZG 596
+ATOM    490  CZ  PHE    62       6.585  24.118  33.240  1.00 21.58      1LZG 597
+ATOM    491  N   TRP    63       4.206  17.880  30.343  1.00 12.74      1LZG 598
+ATOM    492  CA  TRP    63       3.084  17.062  29.903  1.00 11.93      1LZG 599
+ATOM    493  C   TRP    63       3.161  15.585  29.695  1.00 11.31      1LZG 600
+ATOM    494  O   TRP    63       2.106  14.926  29.776  1.00 11.44      1LZG 601
+ATOM    495  CB  TRP    63       2.569  17.782  28.590  1.00 11.53      1LZG 602
+ATOM    496  CG  TRP    63       2.322  19.249  28.827  1.00 11.97      1LZG 603
+ATOM    497  CD1 TRP    63       3.051  20.314  28.350  1.00 12.11      1LZG 604
+ATOM    498  CD2 TRP    63       1.268  19.842  29.603  1.00 10.34      1LZG 605
+ATOM    499  NE1 TRP    63       2.562  21.503  28.784  1.00 10.16      1LZG 606
+ATOM    500  CE2 TRP    63       1.443  21.222  29.557  1.00 12.41      1LZG 607
+ATOM    501  CE3 TRP    63       0.187  19.307  30.312  1.00 13.20      1LZG 608
+ATOM    502  CZ2 TRP    63       0.610  22.127  30.232  1.00 11.51      1LZG 609
+ATOM    503  CZ3 TRP    63      -0.646  20.217  30.987  1.00 11.48      1LZG 610
+ATOM    504  CH2 TRP    63      -0.434  21.592  30.954  1.00  9.38      1LZG 611
+ATOM    505  N   CYS    64       4.349  15.060  29.491  1.00 10.45      1LZG 612
+ATOM    506  CA  CYS    64       4.479  13.628  29.181  1.00 10.41      1LZG 613
+ATOM    507  C   CYS    64       5.773  13.140  29.784  1.00  9.39      1LZG 614
+ATOM    508  O   CYS    64       6.631  13.937  30.160  1.00 11.10      1LZG 615
+ATOM    509  CB  CYS    64       4.367  13.421  27.664  1.00  9.57      1LZG 616
+ATOM    510  SG  CYS    64       5.671  14.241  26.652  1.00  7.84      1LZG 617
+ATOM    511  N   ASN    65       5.849  11.835  29.811  1.00 10.88      1LZG 618
+ATOM    512  CA  ASN    65       7.042  11.167  30.370  1.00 10.99      1LZG 619
+ATOM    513  C   ASN    65       7.885  10.586  29.218  1.00 10.45      1LZG 620
+ATOM    514  O   ASN    65       7.341   9.721  28.474  1.00  9.61      1LZG 621
+ATOM    515  CB  ASN    65       6.572  10.067  31.355  1.00 12.07      1LZG 622
+ATOM    516  CG  ASN    65       7.857   9.345  31.789  1.00 16.36      1LZG 623
+ATOM    517  OD1 ASN    65       8.781  10.010  32.295  1.00 18.12      1LZG 624
+ATOM    518  ND2 ASN    65       7.941   8.057  31.519  1.00 17.14      1LZG 625
+ATOM    519  N   ASP    66       9.132  11.027  29.187  1.00  9.80      1LZG 626
+ATOM    520  CA  ASP    66      10.087  10.524  28.175  1.00 12.02      1LZG 627
+ATOM    521  C   ASP    66      11.277   9.843  28.870  1.00 12.64      1LZG 628
+ATOM    522  O   ASP    66      12.292   9.517  28.252  1.00 12.84      1LZG 629
+ATOM    523  CB  ASP    66      10.576  11.620  27.251  1.00 10.23      1LZG 630
+ATOM    524  CG  ASP    66      11.444  12.724  27.739  1.00 11.97      1LZG 631
+ATOM    525  OD1 ASP    66      11.753  12.751  28.949  1.00 11.94      1LZG 632
+ATOM    526  OD2 ASP    66      11.799  13.606  26.897  1.00 13.10      1LZG 633
+ATOM    527  N   GLY    67      11.229   9.759  30.160  1.00 14.00      1LZG 634
+ATOM    528  CA  GLY    67      12.266   9.156  30.990  1.00 15.71      1LZG 635
+ATOM    529  C   GLY    67      13.591   9.866  30.974  1.00 16.76      1LZG 636
+ATOM    530  O   GLY    67      14.567   9.260  31.464  1.00 17.87      1LZG 637
+ATOM    531  N   ARG    68      13.729  11.071  30.477  1.00 16.74      1LZG 638
+ATOM    532  CA  ARG    68      15.047  11.725  30.431  1.00 16.63      1LZG 639
+ATOM    533  C   ARG    68      14.979  13.216  30.635  1.00 17.11      1LZG 640
+ATOM    534  O   ARG    68      15.777  14.013  30.072  1.00 18.03      1LZG 641
+ATOM    535  CB  ARG    68      15.657  11.415  29.061  1.00 17.20      1LZG 642
+ATOM    536  CG  ARG    68      15.012  12.055  27.857  1.00 19.12      1LZG 643
+ATOM    537  CD  ARG    68      15.989  12.055  26.701  1.00 21.83      1LZG 644
+ATOM    538  NE  ARG    68      15.734  13.095  25.717  1.00 23.95      1LZG 645
+ATOM    539  CZ  ARG    68      16.318  13.113  24.500  1.00 25.30      1LZG 646
+ATOM    540  NH1 ARG    68      17.271  12.223  24.173  1.00 26.07      1LZG 647
+ATOM    541  NH2 ARG    68      15.903  13.993  23.566  1.00 24.75      1LZG 648
+ATOM    542  N   THR    69      13.980  13.609  31.397  1.00 17.48      1LZG 649
+ATOM    543  CA  THR    69      13.763  15.044  31.676  1.00 17.97      1LZG 650
+ATOM    544  C   THR    69      13.646  15.169  33.196  1.00 19.63      1LZG 651
+ATOM    545  O   THR    69      12.519  15.362  33.682  1.00 17.95      1LZG 652
+ATOM    546  CB  THR    69      12.481  15.661  30.984  1.00 16.40      1LZG 653
+ATOM    547  OG1 THR    69      12.397  15.339  29.556  1.00 14.65      1LZG 654
+ATOM    548  CG2 THR    69      12.409  17.188  31.276  1.00 14.49      1LZG 655
+ATOM    549  N   PRO    70      14.760  15.028  33.892  1.00 21.37      1LZG 656
+ATOM    550  CA  PRO    70      14.746  15.094  35.370  1.00 22.33      1LZG 657
+ATOM    551  C   PRO    70      13.968  16.237  35.992  1.00 22.85      1LZG 658
+ATOM    552  O   PRO    70      13.946  17.410  35.599  1.00 23.43      1LZG 659
+ATOM    553  CB  PRO    70      16.222  15.069  35.740  1.00 21.95      1LZG 660
+ATOM    554  CG  PRO    70      16.822  14.218  34.616  1.00 22.19      1LZG 661
+ATOM    555  CD  PRO    70      16.110  14.757  33.367  1.00 21.49      1LZG 662
+ATOM    556  N   GLY    71      13.184  15.827  37.003  1.00 24.19      1LZG 663
+ATOM    557  CA  GLY    71      12.343  16.735  37.772  1.00 25.11      1LZG 664
+ATOM    558  C   GLY    71      11.193  17.355  36.983  1.00 25.02      1LZG 665
+ATOM    559  O   GLY    71      10.749  18.454  37.401  1.00 25.95      1LZG 666
+ATOM    560  N   SER    72      10.731  16.676  35.950  1.00 23.53      1LZG 667
+ATOM    561  CA  SER    72       9.610  17.173  35.135  1.00 22.43      1LZG 668
+ATOM    562  C   SER    72       8.317  16.489  35.588  1.00 21.94      1LZG 669
+ATOM    563  O   SER    72       8.304  15.463  36.279  1.00 20.55      1LZG 670
+ATOM    564  CB  SER    72       9.837  16.855  33.670  1.00 23.22      1LZG 671
+ATOM    565  OG  SER    72       9.776  15.431  33.519  1.00 23.57      1LZG 672
+ATOM    566  N   ARG    73       7.202  17.056  35.120  1.00 21.74      1LZG 673
+ATOM    567  CA  ARG    73       5.876  16.518  35.449  1.00 20.47      1LZG 674
+ATOM    568  C   ARG    73       5.370  15.783  34.199  1.00 19.15      1LZG 675
+ATOM    569  O   ARG    73       6.016  15.955  33.155  1.00 19.35      1LZG 676
+ATOM    570  CB  ARG    73       4.887  17.575  35.912  1.00 25.13      1LZG 677
+ATOM    571  CG  ARG    73       5.222  18.180  37.278  1.00 30.93      1LZG 678
+ATOM    572  CD  ARG    73       4.192  19.188  37.700  1.00 35.55      1LZG 679
+ATOM    573  NE  ARG    73       3.183  18.543  38.535  1.00 39.64      1LZG 680
+ATOM    574  CZ  ARG    73       2.059  19.035  39.050  1.00 41.10      1LZG 681
+ATOM    575  NH1 ARG    73       1.628  20.279  38.835  1.00 41.15      1LZG 682
+ATOM    576  NH2 ARG    73       1.341  18.222  39.855  1.00 41.86      1LZG 683
+ATOM    577  N   ASN    74       4.327  15.018  34.395  1.00 16.86      1LZG 684
+ATOM    578  CA  ASN    74       3.639  14.205  33.399  1.00 15.61      1LZG 685
+ATOM    579  C   ASN    74       2.116  14.392  33.545  1.00 14.54      1LZG 686
+ATOM    580  O   ASN    74       1.346  13.426  33.809  1.00 13.82      1LZG 687
+ATOM    581  CB  ASN    74       4.069  12.748  33.497  1.00 16.34      1LZG 688
+ATOM    582  CG  ASN    74       3.400  11.816  32.512  1.00 17.64      1LZG 689
+ATOM    583  OD1 ASN    74       3.395  10.576  32.692  1.00 18.08      1LZG 690
+ATOM    584  ND2 ASN    74       2.781  12.308  31.453  1.00 15.36      1LZG 691
+ATOM    585  N   LEU    75       1.726  15.643  33.330  1.00 15.11      1LZG 692
+ATOM    586  CA  LEU    75       0.320  16.045  33.458  1.00 15.46      1LZG 693
+ATOM    587  C   LEU    75      -0.682  15.338  32.568  1.00 16.12      1LZG 694
+ATOM    588  O   LEU    75      -1.853  15.283  32.962  1.00 15.66      1LZG 695
+ATOM    589  CB  LEU    75       0.222  17.573  33.444  1.00 16.47      1LZG 696
+ATOM    590  CG  LEU    75       0.872  18.235  34.651  1.00 17.51      1LZG 697
+ATOM    591  CD1 LEU    75       0.865  19.734  34.563  1.00 19.52      1LZG 698
+ATOM    592  CD2 LEU    75       0.136  17.797  35.927  1.00 20.09      1LZG 699
+ATOM    593  N   CYS    76      -0.236  14.823  31.425  1.00 15.24      1LZG 700
+ATOM    594  CA  CYS    76      -1.168  14.139  30.513  1.00 13.99      1LZG 701
+ATOM    595  C   CYS    76      -1.172  12.651  30.793  1.00 14.56      1LZG 702
+ATOM    596  O   CYS    76      -1.970  11.922  30.184  1.00 11.66      1LZG 703
+ATOM    597  CB  CYS    76      -0.947  14.445  29.038  1.00 11.14      1LZG 704
+ATOM    598  SG  CYS    76      -1.398  16.179  28.652  1.00 12.17      1LZG 705
+ATOM    599  N   ASN    77      -0.276  12.261  31.670  1.00 15.98      1LZG 706
+ATOM    600  CA  ASN    77      -0.182  10.851  32.058  1.00 19.14      1LZG 707
+ATOM    601  C   ASN    77      -0.056   9.876  30.930  1.00 17.77      1LZG 708
+ATOM    602  O   ASN    77      -0.844   8.891  30.806  1.00 18.38      1LZG 709
+ATOM    603  CB  ASN    77      -1.410  10.514  32.959  1.00 25.64      1LZG 710
+ATOM    604  CG  ASN    77      -0.973  11.138  34.307  1.00 31.83      1LZG 711
+ATOM    605  OD1 ASN    77       0.022  10.646  34.894  1.00 36.17      1LZG 712
+ATOM    606  ND2 ASN    77      -1.664  12.209  34.689  1.00 34.60      1LZG 713
+ATOM    607  N   ILE    78       0.949  10.118  30.126  1.00 16.85      1LZG 714
+ATOM    608  CA  ILE    78       1.299   9.315  28.983  1.00 15.68      1LZG 715
+ATOM    609  C   ILE    78       2.817   9.424  28.667  1.00 14.44      1LZG 716
+ATOM    610  O   ILE    78       3.420  10.480  28.911  1.00 14.74      1LZG 717
+ATOM    611  CB  ILE    78       0.660   9.915  27.634  1.00 15.75      1LZG 718
+ATOM    612  CG1 ILE    78       0.945  11.446  27.637  1.00 14.51      1LZG 719
+ATOM    613  CG2 ILE    78      -0.763   9.475  27.330  1.00 16.83      1LZG 720
+ATOM    614  CD1 ILE    78       0.697  12.052  26.208  1.00 18.29      1LZG 721
+ATOM    615  N   PRO    79       3.335   8.354  28.085  1.00 13.44      1LZG 722
+ATOM    616  CA  PRO    79       4.721   8.345  27.599  1.00 12.43      1LZG 723
+ATOM    617  C   PRO    79       4.717   9.305  26.385  1.00 11.68      1LZG 724
+ATOM    618  O   PRO    79       3.769   9.351  25.554  1.00 10.81      1LZG 725
+ATOM    619  CB  PRO    79       4.958   6.929  27.174  1.00 13.13      1LZG 726
+ATOM    620  CG  PRO    79       3.616   6.273  27.083  1.00 13.93      1LZG 727
+ATOM    621  CD  PRO    79       2.596   7.118  27.796  1.00 12.70      1LZG 728
+ATOM    622  N   CYS    80       5.766  10.098  26.252  1.00 10.03      1LZG 729
+ATOM    623  CA  CYS    80       5.828  11.065  25.120  1.00  8.37      1LZG 730
+ATOM    624  C   CYS    80       5.719  10.360  23.778  1.00  9.35      1LZG 731
+ATOM    625  O   CYS    80       5.187  10.959  22.850  1.00  9.91      1LZG 732
+ATOM    626  CB  CYS    80       7.096  11.888  25.235  1.00  7.29      1LZG 733
+ATOM    627  SG  CYS    80       7.167  12.861  26.754  1.00  9.03      1LZG 734
+ATOM    628  N   SER    81       6.195   9.151  23.640  1.00 10.61      1LZG 735
+ATOM    629  CA  SER    81       6.150   8.387  22.363  1.00 12.71      1LZG 736
+ATOM    630  C   SER    81       4.726   8.223  21.845  1.00 13.08      1LZG 737
+ATOM    631  O   SER    81       4.527   8.208  20.606  1.00 12.11      1LZG 738
+ATOM    632  CB  SER    81       6.912   7.085  22.483  1.00 12.99      1LZG 739
+ATOM    633  OG  SER    81       6.162   6.210  23.331  1.00 14.97      1LZG 740
+ATOM    634  N   ALA    82       3.774   8.197  22.758  1.00 14.04      1LZG 741
+ATOM    635  CA  ALA    82       2.337   8.139  22.389  1.00 15.34      1LZG 742
+ATOM    636  C   ALA    82       1.927   9.337  21.523  1.00 14.76      1LZG 743
+ATOM    637  O   ALA    82       0.956   9.310  20.753  1.00 16.36      1LZG 744
+ATOM    638  CB  ALA    82       1.406   8.136  23.604  1.00 14.65      1LZG 745
+ATOM    639  N   LEU    83       2.653  10.443  21.650  1.00 15.88      1LZG 746
+ATOM    640  CA  LEU    83       2.355  11.673  20.881  1.00 14.82      1LZG 747
+ATOM    641  C   LEU    83       2.897  11.635  19.455  1.00 14.72      1LZG 748
+ATOM    642  O   LEU    83       2.599  12.621  18.755  1.00 15.65      1LZG 749
+ATOM    643  CB  LEU    83       2.905  12.897  21.642  1.00 13.81      1LZG 750
+ATOM    644  CG  LEU    83       2.466  13.090  23.089  1.00 14.34      1LZG 751
+ATOM    645  CD1 LEU    83       3.160  14.275  23.761  1.00 11.94      1LZG 752
+ATOM    646  CD2 LEU    83       0.953  13.251  23.091  1.00 14.80      1LZG 753
+ATOM    647  N   LEU    84       3.596  10.614  19.041  1.00 13.63      1LZG 754
+ATOM    648  CA  LEU    84       4.206  10.481  17.731  1.00 14.67      1LZG 755
+ATOM    649  C   LEU    84       3.452   9.621  16.741  1.00 15.60      1LZG 756
+ATOM    650  O   LEU    84       3.769   9.505  15.539  1.00 16.84      1LZG 757
+ATOM    651  CB  LEU    84       5.605   9.865  17.990  1.00 14.36      1LZG 758
+ATOM    652  CG  LEU    84       6.563  10.729  18.806  1.00 15.75      1LZG 759
+ATOM    653  CD1 LEU    84       7.985  10.177  18.767  1.00 14.88      1LZG 760
+ATOM    654  CD2 LEU    84       6.587  12.158  18.241  1.00 14.07      1LZG 761
+ATOM    655  N   SER    85       2.454   8.971  17.271  1.00 16.04      1LZG 762
+ATOM    656  CA  SER    85       1.580   8.044  16.520  1.00 17.45      1LZG 763
+ATOM    657  C   SER    85       0.839   8.663  15.363  1.00 17.37      1LZG 764
+ATOM    658  O   SER    85       0.557   9.883  15.320  1.00 18.38      1LZG 765
+ATOM    659  CB  SER    85       0.640   7.490  17.608  1.00 17.41      1LZG 766
+ATOM    660  OG  SER    85      -0.552   7.072  16.990  1.00 20.42      1LZG 767
+ATOM    661  N   SER    86       0.465   7.859  14.392  1.00 16.82      1LZG 768
+ATOM    662  CA  SER    86      -0.291   8.319  13.222  1.00 19.07      1LZG 769
+ATOM    663  C   SER    86      -1.711   8.714  13.605  1.00 18.30      1LZG 770
+ATOM    664  O   SER    86      -2.455   9.368  12.851  1.00 19.33      1LZG 771
+ATOM    665  CB  SER    86      -0.259   7.230  12.141  1.00 20.12      1LZG 772
+ATOM    666  OG  SER    86      -0.744   5.990  12.737  1.00 25.07      1LZG 773
+ATOM    667  N   ASP    87      -2.147   8.234  14.728  1.00 18.62      1LZG 774
+ATOM    668  CA  ASP    87      -3.484   8.472  15.317  1.00 18.22      1LZG 775
+ATOM    669  C   ASP    87      -3.299   9.644  16.285  1.00 17.57      1LZG 776
+ATOM    670  O   ASP    87      -2.500   9.500  17.220  1.00 17.00      1LZG 777
+ATOM    671  CB  ASP    87      -3.945   7.213  16.017  1.00 20.53      1LZG 778
+ATOM    672  CG  ASP    87      -5.214   7.340  16.821  1.00 24.02      1LZG 779
+ATOM    673  OD1 ASP    87      -5.726   8.392  17.215  1.00 24.13      1LZG 780
+ATOM    674  OD2 ASP    87      -5.757   6.217  17.060  1.00 27.52      1LZG 781
+ATOM    675  N   ILE    88      -4.007  10.735  16.031  1.00 16.79      1LZG 782
+ATOM    676  CA  ILE    88      -3.817  11.933  16.876  1.00 14.59      1LZG 783
+ATOM    677  C   ILE    88      -4.625  11.974  18.128  1.00 13.06      1LZG 784
+ATOM    678  O   ILE    88      -4.595  13.066  18.755  1.00 13.88      1LZG 785
+ATOM    679  CB  ILE    88      -4.004  13.251  16.024  1.00 13.34      1LZG 786
+ATOM    680  CG1 ILE    88      -5.550  13.466  15.830  1.00 14.64      1LZG 787
+ATOM    681  CG2 ILE    88      -3.195  13.298  14.705  1.00 13.44      1LZG 788
+ATOM    682  CD1 ILE    88      -5.810  14.891  15.212  1.00 16.28      1LZG 789
+ATOM    683  N   THR    89      -5.331  10.929  18.525  1.00 13.61      1LZG 790
+ATOM    684  CA  THR    89      -6.109  10.998  19.773  1.00 12.72      1LZG 791
+ATOM    685  C   THR    89      -5.327  11.419  21.012  1.00 13.05      1LZG 792
+ATOM    686  O   THR    89      -5.787  12.309  21.766  1.00 13.58      1LZG 793
+ATOM    687  CB  THR    89      -6.894   9.661  20.104  1.00 12.09      1LZG 794
+ATOM    688  OG1 THR    89      -7.571   9.279  18.897  1.00 13.64      1LZG 795
+ATOM    689  CG2 THR    89      -7.843   9.848  21.298  1.00 11.40      1LZG 796
+ATOM    690  N   ALA    90      -4.171  10.829  21.273  1.00 12.35      1LZG 797
+ATOM    691  CA  ALA    90      -3.426  11.222  22.493  1.00 13.09      1LZG 798
+ATOM    692  C   ALA    90      -2.992  12.676  22.419  1.00 12.21      1LZG 799
+ATOM    693  O   ALA    90      -3.084  13.374  23.463  1.00 12.59      1LZG 800
+ATOM    694  CB  ALA    90      -2.234  10.297  22.752  1.00 12.00      1LZG 801
+ATOM    695  N   SER    91      -2.523  13.122  21.279  1.00 10.88      1LZG 802
+ATOM    696  CA  SER    91      -2.057  14.503  21.118  1.00 10.40      1LZG 803
+ATOM    697  C   SER    91      -3.251  15.432  21.373  1.00 11.01      1LZG 804
+ATOM    698  O   SER    91      -3.054  16.494  22.016  1.00 11.17      1LZG 805
+ATOM    699  CB  SER    91      -1.467  14.802  19.756  1.00 11.00      1LZG 806
+ATOM    700  OG  SER    91      -0.103  14.478  19.633  1.00 13.68      1LZG 807
+ATOM    701  N   VAL    92      -4.414  15.036  20.873  1.00 11.30      1LZG 808
+ATOM    702  CA  VAL    92      -5.605  15.905  21.098  1.00 11.29      1LZG 809
+ATOM    703  C   VAL    92      -6.057  15.941  22.548  1.00 13.10      1LZG 810
+ATOM    704  O   VAL    92      -6.376  17.040  23.102  1.00 11.48      1LZG 811
+ATOM    705  CB  VAL    92      -6.738  15.531  20.118  1.00 13.09      1LZG 812
+ATOM    706  CG1 VAL    92      -8.042  16.286  20.433  1.00 12.90      1LZG 813
+ATOM    707  CG2 VAL    92      -6.341  15.780  18.669  1.00 11.09      1LZG 814
+ATOM    708  N   ASN    93      -6.117  14.774  23.201  1.00 14.30      1LZG 815
+ATOM    709  CA  ASN    93      -6.542  14.684  24.606  1.00 15.05      1LZG 816
+ATOM    710  C   ASN    93      -5.628  15.540  25.487  1.00 14.11      1LZG 817
+ATOM    711  O   ASN    93      -6.093  16.231  26.422  1.00 13.59      1LZG 818
+ATOM    712  CB  ASN    93      -6.712  13.240  25.089  1.00 18.61      1LZG 819
+ATOM    713  CG  ASN    93      -7.819  12.532  24.323  1.00 22.23      1LZG 820
+ATOM    714  OD1 ASN    93      -8.684  13.190  23.752  1.00 24.48      1LZG 821
+ATOM    715  ND2 ASN    93      -7.761  11.181  24.313  1.00 26.64      1LZG 822
+ATOM    716  N   CYS    94      -4.344  15.425  25.175  1.00 11.36      1LZG 823
+ATOM    717  CA  CYS    94      -3.363  16.244  25.918  1.00 10.81      1LZG 824
+ATOM    718  C   CYS    94      -3.504  17.725  25.603  1.00  9.47      1LZG 825
+ATOM    719  O   CYS    94      -3.424  18.563  26.533  1.00  8.44      1LZG 826
+ATOM    720  CB  CYS    94      -1.945  15.661  25.732  1.00  8.25      1LZG 827
+ATOM    721  SG  CYS    94      -0.771  16.546  26.799  1.00 12.93      1LZG 828
+ATOM    722  N   ALA    95      -3.708  18.137  24.365  1.00  9.42      1LZG 829
+ATOM    723  CA  ALA    95      -3.859  19.549  23.996  1.00  9.54      1LZG 830
+ATOM    724  C   ALA    95      -5.032  20.218  24.731  1.00 10.33      1LZG 831
+ATOM    725  O   ALA    95      -5.007  21.393  25.183  1.00 11.04      1LZG 832
+ATOM    726  CB  ALA    95      -3.951  19.663  22.479  1.00  8.54      1LZG 833
+ATOM    727  N   LYS    96      -6.140  19.474  24.845  1.00 11.21      1LZG 834
+ATOM    728  CA  LYS    96      -7.331  19.948  25.549  1.00 11.55      1LZG 835
+ATOM    729  C   LYS    96      -6.996  20.338  26.976  1.00 12.80      1LZG 836
+ATOM    730  O   LYS    96      -7.560  21.285  27.542  1.00 14.07      1LZG 837
+ATOM    731  CB  LYS    96      -8.381  18.837  25.576  1.00 12.75      1LZG 838
+ATOM    732  CG  LYS    96      -9.132  18.845  24.220  1.00 12.58      1LZG 839
+ATOM    733  CD  LYS    96     -10.092  17.671  24.161  1.00 12.86      1LZG 840
+ATOM    734  CE  LYS    96     -11.144  17.947  23.116  1.00 14.53      1LZG 841
+ATOM    735  NZ  LYS    96     -11.865  16.685  22.789  1.00 13.71      1LZG 842
+ATOM    736  N   LYS    97      -6.097  19.603  27.589  1.00 13.37      1LZG 843
+ATOM    737  CA  LYS    97      -5.695  19.883  28.995  1.00 13.65      1LZG 844
+ATOM    738  C   LYS    97      -4.823  21.119  29.068  1.00 11.82      1LZG 845
+ATOM    739  O   LYS    97      -4.953  22.003  29.923  1.00 11.34      1LZG 846
+ATOM    740  CB  LYS    97      -4.951  18.691  29.558  1.00 15.99      1LZG 847
+ATOM    741  CG  LYS    97      -5.805  17.417  29.564  1.00 22.78      1LZG 848
+ATOM    742  CD  LYS    97      -5.221  16.442  30.578  1.00 26.25      1LZG 849
+ATOM    743  CE  LYS    97      -5.628  14.999  30.382  1.00 29.00      1LZG 850
+ATOM    744  NZ  LYS    97      -5.167  14.228  31.602  1.00 31.92      1LZG 851
+ATOM    745  N   ILE    98      -3.872  21.185  28.137  1.00 10.77      1LZG 852
+ATOM    746  CA  ILE    98      -2.947  22.324  28.061  1.00 10.64      1LZG 853
+ATOM    747  C   ILE    98      -3.665  23.649  27.877  1.00 11.55      1LZG 854
+ATOM    748  O   ILE    98      -3.358  24.625  28.583  1.00 11.06      1LZG 855
+ATOM    749  CB  ILE    98      -1.907  22.046  26.892  1.00 11.40      1LZG 856
+ATOM    750  CG1 ILE    98      -1.223  20.687  27.166  1.00 10.03      1LZG 857
+ATOM    751  CG2 ILE    98      -0.894  23.217  26.711  1.00  8.84      1LZG 858
+ATOM    752  CD1 ILE    98      -0.161  20.285  26.138  1.00 11.92      1LZG 859
+ATOM    753  N   VAL    99      -4.552  23.735  26.909  1.00 11.77      1LZG 860
+ATOM    754  CA  VAL    99      -5.334  24.922  26.529  1.00 12.75      1LZG 861
+ATOM    755  C   VAL    99      -6.258  25.376  27.660  1.00 15.00      1LZG 862
+ATOM    756  O   VAL    99      -6.623  26.547  27.603  1.00 15.96      1LZG 863
+ATOM    757  CB  VAL    99      -6.059  24.782  25.173  1.00 12.37      1LZG 864
+ATOM    758  CG1 VAL    99      -7.322  23.916  25.112  1.00 11.05      1LZG 865
+ATOM    759  CG2 VAL    99      -6.358  26.124  24.499  1.00 12.81      1LZG 866
+ATOM    760  N   SER   100      -6.583  24.499  28.595  1.00 14.14      1LZG 867
+ATOM    761  CA  SER   100      -7.435  24.802  29.724  1.00 16.63      1LZG 868
+ATOM    762  C   SER   100      -6.613  25.214  30.968  1.00 18.24      1LZG 869
+ATOM    763  O   SER   100      -7.178  25.507  32.015  1.00 17.86      1LZG 870
+ATOM    764  CB  SER   100      -8.190  23.531  30.114  1.00 16.09      1LZG 871
+ATOM    765  OG  SER   100      -8.945  22.974  29.076  1.00 17.13      1LZG 872
+ATOM    766  N   ASP   101      -5.294  25.219  30.821  1.00 19.98      1LZG 873
+ATOM    767  CA  ASP   101      -4.371  25.467  31.918  1.00 22.18      1LZG 874
+ATOM    768  C   ASP   101      -4.283  26.897  32.359  1.00 23.02      1LZG 875
+ATOM    769  O   ASP   101      -3.663  27.089  33.438  1.00 24.76      1LZG 876
+ATOM    770  CB  ASP   101      -3.043  24.737  31.668  1.00 23.28      1LZG 877
+ATOM    771  CG  ASP   101      -2.258  24.522  32.957  1.00 25.61      1LZG 878
+ATOM    772  OD1 ASP   101      -2.666  23.838  33.907  1.00 26.08      1LZG 879
+ATOM    773  OD2 ASP   101      -1.156  25.110  33.058  1.00 26.36      1LZG 880
+ATOM    774  N   GLY   102      -4.837  27.853  31.644  1.00 23.35      1LZG 881
+ATOM    775  CA  GLY   102      -4.745  29.261  32.139  1.00 21.43      1LZG 882
+ATOM    776  C   GLY   102      -4.141  30.179  31.083  1.00 20.54      1LZG 883
+ATOM    777  O   GLY   102      -4.579  31.360  31.070  1.00 20.76      1LZG 884
+ATOM    778  N   ASN   103      -3.195  29.689  30.270  1.00 18.63      1LZG 885
+ATOM    779  CA  ASN   103      -2.596  30.562  29.222  1.00 16.21      1LZG 886
+ATOM    780  C   ASN   103      -3.251  30.421  27.859  1.00 13.03      1LZG 887
+ATOM    781  O   ASN   103      -2.859  31.095  26.907  1.00 12.24      1LZG 888
+ATOM    782  CB  ASN   103      -1.061  30.424  29.191  1.00 19.82      1LZG 889
+ATOM    783  CG  ASN   103      -0.496  31.116  30.435  1.00 24.90      1LZG 890
+ATOM    784  OD1 ASN   103      -1.208  31.868  31.136  1.00 27.16      1LZG 891
+ATOM    785  ND2 ASN   103       0.763  30.877  30.797  1.00 26.95      1LZG 892
+ATOM    786  N   GLY   104      -4.227  29.588  27.697  1.00 10.63      1LZG 893
+ATOM    787  CA  GLY   104      -4.911  29.381  26.412  1.00  9.83      1LZG 894
+ATOM    788  C   GLY   104      -3.834  28.810  25.468  1.00  9.19      1LZG 895
+ATOM    789  O   GLY   104      -2.917  28.100  25.890  1.00  9.23      1LZG 896
+ATOM    790  N   MET   105      -3.993  29.216  24.205  1.00  9.61      1LZG 897
+ATOM    791  CA  MET   105      -3.098  28.770  23.109  1.00  7.97      1LZG 898
+ATOM    792  C   MET   105      -1.741  29.411  23.136  1.00  8.48      1LZG 899
+ATOM    793  O   MET   105      -0.826  29.049  22.401  1.00  7.61      1LZG 900
+ATOM    794  CB  MET   105      -3.856  28.873  21.770  1.00  7.01      1LZG 901
+ATOM    795  CG  MET   105      -4.760  27.693  21.566  1.00  8.72      1LZG 902
+ATOM    796  SD  MET   105      -5.339  27.466  19.796  1.00 10.61      1LZG 903
+ATOM    797  CE  MET   105      -3.895  26.618  19.137  1.00  7.63      1LZG 904
+ATOM    798  N   ASN   106      -1.492  30.378  24.009  1.00  9.67      1LZG 905
+ATOM    799  CA  ASN   106      -0.196  31.047  24.177  1.00  9.27      1LZG 906
+ATOM    800  C   ASN   106       0.864  30.014  24.590  1.00  9.15      1LZG 907
+ATOM    801  O   ASN   106       2.061  30.267  24.410  1.00 10.52      1LZG 908
+ATOM    802  CB  ASN   106      -0.313  32.204  25.182  1.00  9.88      1LZG 909
+ATOM    803  CG  ASN   106      -1.227  33.316  24.615  1.00  9.04      1LZG 910
+ATOM    804  OD1 ASN   106      -0.895  33.937  23.601  1.00  9.01      1LZG 911
+ATOM    805  ND2 ASN   106      -2.339  33.550  25.319  1.00  8.59      1LZG 912
+ATOM    806  N   ALA   107       0.397  28.885  25.071  1.00  8.38      1LZG 913
+ATOM    807  CA  ALA   107       1.258  27.750  25.461  1.00  7.95      1LZG 914
+ATOM    808  C   ALA   107       2.022  27.267  24.227  1.00  9.06      1LZG 915
+ATOM    809  O   ALA   107       3.056  26.598  24.338  1.00 10.08      1LZG 916
+ATOM    810  CB  ALA   107       0.402  26.625  26.008  1.00  9.69      1LZG 917
+ATOM    811  N   TRP   108       1.482  27.551  23.039  1.00  8.48      1LZG 918
+ATOM    812  CA  TRP   108       2.188  27.148  21.799  1.00  9.45      1LZG 919
+ATOM    813  C   TRP   108       2.883  28.400  21.269  1.00  9.64      1LZG 920
+ATOM    814  O   TRP   108       2.191  29.309  20.743  1.00 11.35      1LZG 921
+ATOM    815  CB  TRP   108       1.241  26.499  20.788  1.00  8.60      1LZG 922
+ATOM    816  CG  TRP   108       0.855  25.104  21.166  1.00  8.22      1LZG 923
+ATOM    817  CD1 TRP   108       1.562  23.963  20.832  1.00  8.47      1LZG 924
+ATOM    818  CD2 TRP   108      -0.312  24.660  21.873  1.00  8.21      1LZG 925
+ATOM    819  NE1 TRP   108       0.914  22.863  21.300  1.00  7.18      1LZG 926
+ATOM    820  CE2 TRP   108      -0.230  23.252  21.962  1.00  7.95      1LZG 927
+ATOM    821  CE3 TRP   108      -1.376  25.335  22.443  1.00  8.72      1LZG 928
+ATOM    822  CZ2 TRP   108      -1.191  22.486  22.604  1.00  8.16      1LZG 929
+ATOM    823  CZ3 TRP   108      -2.344  24.564  23.114  1.00 10.35      1LZG 930
+ATOM    824  CH2 TRP   108      -2.257  23.175  23.191  1.00  8.13      1LZG 931
+ATOM    825  N   VAL   109       4.195  28.427  21.381  1.00 10.43      1LZG 932
+ATOM    826  CA  VAL   109       4.975  29.598  20.897  1.00 11.04      1LZG 933
+ATOM    827  C   VAL   109       4.756  29.876  19.405  1.00 10.54      1LZG 934
+ATOM    828  O   VAL   109       4.691  31.083  19.043  1.00  9.49      1LZG 935
+ATOM    829  CB  VAL   109       6.432  29.430  21.350  1.00 12.13      1LZG 936
+ATOM    830  CG1 VAL   109       7.024  28.289  20.578  1.00 15.13      1LZG 937
+ATOM    831  CG2 VAL   109       7.269  30.683  21.071  1.00 14.58      1LZG 938
+ATOM    832  N   ALA   110       4.637  28.880  18.521  1.00  9.76      1LZG 939
+ATOM    833  CA  ALA   110       4.418  29.143  17.091  1.00  8.90      1LZG 940
+ATOM    834  C   ALA   110       3.029  29.765  16.883  1.00  9.77      1LZG 941
+ATOM    835  O   ALA   110       2.833  30.588  15.968  1.00  9.89      1LZG 942
+ATOM    836  CB  ALA   110       4.650  27.957  16.172  1.00  6.83      1LZG 943
+ATOM    837  N   TRP   111       2.055  29.369  17.692  1.00  9.06      1LZG 944
+ATOM    838  CA  TRP   111       0.707  29.901  17.646  1.00  9.11      1LZG 945
+ATOM    839  C   TRP   111       0.755  31.398  18.017  1.00  8.45      1LZG 946
+ATOM    840  O   TRP   111       0.153  32.208  17.292  1.00  9.38      1LZG 947
+ATOM    841  CB  TRP   111      -0.357  29.192  18.529  1.00  6.72      1LZG 948
+ATOM    842  CG  TRP   111      -1.688  29.845  18.450  1.00  7.67      1LZG 949
+ATOM    843  CD1 TRP   111      -2.616  29.642  17.459  1.00  7.66      1LZG 950
+ATOM    844  CD2 TRP   111      -2.271  30.837  19.315  1.00  7.46      1LZG 951
+ATOM    845  NE1 TRP   111      -3.717  30.436  17.686  1.00  7.52      1LZG 952
+ATOM    846  CE2 TRP   111      -3.516  31.182  18.805  1.00  5.99      1LZG 953
+ATOM    847  CE3 TRP   111      -1.820  31.457  20.513  1.00  8.11      1LZG 954
+ATOM    848  CZ2 TRP   111      -4.359  32.074  19.431  1.00  7.64      1LZG 955
+ATOM    849  CZ3 TRP   111      -2.654  32.354  21.143  1.00  5.00      1LZG 956
+ATOM    850  CH2 TRP   111      -3.901  32.705  20.610  1.00  6.29      1LZG 957
+ATOM    851  N   ARG   112       1.396  31.701  19.129  1.00  7.70      1LZG 958
+ATOM    852  CA  ARG   112       1.417  33.113  19.528  1.00 10.90      1LZG 959
+ATOM    853  C   ARG   112       2.121  34.000  18.467  1.00 10.73      1LZG 960
+ATOM    854  O   ARG   112       1.640  35.107  18.259  1.00  8.57      1LZG 961
+ATOM    855  CB  ARG   112       2.202  33.498  20.760  1.00 12.51      1LZG 962
+ATOM    856  CG  ARG   112       2.228  32.675  22.013  1.00 19.17      1LZG 963
+ATOM    857  CD  ARG   112       2.661  33.731  23.046  1.00 21.43      1LZG 964
+ATOM    858  NE  ARG   112       4.090  33.986  22.824  1.00 24.82      1LZG 965
+ATOM    859  CZ  ARG   112       4.983  33.058  23.228  1.00 26.03      1LZG 966
+ATOM    860  NH1 ARG   112       4.550  31.970  23.861  1.00 26.62      1LZG 967
+ATOM    861  NH2 ARG   112       6.269  33.248  22.914  1.00 27.33      1LZG 968
+ATOM    862  N   ASN   113       3.194  33.480  17.889  1.00  9.51      1LZG 969
+ATOM    863  CA  ASN   113       3.977  34.304  16.943  1.00 12.15      1LZG 970
+ATOM    864  C   ASN   113       3.547  34.288  15.507  1.00 12.01      1LZG 971
+ATOM    865  O   ASN   113       3.912  35.242  14.776  1.00 14.11      1LZG 972
+ATOM    866  CB  ASN   113       5.453  33.855  17.067  1.00 11.18      1LZG 973
+ATOM    867  CG  ASN   113       6.070  34.298  18.383  1.00 12.48      1LZG 974
+ATOM    868  OD1 ASN   113       5.677  35.311  18.976  1.00 13.13      1LZG 975
+ATOM    869  ND2 ASN   113       7.075  33.565  18.854  1.00 10.14      1LZG 976
+ATOM    870  N   ARG   114       2.856  33.264  15.066  1.00 11.83      1LZG 977
+ATOM    871  CA  ARG   114       2.499  33.202  13.639  1.00 12.63      1LZG 978
+ATOM    872  C   ARG   114       1.028  33.011  13.385  1.00 12.30      1LZG 979
+ATOM    873  O   ARG   114       0.657  33.168  12.204  1.00 13.79      1LZG 980
+ATOM    874  CB  ARG   114       3.302  32.021  13.023  1.00 11.41      1LZG 981
+ATOM    875  CG  ARG   114       4.778  32.113  13.436  1.00 14.41      1LZG 982
+ATOM    876  CD  ARG   114       5.622  31.016  12.887  1.00 14.47      1LZG 983
+ATOM    877  NE  ARG   114       5.793  31.178  11.426  1.00 14.67      1LZG 984
+ATOM    878  CZ  ARG   114       6.553  30.289  10.786  1.00 15.33      1LZG 985
+ATOM    879  NH1 ARG   114       7.198  29.309  11.421  1.00 13.45      1LZG 986
+ATOM    880  NH2 ARG   114       6.538  30.380   9.461  1.00 14.86      1LZG 987
+ATOM    881  N   CYS   115       0.224  32.694  14.377  1.00 11.12      1LZG 988
+ATOM    882  CA  CYS   115      -1.205  32.480  14.139  1.00 10.07      1LZG 989
+ATOM    883  C   CYS   115      -2.095  33.511  14.830  1.00 11.35      1LZG 990
+ATOM    884  O   CYS   115      -3.077  33.972  14.243  1.00 11.57      1LZG 991
+ATOM    885  CB  CYS   115      -1.661  31.087  14.587  1.00  9.40      1LZG 992
+ATOM    886  SG  CYS   115      -0.661  29.822  13.805  1.00  8.93      1LZG 993
+ATOM    887  N   LYS   116      -1.713  33.783  16.063  1.00 10.87      1LZG 994
+ATOM    888  CA  LYS   116      -2.456  34.730  16.883  1.00 10.79      1LZG 995
+ATOM    889  C   LYS   116      -2.594  36.036  16.088  1.00 11.78      1LZG 996
+ATOM    890  O   LYS   116      -1.652  36.609  15.532  1.00 11.58      1LZG 997
+ATOM    891  CB  LYS   116      -1.782  34.909  18.259  1.00  7.57      1LZG 998
+ATOM    892  CG  LYS   116      -2.711  35.648  19.273  1.00  6.99      1LZG 999
+ATOM    893  CD  LYS   116      -1.873  35.917  20.546  1.00  6.58      1LZG1000
+ATOM    894  CE  LYS   116      -2.711  36.472  21.711  1.00  7.78      1LZG1001
+ATOM    895  NZ  LYS   116      -1.748  36.629  22.857  1.00  8.92      1LZG1002
+ATOM    896  N   GLY   117      -3.837  36.449  16.078  1.00 14.13      1LZG1003
+ATOM    897  CA  GLY   117      -4.312  37.675  15.434  1.00 16.19      1LZG1004
+ATOM    898  C   GLY   117      -4.329  37.686  13.933  1.00 17.34      1LZG1005
+ATOM    899  O   GLY   117      -4.530  38.778  13.360  1.00 18.82      1LZG1006
+ATOM    900  N   THR   118      -4.110  36.581  13.267  1.00 16.93      1LZG1007
+ATOM    901  CA  THR   118      -4.100  36.498  11.801  1.00 16.43      1LZG1008
+ATOM    902  C   THR   118      -5.437  35.982  11.319  1.00 17.49      1LZG1009
+ATOM    903  O   THR   118      -6.276  35.625  12.174  1.00 18.13      1LZG1010
+ATOM    904  CB  THR   118      -2.877  35.620  11.335  1.00 14.72      1LZG1011
+ATOM    905  OG1 THR   118      -3.230  34.238  11.646  1.00 13.51      1LZG1012
+ATOM    906  CG2 THR   118      -1.570  36.074  11.991  1.00 14.63      1LZG1013
+ATOM    907  N   ASP   119      -5.670  35.899  10.027  1.00 18.89      1LZG1014
+ATOM    908  CA  ASP   119      -6.989  35.372   9.559  1.00 19.95      1LZG1015
+ATOM    909  C   ASP   119      -6.877  33.857   9.527  1.00 19.23      1LZG1016
+ATOM    910  O   ASP   119      -6.636  33.277   8.462  1.00 20.14      1LZG1017
+ATOM    911  CB  ASP   119      -7.341  36.022   8.234  1.00 24.44      1LZG1018
+ATOM    912  CG  ASP   119      -8.647  35.515   7.661  1.00 28.74      1LZG1019
+ATOM    913  OD1 ASP   119      -9.684  35.504   8.359  1.00 31.91      1LZG1020
+ATOM    914  OD2 ASP   119      -8.621  35.120   6.467  1.00 32.09      1LZG1021
+ATOM    915  N   VAL   120      -7.051  33.216  10.656  1.00 17.88      1LZG1022
+ATOM    916  CA  VAL   120      -6.883  31.769  10.779  1.00 16.96      1LZG1023
+ATOM    917  C   VAL   120      -7.895  30.987   9.973  1.00 17.81      1LZG1024
+ATOM    918  O   VAL   120      -7.710  29.786   9.753  1.00 17.78      1LZG1025
+ATOM    919  CB  VAL   120      -6.774  31.360  12.254  1.00 17.29      1LZG1026
+ATOM    920  CG1 VAL   120      -5.532  31.890  12.974  1.00 17.11      1LZG1027
+ATOM    921  CG2 VAL   120      -8.026  31.708  13.032  1.00 17.77      1LZG1028
+ATOM    922  N   GLN   121      -8.940  31.617   9.539  1.00 18.45      1LZG1029
+ATOM    923  CA  GLN   121      -9.990  30.987   8.718  1.00 19.89      1LZG1030
+ATOM    924  C   GLN   121      -9.391  30.392   7.451  1.00 17.17      1LZG1031
+ATOM    925  O   GLN   121      -9.888  29.374   6.937  1.00 16.03      1LZG1032
+ATOM    926  CB  GLN   121     -10.958  32.125   8.347  1.00 25.49      1LZG1033
+ATOM    927  CG  GLN   121     -12.282  31.762   7.735  1.00 32.71      1LZG1034
+ATOM    928  CD  GLN   121     -13.407  32.489   8.480  1.00 37.41      1LZG1035
+ATOM    929  OE1 GLN   121     -13.397  33.735   8.551  1.00 39.50      1LZG1036
+ATOM    930  NE2 GLN   121     -14.313  31.651   9.023  1.00 38.91      1LZG1037
+ATOM    931  N   ALA   122      -8.346  31.032   6.949  1.00 15.80      1LZG1038
+ATOM    932  CA  ALA   122      -7.665  30.624   5.700  1.00 15.27      1LZG1039
+ATOM    933  C   ALA   122      -7.175  29.181   5.731  1.00 15.68      1LZG1040
+ATOM    934  O   ALA   122      -7.117  28.532   4.652  1.00 15.08      1LZG1041
+ATOM    935  CB  ALA   122      -6.476  31.536   5.445  1.00 13.27      1LZG1042
+ATOM    936  N   TRP   123      -6.850  28.723   6.955  1.00 12.80      1LZG1043
+ATOM    937  CA  TRP   123      -6.346  27.353   7.095  1.00 12.95      1LZG1044
+ATOM    938  C   TRP   123      -7.384  26.267   6.875  1.00 12.40      1LZG1045
+ATOM    939  O   TRP   123      -6.999  25.086   6.719  1.00 12.82      1LZG1046
+ATOM    940  CB  TRP   123      -5.634  27.174   8.449  1.00 12.64      1LZG1047
+ATOM    941  CG  TRP   123      -4.452  28.082   8.568  1.00 14.02      1LZG1048
+ATOM    942  CD1 TRP   123      -4.314  29.310   9.147  1.00 14.25      1LZG1049
+ATOM    943  CD2 TRP   123      -3.179  27.754   7.996  1.00 14.27      1LZG1050
+ATOM    944  NE1 TRP   123      -3.021  29.774   9.013  1.00 14.22      1LZG1051
+ATOM    945  CE2 TRP   123      -2.320  28.828   8.285  1.00 15.51      1LZG1052
+ATOM    946  CE3 TRP   123      -2.726  26.630   7.294  1.00 16.30      1LZG1053
+ATOM    947  CZ2 TRP   123      -0.985  28.826   7.878  1.00 16.40      1LZG1054
+ATOM    948  CZ3 TRP   123      -1.420  26.599   6.864  1.00 15.66      1LZG1055
+ATOM    949  CH2 TRP   123      -0.593  27.685   7.170  1.00 18.35      1LZG1056
+ATOM    950  N   ILE   124      -8.642  26.600   6.861  1.00 13.21      1LZG1057
+ATOM    951  CA  ILE   124      -9.701  25.599   6.630  1.00 14.41      1LZG1058
+ATOM    952  C   ILE   124     -10.390  25.844   5.285  1.00 15.55      1LZG1059
+ATOM    953  O   ILE   124     -11.334  25.094   4.944  1.00 15.89      1LZG1060
+ATOM    954  CB  ILE   124     -10.628  25.421   7.845  1.00 15.14      1LZG1061
+ATOM    955  CG1 ILE   124     -11.368  26.741   8.230  1.00 16.66      1LZG1062
+ATOM    956  CG2 ILE   124      -9.922  24.857   9.134  1.00 15.49      1LZG1063
+ATOM    957  CD1 ILE   124     -12.818  26.356   8.732  1.00 19.27      1LZG1064
+ATOM    958  N   ARG   125      -9.939  26.815   4.517  1.00 17.37      1LZG1065
+ATOM    959  CA  ARG   125     -10.516  27.126   3.208  1.00 18.55      1LZG1066
+ATOM    960  C   ARG   125     -10.502  25.900   2.317  1.00 18.55      1LZG1067
+ATOM    961  O   ARG   125      -9.561  25.137   2.275  1.00 18.78      1LZG1068
+ATOM    962  CB  ARG   125      -9.828  28.269   2.481  1.00 24.44      1LZG1069
+ATOM    963  CG  ARG   125      -8.468  27.915   1.896  1.00 29.87      1LZG1070
+ATOM    964  CD  ARG   125      -7.726  29.118   1.377  1.00 35.03      1LZG1071
+ATOM    965  NE  ARG   125      -6.439  28.735   0.792  1.00 37.67      1LZG1072
+ATOM    966  CZ  ARG   125      -5.413  28.171   1.432  1.00 39.77      1LZG1073
+ATOM    967  NH1 ARG   125      -5.432  27.872   2.738  1.00 40.20      1LZG1074
+ATOM    968  NH2 ARG   125      -4.285  27.884   0.753  1.00 40.21      1LZG1075
+ATOM    969  N   GLY   126     -11.584  25.707   1.598  1.00 19.67      1LZG1076
+ATOM    970  CA  GLY   126     -11.804  24.616   0.655  1.00 19.07      1LZG1077
+ATOM    971  C   GLY   126     -11.984  23.243   1.256  1.00 19.58      1LZG1078
+ATOM    972  O   GLY   126     -12.125  22.276   0.469  1.00 18.42      1LZG1079
+ATOM    973  N   CYS   127     -11.955  23.120   2.591  1.00 19.80      1LZG1080
+ATOM    974  CA  CYS   127     -12.089  21.793   3.220  1.00 19.74      1LZG1081
+ATOM    975  C   CYS   127     -13.556  21.392   3.342  1.00 21.41      1LZG1082
+ATOM    976  O   CYS   127     -14.419  22.224   3.642  1.00 21.64      1LZG1083
+ATOM    977  CB  CYS   127     -11.391  21.630   4.572  1.00 16.86      1LZG1084
+ATOM    978  SG  CYS   127      -9.664  22.159   4.521  1.00 18.01      1LZG1085
+ATOM    979  N   ARG   128     -13.755  20.119   3.116  1.00 22.25      1LZG1086
+ATOM    980  CA  ARG   128     -15.109  19.544   3.237  1.00 26.05      1LZG1087
+ATOM    981  C   ARG   128     -15.259  19.138   4.698  1.00 26.08      1LZG1088
+ATOM    982  O   ARG   128     -14.703  18.098   5.065  1.00 27.12      1LZG1089
+ATOM    983  CB  ARG   128     -15.260  18.358   2.290  1.00 28.51      1LZG1090
+ATOM    984  CG  ARG   128     -16.721  17.905   2.151  1.00 31.07      1LZG1091
+ATOM    985  CD  ARG   128     -16.882  17.400   0.756  1.00 35.18      1LZG1092
+ATOM    986  NE  ARG   128     -15.873  16.418   0.384  1.00 38.55      1LZG1093
+ATOM    987  CZ  ARG   128     -15.165  16.476  -0.754  1.00 40.01      1LZG1094
+ATOM    988  NH1 ARG   128     -15.267  17.516  -1.580  1.00 41.34      1LZG1095
+ATOM    989  NH2 ARG   128     -14.409  15.435  -1.123  1.00 40.73      1LZG1096
+ATOM    990  N   LEU   129     -15.918  19.958   5.473  1.00 27.82      1LZG1097
+ATOM    991  CA  LEU   129     -16.102  19.695   6.917  1.00 30.68      1LZG1098
+ATOM    992  C   LEU   129     -17.560  19.605   7.371  1.00 33.05      1LZG1099
+ATOM    993  O   LEU   129     -18.386  20.344   6.738  1.00 34.21      1LZG1100
+ATOM    994  CB  LEU   129     -15.341  20.811   7.670  1.00 30.37      1LZG1101
+ATOM    995  CG  LEU   129     -13.889  21.055   7.341  1.00 30.41      1LZG1102
+ATOM    996  CD1 LEU   129     -13.367  22.323   8.011  1.00 30.51      1LZG1103
+ATOM    997  CD2 LEU   129     -13.077  19.820   7.758  1.00 29.78      1LZG1104
+ATOM    998  OXT LEU   129     -17.838  18.853   8.341  1.00 35.97      1LZG1105
+TER     999      LEU   129                                              1LZG1106
+HETATM 1000  C1  NAG   131       4.334  26.495  30.911  1.00 33.56      1LZG1107
+HETATM 1001  C2  NAG   131       4.219  27.870  31.531  1.00 34.29      1LZG1108
+HETATM 1002  C3  NAG   131       3.589  27.834  32.899  1.00 34.83      1LZG1109
+HETATM 1003  C4  NAG   131       2.526  26.794  33.183  1.00 34.18      1LZG1110
+HETATM 1004  C5  NAG   131       2.814  25.483  32.422  1.00 33.39      1LZG1111
+HETATM 1005  C6  NAG   131       1.592  24.559  32.370  1.00 33.66      1LZG1112
+HETATM 1006  C7  NAG   131       5.797  29.661  31.024  1.00 36.99      1LZG1113
+HETATM 1007  C8  NAG   131       7.203  30.192  31.116  1.00 37.41      1LZG1114
+HETATM 1008  N2  NAG   131       5.561  28.480  31.549  1.00 36.21      1LZG1115
+HETATM 1009  O1  NAG   131       4.514  26.707  29.543  1.00 32.48      1LZG1116
+HETATM 1010  O3  NAG   131       2.922  29.118  33.130  1.00 36.10      1LZG1117
+HETATM 1011  O5  NAG   131       3.149  25.752  31.073  1.00 32.35      1LZG1118
+HETATM 1012  O6  NAG   131       0.590  25.196  31.553  1.00 33.66      1LZG1119
+HETATM 1013  O7  NAG   131       4.927  30.342  30.495  1.00 38.23      1LZG1120
+HETATM 1014  C1  NAG   132       6.047  25.051  26.144  1.00 27.82      1LZG1121
+HETATM 1015  C2  NAG   132       4.780  24.368  26.630  1.00 27.55      1LZG1122
+HETATM 1016  C3  NAG   132       4.159  25.190  27.731  1.00 27.55      1LZG1123
+HETATM 1017  C4  NAG   132       5.125  25.583  28.826  1.00 29.59      1LZG1124
+HETATM 1018  C5  NAG   132       6.421  26.158  28.221  1.00 29.60      1LZG1125
+HETATM 1019  C6  NAG   132       7.458  26.390  29.313  1.00 30.46      1LZG1126
+HETATM 1020  C7  NAG   132       3.578  22.933  25.029  1.00 23.60      1LZG1127
+HETATM 1021  C8  NAG   132       2.571  22.864  23.933  1.00 20.77      1LZG1128
+HETATM 1022  N2  NAG   132       3.814  24.127  25.536  1.00 25.62      1LZG1129
+HETATM 1023  O1  NAG   132       6.733  24.240  25.262  1.00 28.08      1LZG1130
+HETATM 1024  O3  NAG   132       3.173  24.420  28.422  1.00 26.78      1LZG1131
+HETATM 1025  O5  NAG   132       6.944  25.295  27.218  1.00 29.90      1LZG1132
+HETATM 1026  O6  NAG   132       7.633  27.814  29.436  1.00 31.24      1LZG1133
+HETATM 1027  O7  NAG   132       4.129  21.898  25.396  1.00 22.73      1LZG1134
+HETATM 1028  O   HOH   140       1.630  16.577  19.780  1.00  8.56      1LZG1135
+HETATM 1029  O   HOH   141      -1.075  11.227  19.232  1.00 11.17      1LZG1136
+HETATM 1030  O   HOH   142     -11.768  17.829   5.307  1.00 35.99      1LZG1137
+HETATM 1031  O   HOH   143       3.749   7.279  10.777  1.00 23.88      1LZG1138
+HETATM 1032  O   HOH   144     -11.335  28.962  11.751  1.00  7.12      1LZG1139
+HETATM 1033  O   HOH   145     -10.574  34.023  10.687  1.00 42.11      1LZG1140
+HETATM 1034  O   HOH   146      -6.813  35.617  15.067  1.00 20.70      1LZG1141
+HETATM 1035  O   HOH   147      -3.321   8.381  19.781  1.00 13.41      1LZG1142
+HETATM 1036  O   HOH   148      13.928  15.215  26.855  1.00 10.93      1LZG1143
+HETATM 1037  O   HOH   149      11.548  12.157  32.999  1.00  6.80      1LZG1144
+HETATM 1038  O   HOH   150      -1.220  20.277   3.132  1.00 35.33      1LZG1145
+HETATM 1039  O   HOH   151      -5.929  16.879   2.803  1.00 15.34      1LZG1146
+HETATM 1040  O   HOH   152       2.765  10.376   5.617  1.00 24.16      1LZG1147
+HETATM 1041  O   HOH   153       5.910  24.795   8.519  1.00 31.33      1LZG1148
+HETATM 1042  O   HOH   154       5.919  10.987   9.545  1.00 12.07      1LZG1149
+HETATM 1043  O   HOH   155      -0.929  39.132  14.062  1.00 32.41      1LZG1150
+HETATM 1044  O   HOH   156       0.869  36.306  15.010  1.00 14.93      1LZG1151
+HETATM 1045  O   HOH   157      11.734  13.496  15.075  1.00 12.02      1LZG1152
+HETATM 1046  O   HOH   158      -6.403  33.888  16.670  1.00 28.13      1LZG1153
+HETATM 1047  O   HOH   159      -0.305  12.185  16.693  1.00 22.95      1LZG1154
+HETATM 1048  O   HOH   160       4.138   6.013  18.761  1.00 38.97      1LZG1155
+HETATM 1049  O   HOH   161      -3.102  12.234  26.148  1.00 29.96      1LZG1156
+HETATM 1050  O   HOH   162      -4.139  13.234  28.322  1.00 22.58      1LZG1157
+HETATM 1051  O   HOH   163       9.899  13.179  31.195  1.00 12.88      1LZG1158
+HETATM 1052  O   HOH   164      10.284   6.252  31.426  1.00 23.23      1LZG1159
+HETATM 1053  O   HOH   165       7.972  14.713  31.911  1.00 13.18      1LZG1160
+HETATM 1054  O   HOH   166       7.730  12.683  33.382  1.00 24.45      1LZG1161
+HETATM 1055  O   HOH   167       7.799  28.175   7.914  1.00 19.58      1LZG1162
+HETATM 1056  O   HOH   168       1.523  33.883   9.614  1.00 16.64      1LZG1163
+HETATM 1057  O   HOH   169       4.071   7.790  13.805  1.00 20.91      1LZG1164
+HETATM 1058  O   HOH   170       7.637  28.779  14.085  1.00 19.24      1LZG1165
+HETATM 1059  O   HOH   171       8.833  23.913  15.498  1.00 28.12      1LZG1166
+HETATM 1060  O   HOH   172       7.933  31.303  16.712  1.00  5.00      1LZG1167
+HETATM 1061  O   HOH   173       1.007  18.285   4.415  1.00 20.21      1LZG1168
+HETATM 1062  O   HOH   174       6.472  29.641   6.354  1.00 24.15      1LZG1169
+HETATM 1063  O   HOH   175      -3.968  32.985   7.089  1.00 36.93      1LZG1170
+HETATM 1064  O   HOH   176      -2.506  32.355   9.481  1.00 22.55      1LZG1171
+HETATM 1065  O   HOH   177       7.178  24.842  11.076  1.00 24.89      1LZG1172
+HETATM 1066  O   HOH   178     -13.969  26.978  11.459  1.00 43.68      1LZG1173
+HETATM 1067  O   HOH   179       1.555  13.956  17.036  1.00 34.14      1LZG1174
+HETATM 1068  O   HOH   180      -5.670  19.392   2.107  1.00 21.69      1LZG1175
+HETATM 1069  O   HOH   181      -0.319  23.324   3.784  1.00 32.84      1LZG1176
+HETATM 1070  O   HOH   182       0.041  32.537   7.826  1.00 34.41      1LZG1177
+HETATM 1071  O   HOH   183     -14.584  15.298  10.977  1.00 27.19      1LZG1178
+HETATM 1072  O   HOH   184       8.537  18.252  10.969  1.00 16.91      1LZG1179
+HETATM 1073  O   HOH   185      -6.775  10.330  14.109  1.00 45.44      1LZG1180
+HETATM 1074  O   HOH   186       1.391   5.206  14.842  1.00 36.78      1LZG1181
+HETATM 1075  O   HOH   187       9.081  22.817  18.536  1.00 20.90      1LZG1182
+HETATM 1076  O   HOH   188      19.007  10.363  25.608  1.00 19.44      1LZG1183
+HETATM 1077  O   HOH   189      -8.300  15.462  27.869  1.00 36.28      1LZG1184
+HETATM 1078  O   HOH   190      -2.434  27.261  28.285  1.00 26.36      1LZG1185
+HETATM 1079  O   HOH   191      -2.376  19.651   1.171  1.00 46.29      1LZG1186
+HETATM 1080  O   HOH   192      -1.256  11.563   4.760  1.00 35.81      1LZG1187
+HETATM 1081  O   HOH   193     -14.494  24.692   4.995  1.00 30.35      1LZG1188
+HETATM 1082  O   HOH   194     -11.916  31.470  12.742  1.00 44.90      1LZG1189
+HETATM 1083  O   HOH   195      -6.508  35.118  19.196  1.00 20.53      1LZG1190
+HETATM 1084  O   HOH   196      14.400  25.722  23.451  1.00 29.96      1LZG1191
+HETATM 1085  O   HOH   197       0.491  26.781  29.862  1.00 31.48      1LZG1192
+HETATM 1086  O   HOH   198      -6.887  28.628  29.506  1.00 35.72      1LZG1193
+HETATM 1087  O   HOH   199       5.336   9.510  34.920  1.00 28.78      1LZG1194
+HETATM 1088  O   HOH   200     -14.875   9.211  16.083  1.00 40.78      1LZG1195
+HETATM 1089  O   HOH   201     -15.983  22.296  20.842  1.00 39.85      1LZG1196
+HETATM 1090  O   HOH   202       0.383  38.372  22.222  1.00 33.75      1LZG1197
+HETATM 1091  O   HOH   203       2.528  28.806  28.844  1.00 40.96      1LZG1198
+HETATM 1092  O   HOH   204      -9.186  18.954  29.499  1.00 45.61      1LZG1199
+HETATM 1093  O   HOH   205      16.870  22.340  33.299  1.00 41.47      1LZG1200
+HETATM 1094  O   HOH   206     -20.663  20.652   7.065  1.00 46.30      1LZG1201
+HETATM 1095  O   HOH   207       8.530  17.721   8.088  1.00 29.90      1LZG1202
+HETATM 1096  O   HOH   208     -14.769  20.180  16.517  1.00 25.20      1LZG1203
+HETATM 1097  O   HOH   209      16.257  18.657  18.137  1.00 30.90      1LZG1204
+HETATM 1098  O   HOH   210      -0.891   7.083  20.667  1.00 32.61      1LZG1205
+HETATM 1099  O   HOH   211       5.224  35.924  21.552  1.00 32.62      1LZG1206
+HETATM 1100  O   HOH   212     -12.008  18.184   2.095  1.00 44.55      1LZG1207
+HETATM 1101  O   HOH   213       7.573  25.458  19.355  1.00 31.64      1LZG1208
+HETATM 1102  O   HOH   214       6.008  23.594  22.596  1.00 29.82      1LZG1209
+HETATM 1103  O   HOH   215       9.002  25.385  23.963  1.00 37.51      1LZG1210
+HETATM 1104  O   HOH   216       5.156  25.658  21.708  1.00 36.02      1LZG1211
+HETATM 1105  O   HOH   217     -14.778  24.232  25.183  1.00 37.98      1LZG1212
+HETATM 1106  O   HOH   218       7.305   6.154  30.107  1.00 34.89      1LZG1213
+HETATM 1107  O   HOH   219       4.869   7.127  30.914  1.00 37.49      1LZG1214
+HETATM 1108  O   HOH   220      -6.787  10.966   7.943  1.00 68.57      1LZG1215
+HETATM 1109  O   HOH   221      -7.708   5.778  19.698  1.00 53.51      1LZG1216
+HETATM 1110  O   HOH   222       3.193  34.093  30.960  1.00 66.96      1LZG1217
+HETATM 1111  O   HOH   223       8.124  20.160  35.464  1.00 60.25      1LZG1218
+HETATM 1112  O   HOH   224      -1.448   6.647  23.303  1.00 52.98      1LZG1219
+CONECT   48   47  978                                                   1LZG1220
+CONECT  238  237  886                                                   1LZG1221
+CONECT  510  509  627                                                   1LZG1222
+CONECT  598  597  721                                                   1LZG1223
+CONECT  627  510  626                                                   1LZG1224
+CONECT  721  598  720                                                   1LZG1225
+CONECT  886  238  885                                                   1LZG1226
+CONECT  978   48  977                                                   1LZG1227
+CONECT 1000 1001 1009 1011                                              1LZG1228
+CONECT 1001 1000 1002 1008                                              1LZG1229
+CONECT 1002 1001 1003 1010                                              1LZG1230
+CONECT 1003 1002 1004                                                   1LZG1231
+CONECT 1004 1003 1005 1011                                              1LZG1232
+CONECT 1005 1004 1012                                                   1LZG1233
+CONECT 1006 1007 1008 1013                                              1LZG1234
+CONECT 1007 1006                                                        1LZG1235
+CONECT 1008 1001 1006                                                   1LZG1236
+CONECT 1009 1000 1017                                                   1LZG1237
+CONECT 1010 1002                                                        1LZG1238
+CONECT 1011 1000 1004                                                   1LZG1239
+CONECT 1012 1005                                                        1LZG1240
+CONECT 1013 1006                                                        1LZG1241
+CONECT 1014 1015 1023 1025                                              1LZG1242
+CONECT 1015 1014 1016 1022                                              1LZG1243
+CONECT 1016 1015 1017 1024                                              1LZG1244
+CONECT 1017 1009 1016 1018                                              1LZG1245
+CONECT 1018 1017 1019 1025                                              1LZG1246
+CONECT 1019 1018 1026                                                   1LZG1247
+CONECT 1020 1021 1022 1027                                              1LZG1248
+CONECT 1021 1020                                                        1LZG1249
+CONECT 1022 1015 1020                                                   1LZG1250
+CONECT 1023 1014                                                        1LZG1251
+CONECT 1024 1016                                                        1LZG1252
+CONECT 1025 1014 1018                                                   1LZG1253
+CONECT 1026 1019                                                        1LZG1254
+CONECT 1027 1020                                                        1LZG1255
+MASTER       48    0    2    4    5   10    0    6 1111    1   36   10  1LZG1256
+END                                                                     1LZG1257

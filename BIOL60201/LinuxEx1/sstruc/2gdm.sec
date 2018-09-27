@@ -1,0 +1,161 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 2gdm.pdb                                                                        
+ 2GDM  OXYGEN TRANSPORT  MOL_ID: 1;  MOL_ID: 1;  
+ Sequence length -  153
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   GLY G  
+    2     2   ALA A  
+    3     3   LEU L  
+    4     4   THR T H
+    5     5   GLU E H
+    6     6   SER S H
+    7     7   GLN Q H
+    8     8   ALA A H
+    9     9   ALA A H
+   10    10   LEU L H
+   11    11   VAL V H
+   12    12   LYS K H
+   13    13   SER S H
+   14    14   SER S H
+   15    15   TRP W H
+   16    16   GLU E H
+   17    17   GLU E H
+   18    18   PHE F H
+   19    19   ASN N H
+   20    20   ALA A H
+   21    21   ASN N H
+   22    22   ILE I H
+   23    23   PRO P H
+   24    24   LYS K H
+   25    25   HIS H H
+   26    26   THR T H
+   27    27   HIS H H
+   28    28   ARG R H
+   29    29   PHE F H
+   30    30   PHE F H
+   31    31   ILE I H
+   32    32   LEU L H
+   33    33   VAL V H
+   34    34   LEU L H
+   35    35   GLU E H
+   36    36   ILE I H
+   37    37   ALA A H
+   38    38   PRO P H
+   39    39   ALA A H
+   40    40   ALA A H
+   41    41   LYS K H
+   42    42   ASP D H
+   43    43   LEU L H
+   44    44   PHE F H
+   45    45   SER S H
+   46    46   PHE F H
+   47    47   LEU L H
+   48    48   LYS K H
+   49    49   GLY G T
+   50    50   THR T T
+   51    51   SER S  
+   52    52   GLU E  
+   53    53   VAL V  
+   54    54   PRO P  
+   55    55   GLN Q  
+   56    56   ASN N  
+   57    57   ASN N H
+   58    58   PRO P H
+   59    59   GLU E H
+   60    60   LEU L H
+   61    61   GLN Q H
+   62    62   ALA A H
+   63    63   HIS H H
+   64    64   ALA A H
+   65    65   GLY G H
+   66    66   LYS K H
+   67    67   VAL V H
+   68    68   PHE F H
+   69    69   LYS K H
+   70    70   LEU L H
+   71    71   VAL V H
+   72    72   TYR Y H
+   73    73   GLU E H
+   74    74   ALA A H
+   75    75   ALA A H
+   76    76   ILE I H
+   77    77   GLN Q H
+   78    78   LEU L H
+   79    79   GLU E H
+   80    80   VAL V H
+   81    81   THR T H
+   82    82   GLY G H
+   83    83   VAL V  
+   84    84   VAL V  
+   85    85   VAL V  
+   86    86   THR T  
+   87    87   ASP D  
+   88    88   ALA A H
+   89    89   THR T H
+   90    90   LEU L H
+   91    91   LYS K H
+   92    92   ASN N H
+   93    93   LEU L H
+   94    94   GLY G H
+   95    95   SER S H
+   96    96   VAL V H
+   97    97   HIS H H
+   98    98   VAL V H
+   99    99   SER S H
+  100   100   LYS K H
+  101   101   GLY G H
+  102   102   VAL V  
+  103   103   ALA A  
+  104   104   ASP D H
+  105   105   ALA A H
+  106   106   HIS H H
+  107   107   PHE F H
+  108   108   PRO P H
+  109   109   VAL V H
+  110   110   VAL V H
+  111   111   LYS K H
+  112   112   GLU E H
+  113   113   ALA A H
+  114   114   ILE I H
+  115   115   LEU L H
+  116   116   LYS K H
+  117   117   THR T H
+  118   118   ILE I H
+  119   119   LYS K H
+  120   120   GLU E H
+  121   121   VAL V H
+  122   122   VAL V H
+  123   123   GLY G H
+  124   124   ALA A T
+  125   125   LYS K T
+  126   126   TRP W T
+  127   127   SER S H
+  128   128   GLU E H
+  129   129   GLU E H
+  130   130   LEU L H
+  131   131   ASN N H
+  132   132   SER S H
+  133   133   ALA A H
+  134   134   TRP W H
+  135   135   THR T H
+  136   136   ILE I H
+  137   137   ALA A H
+  138   138   TYR Y H
+  139   139   ASP D H
+  140   140   GLU E H
+  141   141   LEU L H
+  142   142   ALA A H
+  143   143   ILE I H
+  144   144   VAL V H
+  145   145   ILE I H
+  146   146   LYS K H
+  147   147   LYS K H
+  148   148   GLU E H
+  149   149   MET M H
+  150   150   ASP D H
+  151   151   ASP D H
+  152   152   ALA A H
+  153   153   ALA A  
+ 

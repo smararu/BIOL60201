@@ -1,0 +1,157 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 2lhb.pdb                                                                        
+ 2LHB  OXYGEN TRANSPORT  HEMOGLOBIN V (CYANO,MET)  SEA LAMPREY (PETROMYZON $MARINUS)  
+ Sequence length -  149
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   PRO P  
+    2     2   ILE I  
+    3     3   VAL V  
+    4     4   ASP D  
+    5     5   THR T  
+    6     6   GLY G  
+    7     7   SER S  
+    8     8   VAL V  
+    9     9   ALA A  
+   10    10   PRO P  
+   11    11   LEU L  
+   12    12   SER S  
+   13    13   ALA A H
+   14    14   ALA A H
+   15    15   GLU E H
+   16    16   LYS K H
+   17    17   THR T H
+   18    18   LYS K H
+   19    19   ILE I H
+   20    20   ARG R H
+   21    21   SER S H
+   22    22   ALA A H
+   23    23   TRP W H
+   24    24   ALA A H
+   25    25   PRO P H
+   26    26   VAL V H
+   27    27   TYR Y H
+   28    28   SER S H
+   29    29   THR T  
+   30    30   TYR Y H
+   31    31   GLU E H
+   32    32   THR T H
+   33    33   SER S H
+   34    34   GLY G H
+   35    35   VAL V H
+   36    36   ASP D H
+   37    37   ILE I H
+   38    38   LEU L H
+   39    39   VAL V H
+   40    40   LYS K H
+   41    41   PHE F H
+   42    42   PHE F H
+   43    43   THR T H
+   44    44   SER S H
+   45    45   THR T  
+   46    46   PRO P G
+   47    47   ALA A G
+   48    48   ALA A G
+   49    49   GLN Q G
+   50    50   GLU E G
+   51    51   PHE F G
+   52    52   PHE F  
+   53    53   PRO P  
+   54    54   LYS K  
+   55    55   PHE F  
+   56    56   LYS K  
+   57    57   GLY G  
+   58    58   LEU L  
+   59    59   THR T  
+   60    60   THR T  
+   61    61   ALA A H
+   62    62   ASP D H
+   63    63   GLU E H
+   64    64   LEU L H
+   65    65   LYS K H
+   66    66   LYS K H
+   67    67   SER S  
+   68    68   ALA A H
+   69    69   ASP D H
+   70    70   VAL V H
+   71    71   ARG R H
+   72    72   TRP W H
+   73    73   HIS H H
+   74    74   ALA A H
+   75    75   GLU E H
+   76    76   ARG R H
+   77    77   ILE I H
+   78    78   ILE I H
+   79    79   ASN N H
+   80    80   ALA A H
+   81    81   VAL V H
+   82    82   ASP D H
+   83    83   ASP D H
+   84    84   ALA A H
+   85    85   VAL V H
+   86    86   ALA A H
+   87    87   SER S  
+   88    88   MET M  
+   89    89   ASP D  
+   90    90   ASP D  
+   91    91   THR T H
+   92    92   GLU E H
+   93    93   LYS K H
+   94    94   MET M H
+   95    95   SER S H
+   96    96   MET M H
+   97    97   LYS K H
+   98    98   LEU L H
+   99    99   ARG R H
+  100   100   ASN N H
+  101   101   LEU L H
+  102   102   SER S H
+  103   103   GLY G H
+  104   104   LYS K H
+  105   105   HIS H H
+  106   106   ALA A H
+  107   107   LYS K H
+  108   108   SER S H
+  109   109   PHE F H
+  110   110   GLN Q  
+  111   111   VAL V  
+  112   112   ASP D  
+  113   113   PRO P H
+  114   114   GLU E H
+  115   115   TYR Y H
+  116   116   PHE F H
+  117   117   LYS K H
+  118   118   VAL V H
+  119   119   LEU L H
+  120   120   ALA A H
+  121   121   ALA A H
+  122   122   VAL V H
+  123   123   ILE I H
+  124   124   ALA A H
+  125   125   ASP D H
+  126   126   THR T H
+  127   127   VAL V H
+  128   128   ALA A T
+  129   129   ALA A T
+  130   130   GLY G T
+  131   131   ASP D  
+  132   132   ALA A H
+  133   133   GLY G H
+  134   134   PHE F H
+  135   135   GLU E H
+  136   136   LYS K H
+  137   137   LEU L H
+  138   138   MET M H
+  139   139   SER S H
+  140   140   MET M H
+  141   141   ILE I H
+  142   142   CYS C H
+  143   143   ILE I H
+  144   144   LEU L H
+  145   145   LEU L H
+  146   146   ARG R H
+  147   147   SER S H
+  148   148   ALA A H
+  149   149   TYR Y  
+ 

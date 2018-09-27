@@ -1,0 +1,154 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1myt.pdb                                                                        
+ 1MYT  OXYGEN TRANSPORT  MYOGLOBIN (MET)  YELLOWFIN TUNA (THUNNUS ALBACARES)  
+ Sequence length -  146
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     5   ALA A  
+    2     6   ASP D H
+    3     7   PHE F H
+    4     8   ASP D H
+    5     9   ALA A H
+    6    10   VAL V H
+    7    11   LEU L H
+    8    12   LYS K H
+    9    13   CYS C H
+   10    14   TRP W H
+   11    15   GLY G H
+   12    16   PRO P H
+   13    17   VAL V H
+   14    18   GLU E H
+   15    19   ALA A H
+   16    20   ASP D  
+   17    21   TYR Y H
+   18    22   THR T H
+   19    23   THR T H
+   20    24   MET M H
+   21    25   GLY G H
+   22    26   GLY G H
+   23    27   LEU L H
+   24    28   VAL V H
+   25    29   LEU L H
+   26    30   THR T H
+   27    31   ARG R H
+   28    32   LEU L H
+   29    33   PHE F H
+   30    34   LYS K H
+   31    35   GLU E H
+   32    36   HIS H  
+   33    37   PRO P G
+   34    38   GLU E G
+   35    39   THR T G
+   36    40   GLN Q G
+   37    41   LYS K G
+   38    42   LEU L G
+   39    43   PHE F  
+   40    44   PRO P  
+   41    45   LYS K  
+   42    46   PHE F  
+   43    47   ALA A  
+   44    48   GLY G  
+   45    49   ILE I  
+   46    51   ALA A  
+   47    52   GLN Q  
+   48    53   ALA A  
+   49    54   ASP D  
+   50    55   ILE I  
+   51    56   ALA A  
+   52    57   GLY G  
+   53    58   ASN N  
+   54    59   ALA A  
+   55    60   ALA A H
+   56    61   ILE I H
+   57    62   SER S H
+   58    63   ALA A H
+   59    64   HIS H H
+   60    65   GLY G H
+   61    66   ALA A H
+   62    67   THR T H
+   63    68   VAL V H
+   64    69   LEU L H
+   65    70   LYS K H
+   66    71   LYS K H
+   67    72   LEU L H
+   68    73   GLY G H
+   69    74   GLU E H
+   70    75   LEU L H
+   71    76   LEU L H
+   72    77   LYS K H
+   73    78   ALA A  
+   74    79   LYS K  
+   75    80   GLY G  
+   76    81   SER S  
+   77    82   HIS H  
+   78    83   ALA A  
+   79    84   ALA A  
+   80    85   ILE I H
+   81    86   LEU L H
+   82    87   LYS K H
+   83    88   PRO P H
+   84    89   LEU L H
+   85    90   ALA A H
+   86    91   ASN N H
+   87    92   SER S H
+   88    93   HIS H H
+   89    94   ALA A  
+   90    95   THR T  
+   91    96   LYS K  
+   92    97   HIS H  
+   93    98   LYS K  
+   94    99   ILE I  
+   95   100   PRO P  
+   96   101   ILE I H
+   97   102   ASN N H
+   98   103   ASN N H
+   99   104   PHE F H
+  100   105   LYS K H
+  101   106   LEU L H
+  102   107   ILE I H
+  103   108   SER S H
+  104   109   GLU E H
+  105   110   VAL V H
+  106   111   LEU L H
+  107   112   VAL V H
+  108   113   LYS K H
+  109   114   VAL V H
+  110   115   MET M H
+  111   116   HIS H H
+  112   117   GLU E H
+  113   118   LYS K  
+  114   119   ALA A  
+  115   120   GLY G  
+  116   121   LEU L  
+  117   122   ASP D  
+  118   125   ALA A  
+  119   126   GLY G H
+  120   127   GLY G H
+  121   128   GLN Q H
+  122   129   THR T H
+  123   130   ALA A H
+  124   131   LEU L H
+  125   132   ARG R H
+  126   133   ASN N H
+  127   134   VAL V H
+  128   135   MET M H
+  129   136   GLY G H
+  130   137   ILE I H
+  131   138   ILE I H
+  132   139   ILE I H
+  133   140   ALA A H
+  134   141   ASP D H
+  135   142   LEU L H
+  136   143   GLU E H
+  137   144   ALA A H
+  138   145   ASN N H
+  139   146   TYR Y  
+  140   147   LYS K  
+  141   148   GLU E  
+  142   149   LEU L  
+  143   150   GLY G  
+  144   151   PHE F  
+  145   152   SER S  
+  146   153   GLY G  
+ 

@@ -1,0 +1,154 @@
+ Secondary structure calculation program - copyright by David Keith Smith, 1989
+ 1mba.pdb                                                                        
+ 1MBA  OXYGEN STORAGE  MYOGLOBIN (MET) ($P*H 7.0)  SEA HARE (APLYSIA $LIMACINA)  
+ Sequence length -  146
+             A       A K K                                                                        hydrogen bonding             Ooi's
+ strk chain/ l amino u & S structure   bridge        dihedral angles                     donor    acceptor   donor    acceptor  N  N
+ num  seq.no t acids t S + patterns   partners    phi    psi  omega  alpha kappa   tco to/energy fr/energy to/energy fr/energy  8 14
+    1     1   SER S  
+    2     2   LEU L  
+    3     3   SER S  
+    4     4   ALA A H
+    5     5   ALA A H
+    6     6   GLU E H
+    7     7   ALA A H
+    8     8   ASP D H
+    9     9   LEU L H
+   10    10   ALA A H
+   11    11   GLY G H
+   12    12   LYS K H
+   13    13   SER S H
+   14    14   TRP W H
+   15    15   ALA A H
+   16    16   PRO P H
+   17    17   VAL V H
+   18    18   PHE F H
+   19    19   ALA A H
+   20    20   ASN N  
+   21    21   LYS K H
+   22    22   ASN N H
+   23    23   ALA A H
+   24    24   ASN N H
+   25    25   GLY G H
+   26    26   LEU L H
+   27    27   ASP D H
+   28    28   PHE F H
+   29    29   LEU L H
+   30    30   VAL V H
+   31    31   ALA A H
+   32    32   LEU L H
+   33    33   PHE F H
+   34    34   GLU E H
+   35    35   LYS K H
+   36    36   PHE F  
+   37    37   PRO P G
+   38    38   ASP D G
+   39    39   SER S G
+   40    40   ALA A G
+   41    41   ASN N G
+   42    42   PHE F G
+   43    43   PHE F  
+   44    44   ALA A  
+   45    45   ASP D  
+   46    46   PHE F  
+   47    47   LYS K  
+   48    48   GLY G  
+   49    49   LYS K  
+   50    50   SER S  
+   51    51   VAL V H
+   52    52   ALA A H
+   53    53   ASP D H
+   54    54   ILE I H
+   55    55   LYS K H
+   56    56   ALA A  
+   57    57   SER S  
+   58    58   PRO P  
+   59    59   LYS K H
+   60    60   LEU L H
+   61    61   ARG R H
+   62    62   ASP D H
+   63    63   VAL V H
+   64    64   SER S H
+   65    65   SER S H
+   66    66   ARG R H
+   67    67   ILE I H
+   68    68   PHE F H
+   69    69   THR T H
+   70    70   ARG R H
+   71    71   LEU L H
+   72    72   ASN N H
+   73    73   GLU E H
+   74    74   PHE F H
+   75    75   VAL V H
+   76    76   ASN N H
+   77    77   ASN N  
+   78    78   ALA A  
+   79    79   ALA A  
+   80    80   ASN N  
+   81    81   ALA A H
+   82    82   GLY G H
+   83    83   LYS K H
+   84    84   MET M H
+   85    85   SER S H
+   86    86   ALA A H
+   87    87   MET M H
+   88    88   LEU L H
+   89    89   SER S H
+   90    90   GLN Q H
+   91    91   PHE F H
+   92    92   ALA A H
+   93    93   LYS K H
+   94    94   GLU E H
+   95    95   HIS H H
+   96    96   VAL V H
+   97    97   GLY G H
+   98    98   PHE F  
+   99    99   GLY G  
+  100   100   VAL V  
+  101   101   GLY G  
+  102   102   SER S H
+  103   103   ALA A H
+  104   104   GLN Q H
+  105   105   PHE F H
+  106   106   GLU E H
+  107   107   ASN N H
+  108   108   VAL V H
+  109   109   ARG R H
+  110   110   SER S H
+  111   111   MET M H
+  112   112   PHE F H
+  113   113   PRO P H
+  114   114   GLY G H
+  115   115   PHE F H
+  116   116   VAL V H
+  117   117   ALA A H
+  118   118   SER S H
+  119   119   VAL V  
+  120   120   ALA A  
+  121   121   ALA A  
+  122   122   PRO P  
+  123   123   PRO P  
+  124   124   ALA A  
+  125   125   GLY G  
+  126   126   ALA A H
+  127   127   ASP D H
+  128   128   ALA A H
+  129   129   ALA A H
+  130   130   TRP W H
+  131   131   THR T H
+  132   132   LYS K H
+  133   133   LEU L H
+  134   134   PHE F H
+  135   135   GLY G H
+  136   136   LEU L H
+  137   137   ILE I H
+  138   138   ILE I H
+  139   139   ASP D H
+  140   140   ALA A H
+  141   141   LEU L H
+  142   142   LYS K H
+  143   143   ALA A H
+  144   144   ALA A  
+  145   145   GLY G  
+  146   146   ALA A  
+ 

@@ -1,0 +1,31 @@
+command		- purpose 						- usage					- common options
+________________________________________________________________________________________________________________________________
+ls 		- list directory contents 				- ls /home				- -s -a -l -t
+cat 		- concatenate files and print on the standard output 	- cat data.log 				- 
+head 		- output the first part of files 			- head data.log 			- -20 -30 
+tail 		- output the last part of files 			- tail data.log 			- -20 -f 
+cp 		- copy files and directories 				- cp ../data.log .			- 
+mv 		- move (rename) files 					- mv data.log data_1.log 		- 
+rm 		- remove files or directories 				- rm data.log 				- -i 
+pwd 		- print name of current/working directory 		- pwd 					- 
+mkdir 		- make directories 					- mkdir data 				-
+rmdir 		- remove empty directories 				- rmdir data 				-
+cd 		- Change working directory 				- cd /home/smp/data 			-
+(e)grep 	- print lines matching a pattern 			- grep " CA " data.pdb 			- -v -l 
+wc 		- print the number of bytes, words, and lines in files 	- wc data.txt 				- -l -w 
+more/less 	- file perusal filter for terminal viewing 		- more data.log 			- 
+find 		- search for files in a directory hierarchy 		- find . -name "data.log" -print	- 
+which 		- show full path of commands 				- which ls 				- 
+ln 		- make links between files/directories 			- ln -s /tmp/smp scr00			- -s 
+chmod 		- change file access permissions 			- chmod u+x prog.exe			- 
+file 		- determine file type 					- file manuscript.pdf 			- 
+cut 		- remove sections from each line of files 		- cut -c 40-80 data.dat 		- -d -f 
+sort 		- sort lines of text files 				- sort data.dat 			- -k -o 
+(s)diff 	- find differences between two files 			- diff file.txt file.txt_1		- -s 
+uniq 		- remove duplicate lines from a sorted file 		- uniq data.log 			- -u -c -d 
+df 		- report filesystem disk space usage 			- df /home 				- 
+du 		- estimate file space usage 				- du . 					- -s 
+echo 		- display a line of text/write a variable 		- echo "done" 				- 
+date 		- print or set the system date and time 		- date 					- 
+man 		- an interface to the on-line reference manuals 	- man ls 				- -f -k 
+set 		- Read and write variables 				- set count = 0 			- 
